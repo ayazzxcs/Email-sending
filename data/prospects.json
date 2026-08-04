@@ -9,5 +9,115 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "e1355aa90ac04be3daec",
+    "email": "support@gempages.help",
+    "storeName": "GemPages | Conversion-focused Page Builder for Shopify",
+    "storeUrl": "https://gempages.net",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:23:43.159Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "25ff43109067b6678a08",
+    "email": "hello@webinopoly.com",
+    "storeName": "Shopify Experts Agency | Certified Shopify Plus Partner | Webinopoly",
+    "storeUrl": "https://webinopoly.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:23:51.052Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "3565e735c1b016c9c9c3",
+    "email": "hello@praella.com",
+    "storeName": "Shopify Plus Agency · Praella",
+    "storeUrl": "https://praella.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:24:06.755Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "bb024b3c5b1ccd49e204",
+    "email": "support@nextsky.co",
+    "storeName": "NextSky | Premium Shopify Themes for Ecommerce Brands",
+    "storeUrl": "https://nextsky.co",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:24:24.055Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "dde740950d2cec1962ed",
+    "email": "support@supertails.com",
+    "storeName": "Online Pet Store, Shop Pet Supplies and Products: Supertails",
+    "storeUrl": "https://supertails.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:24:44.129Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "e885200586e10ae8fed2",
+    "email": "contact@henryspets.com",
+    "storeName": "Henry's Pets",
+    "storeUrl": "https://henryspets.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:24:50.466Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "cd61bff8b3bd8a810406",
+    "email": "info@mgroupweb.com",
+    "storeName": "Shopify Development Agency | CRO, Support & Growth | Mgroup",
+    "storeUrl": "https://mgroupweb.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:24:57.279Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "0f2f28db5903c603aa12",
+    "email": "info@nativepet.com",
+    "storeName": "Native Pet Dog Supplements",
+    "storeUrl": "https://nativepet.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:25:05.186Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "e96cb2b76c91320b8412",
+    "email": "support@easyappsecom.com",
+    "storeName": "EasyApps: Shopify Apps for Conversions & Growth",
+    "storeUrl": "https://easyappsecom.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:25:10.775Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "6fa6d5a8ff09f1ebba1b",
+    "email": "info@shopdogandco.com",
+    "storeName": "DOG & CO. | Quality Pet Products, In-Store & Online",
+    "storeUrl": "https://www.shopdogandco.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T17:25:16.175Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
