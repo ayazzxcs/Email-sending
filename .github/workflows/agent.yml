@@ -59,8 +59,9 @@ jobs:
           DAILY_LIMIT: '500'
           BATCH_SIZE: '25'
           DELAY_SECONDS: '45'
-          MAX_QUERIES: '3'
-          MAX_STORES: '20'
+          MAX_QUERIES: '10'
+          MAX_STORES: '60'
+          SEARCH_PAGES: '3'
           EMERGENCY_STOP: ${{ vars.EMERGENCY_STOP }}
 
       - name: Show SearXNG logs on failure
