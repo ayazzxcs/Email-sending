@@ -119,5 +119,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "ac2e42494eacbeec497f",
+    "email": "support@the4.co",
+    "storeName": "The4 – Premium Shopify Themes & Templates for Modern eCommerce – The4 Official Site",
+    "storeUrl": "https://the4.co",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T20:44:43.616Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
