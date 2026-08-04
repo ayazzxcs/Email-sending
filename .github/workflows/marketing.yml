@@ -1,0 +1,36 @@
+name: Quvirl marketing
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 * * * *'
+permissions:
+  contents: write
+concurrency:
+  group: quvirl-marketing
+  cancel-in-progress: false
+jobs:
+  send:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with: {node-version: '22', cache: npm}
+      - run: npm ci
+      - run: npm run check && npm run send
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_SECURE: ${{ secrets.SMTP_SECURE }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          REPLY_TO: ${{ secrets.REPLY_TO }}
+          DAILY_LIMIT: '500'
+          BATCH_SIZE: '25'
+          DELAY_SECONDS: '45'
+          EMERGENCY_STOP: ${{ vars.EMERGENCY_STOP }}
+      - run: |
+          git config user.name quvirl-marketing-bot
+          git config user.email noreply@quvirl.com
+          git add data/
+          git diff --cached --quiet || git commit -m 'Update campaign state'
+          git push
