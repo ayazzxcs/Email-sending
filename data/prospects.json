@@ -130,5 +130,71 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "18ae3908d042436e79f1",
+    "email": "info@ecommercepro.com",
+    "storeName": "Top Shopify Plus Agency | Migration & B2B Experts | Ecommerce Pro",
+    "storeUrl": "https://www.ecommercepro.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T22:22:48.152Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "23156ff2724e51de4980",
+    "email": "marketing@templatemonster.com",
+    "storeName": "Web Templates | HTML5 Website Templates | Web Graphics",
+    "storeUrl": "https://www.templatemonster.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T22:23:55.629Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "cd67c507210ed1b13871",
+    "email": "sales@templatemonster.com",
+    "storeName": "Web Templates | HTML5 Website Templates | Web Graphics",
+    "storeUrl": "https://www.templatemonster.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T22:23:55.629Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "75127f1eb61f8f48b92d",
+    "email": "support@templatemonster.com",
+    "storeName": "Web Templates | HTML5 Website Templates | Web Graphics",
+    "storeUrl": "https://www.templatemonster.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T22:23:55.629Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "65b8b0c846e81f5714e9",
+    "email": "support@emmysbestpets.com",
+    "storeName": "Natural Pet Supplies | Shop Emmy’s Best Pet Products",
+    "storeUrl": "https://emmysbestpets.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T22:23:57.551Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "14d194215e340eadf299",
+    "email": "hello@kingdukes.com",
+    "storeName": "King Duke's Dog & Cat Pet Products for Your Pet's Health & Happiness",
+    "storeUrl": "https://www.kingdukes.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-04T22:24:03.252Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
