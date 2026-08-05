@@ -1,0 +1,19 @@
+{
+  "name": "quvirl-github-agent",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "discover": "node src/discover.js",
+    "draft": "node src/draft.js",
+    "queue": "node src/build-approval-queue.js",
+    "approve": "node src/approve-batch.js",
+    "send": "node src/send.js",
+    "run": "npm run discover && npm run draft && npm run queue && npm run send",
+    "check": "node --check src/discover.js && node --check src/draft.js && node --check src/build-approval-queue.js && node --check src/approve-batch.js && node --check src/send.js"
+  },
+  "dependencies": {
+    "nodemailer": "^7.0.5",
+    "playwright": "^1.54.1"
+  }
+}
