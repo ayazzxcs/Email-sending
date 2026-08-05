@@ -1,0 +1,34 @@
+name: Approve Quvirl prospect batch
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: quvirl-marketing
+  cancel-in-progress: false
+
+jobs:
+  approve:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - name: Approve reviewed queue
+        run: npm run approve
+        env:
+          APPROVE_BATCH: ${{ vars.APPROVE_BATCH }}
+      - name: Save approved contacts
+        run: |
+          git config user.name quvirl-marketing-bot
+          git config user.email noreply@quvirl.com
+          git add data/
+          git diff --cached --quiet || git commit -m 'Approve prospect batch'
+          git pull --rebase
+          git push
