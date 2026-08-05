@@ -253,9 +253,10 @@
     "storeUrl": "https://www.mantrafurnishings.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:46:46.357Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.344Z"
   },
   {
     "id": "b1f4f3c37ca26031ba48",
@@ -264,9 +265,10 @@
     "storeUrl": "https://outofthesandbox.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:46:50.345Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "2fc65c8d65a632fb46bd",
@@ -275,9 +277,10 @@
     "storeUrl": "https://outofthesandbox.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:46:50.345Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "111f563f67dfb6233f01",
@@ -286,9 +289,10 @@
     "storeUrl": "https://dwellhomeco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:46:53.257Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "e70f38b8844464323731",
@@ -297,9 +301,10 @@
     "storeUrl": "https://www.myonlinefashionstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:47:01.658Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "c35b5aacacf340d45221",
@@ -308,9 +313,10 @@
     "storeUrl": "https://webcontrive.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:47:22.175Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "1094498e6586908d1991",
@@ -319,9 +325,10 @@
     "storeUrl": "https://boostheme.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:47:44.550Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "76a1e14ed93620a8df3f",
@@ -330,9 +337,10 @@
     "storeUrl": "https://www.frescosolutions.net",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:48:13.758Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "8a4620b31a9bd3a9c2cb",
@@ -341,9 +349,10 @@
     "storeUrl": "https://solefitnessstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:48:20.311Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "7500fabb44888225a8b9",
@@ -352,9 +361,10 @@
     "storeUrl": "https://merachfit.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:48:46.445Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "9078332fff4e18ae11fa",
@@ -363,9 +373,10 @@
     "storeUrl": "https://vestafitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:48:50.227Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "1e570414d4d66f9bd384",
@@ -374,9 +385,10 @@
     "storeUrl": "https://titan.fitness",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:48:55.033Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "daffa8dcb87a5c3bf809",
@@ -385,9 +397,10 @@
     "storeUrl": "https://www.majorfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:13.229Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "f9799a038b8fa38140c3",
@@ -396,9 +409,10 @@
     "storeUrl": "https://www.majorfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:13.229Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "347908511ca1070a5df5",
@@ -407,9 +421,10 @@
     "storeUrl": "https://lifespanfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:15.795Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "e878503b773a68803fe9",
@@ -418,9 +433,10 @@
     "storeUrl": "https://www.fitnesssuperstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:21.997Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "9c5b81f2cc521d71b846",
@@ -429,9 +445,10 @@
     "storeUrl": "https://www.fitnesssuperstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:21.997Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "799be0859417a13e9060",
@@ -440,9 +457,10 @@
     "storeUrl": "https://www.topfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:28.287Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "fcfeec256a3f87b2b503",
@@ -451,9 +469,10 @@
     "storeUrl": "https://www.topfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:28.287Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "af6a00ce9e1ac8ae31a2",
@@ -462,9 +481,10 @@
     "storeUrl": "https://www.topfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:28.287Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "379fb56039cae32873a5",
@@ -473,9 +493,10 @@
     "storeUrl": "https://www.topfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:28.288Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "597f4447ebedd72c9145",
@@ -484,9 +505,10 @@
     "storeUrl": "https://homefitnesscorp.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:40.935Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "7c32a80b789434540ea1",
@@ -495,9 +517,10 @@
     "storeUrl": "https://homefitnesscorp.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:40.935Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "1a65a54691265577642d",
@@ -506,9 +529,10 @@
     "storeUrl": "https://homefitnesscorp.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:40.935Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "a22d9526f343f1a44621",
@@ -517,9 +541,10 @@
     "storeUrl": "https://1percentfit.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:43.833Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   },
   {
     "id": "4bf7853312fbadf889f6",
@@ -528,8 +553,9 @@
     "storeUrl": "https://1percentfit.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T09:49:43.833Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-05T09:54:00.345Z"
   }
 ]
