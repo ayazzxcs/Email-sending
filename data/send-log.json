@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "prospectId": "6abf0007d58f437f1d4b",
+    "email": "contact@qikify.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:42:56.023Z",
+    "messageId": "<ccd70358-3cb8-b06f-e987-749df19eb25b@quvirl.com>"
+  },
+  {
+    "prospectId": "e1355aa90ac04be3daec",
+    "email": "support@gempages.help",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:43:42.356Z",
+    "messageId": "<eeaf6dd6-6d4a-2357-3ec0-91c84b453462@quvirl.com>"
+  },
+  {
+    "prospectId": "25ff43109067b6678a08",
+    "email": "hello@webinopoly.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:44:28.760Z",
+    "messageId": "<1958cd9c-338f-f1d1-23ec-dce58ba23a76@quvirl.com>"
+  },
+  {
+    "prospectId": "3565e735c1b016c9c9c3",
+    "email": "hello@praella.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:45:15.229Z",
+    "messageId": "<ff6f805a-b09d-3144-4344-a37fbd20d68c@quvirl.com>"
+  },
+  {
+    "prospectId": "bb024b3c5b1ccd49e204",
+    "email": "support@nextsky.co",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:46:01.520Z",
+    "messageId": "<51c4f614-40f5-5bd3-1606-4cd6c9f855dd@quvirl.com>"
+  },
+  {
+    "prospectId": "dde740950d2cec1962ed",
+    "email": "support@supertails.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:46:47.729Z",
+    "messageId": "<87e46404-acc5-ba75-e6dd-29ec5d5d8bb0@quvirl.com>"
+  },
+  {
+    "prospectId": "e885200586e10ae8fed2",
+    "email": "contact@henryspets.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:47:33.965Z",
+    "messageId": "<47674969-6aa8-0f74-e1d5-cc8b89aa7de5@quvirl.com>"
+  },
+  {
+    "prospectId": "cd61bff8b3bd8a810406",
+    "email": "info@mgroupweb.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:48:20.197Z",
+    "messageId": "<2e1de5cf-72d7-7661-af77-1ca4ea613f83@quvirl.com>"
+  },
+  {
+    "prospectId": "0f2f28db5903c603aa12",
+    "email": "info@nativepet.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:49:06.497Z",
+    "messageId": "<c28510f4-a3f6-0fd7-8ec9-cbf258a32e58@quvirl.com>"
+  },
+  {
+    "prospectId": "e96cb2b76c91320b8412",
+    "email": "support@easyappsecom.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:49:52.865Z",
+    "messageId": "<db729c86-ce42-4213-f7b9-57bec2fbd686@quvirl.com>"
+  },
+  {
+    "prospectId": "6fa6d5a8ff09f1ebba1b",
+    "email": "info@shopdogandco.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:50:39.071Z",
+    "messageId": "<4faf9b22-9078-d143-37fd-bd0d8ec5ac75@quvirl.com>"
+  },
+  {
+    "prospectId": "ac2e42494eacbeec497f",
+    "email": "support@the4.co",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:51:25.390Z",
+    "messageId": "<fa5c8f94-4d56-5bb8-1ac5-1877cf5336f1@quvirl.com>"
+  },
+  {
+    "prospectId": "18ae3908d042436e79f1",
+    "email": "info@ecommercepro.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:52:11.663Z",
+    "messageId": "<b3e97144-2645-ca43-b3da-a499324b3f49@quvirl.com>"
+  },
+  {
+    "prospectId": "23156ff2724e51de4980",
+    "email": "marketing@templatemonster.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:52:57.934Z",
+    "messageId": "<0064f910-75ab-e0c2-6288-ffe9c9073a94@quvirl.com>"
+  },
+  {
+    "prospectId": "cd67c507210ed1b13871",
+    "email": "sales@templatemonster.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:53:44.326Z",
+    "messageId": "<3872454a-3414-6f05-d289-15cc42ff6094@quvirl.com>"
+  },
+  {
+    "prospectId": "75127f1eb61f8f48b92d",
+    "email": "support@templatemonster.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:54:30.659Z",
+    "messageId": "<dbdd263f-dffc-5c1b-80b0-be6e6be2f8e0@quvirl.com>"
+  },
+  {
+    "prospectId": "65b8b0c846e81f5714e9",
+    "email": "support@emmysbestpets.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:55:16.972Z",
+    "messageId": "<18b8e333-8d2c-991c-3926-b4e3ca26cdfe@quvirl.com>"
+  },
+  {
+    "prospectId": "14d194215e340eadf299",
+    "email": "hello@kingdukes.com",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:56:03.197Z",
+    "messageId": "<45ec3d81-ad9c-0df0-5176-df33ab78eda7@quvirl.com>"
+  },
+  {
+    "prospectId": "f672792e4935b9629465",
+    "email": "info@ecomheroes.dev",
+    "status": "sent",
+    "sentAt": "2026-08-05T06:56:49.430Z",
+    "messageId": "<711ac8b5-67c0-862a-3a74-7d6bc5e91904@quvirl.com>"
+  }
+]
