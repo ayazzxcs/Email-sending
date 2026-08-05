@@ -1139,5 +1139,27 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "7cf1ccb34d4f2463217c",
+    "email": "info@muttsandco.com",
+    "storeName": "Pet Food & Supplies Near Me Same Day Delivery | Columbus, Ohio",
+    "storeUrl": "https://www.muttsandco.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-05T14:38:32.228Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "a3d6060a9dec233877d8",
+    "email": "hello@competitorsoutlet.com",
+    "storeName": "Gym Equipment Store for Home Gyms, Crossfit Gyms, and Commercial Gyms — Competitors Outlet",
+    "storeUrl": "https://competitorsoutlet.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-05T14:45:01.237Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
