@@ -1161,5 +1161,27 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "7ae156b0a46f63ae2646",
+    "email": "info@28furnitureco.com",
+    "storeName": "28 Furniture Co. A unique furniture + home decor store – 28 FURNITURE CO.",
+    "storeUrl": "https://28furnitureco.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-05T17:11:07.776Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "83e318754daef9203984",
+    "email": "sales@columbiafitness.com",
+    "storeName": "Commercial Fitness Equipment & Home Gym Equipment | Columbia Fitness",
+    "storeUrl": "https://columbiafitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-05T17:13:54.885Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
