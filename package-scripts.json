@@ -1,0 +1,4 @@
+Add these entries inside package.json -> scripts:
+
+"queue": "node src/build-approval-queue.js",
+"approve": "node src/approve-batch.js"
