@@ -1319,9 +1319,10 @@
     "storeUrl": "https://www.langegeneralstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T11:36:47.424Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T15:38:23.045Z"
   },
   {
     "id": "70574e9b15ca0a6178a8",
@@ -1330,9 +1331,10 @@
     "storeUrl": "https://www.langegeneralstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T11:36:47.424Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T15:38:23.045Z"
   },
   {
     "id": "5607fbcdc2513b6e38c7",
@@ -1341,8 +1343,9 @@
     "storeUrl": "https://electriceye.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T12:23:07.340Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T15:38:23.045Z"
   }
 ]
