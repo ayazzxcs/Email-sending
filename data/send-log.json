@@ -670,5 +670,40 @@
     "status": "sent",
     "sentAt": "2026-08-06T03:09:23.530Z",
     "messageId": "<508536ab-cf63-dcbe-0558-05101ea688c7@quvirl.com>"
+  },
+  {
+    "prospectId": "159a0bd0424b9292c0b3",
+    "email": "info@decormarket.com",
+    "status": "sent",
+    "sentAt": "2026-08-06T11:41:02.096Z",
+    "messageId": "<9c0cfa23-eddd-66f9-888e-cb93138e5361@quvirl.com>"
+  },
+  {
+    "prospectId": "a36c06f3a46eb60999aa",
+    "email": "support@omnifitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-06T11:41:48.728Z",
+    "messageId": "<92307fd1-c398-d445-2b0b-bf68e53e836e@quvirl.com>"
+  },
+  {
+    "prospectId": "42b119c91779725f144a",
+    "email": "support@pittsboropetsupply.com",
+    "status": "sent",
+    "sentAt": "2026-08-06T11:42:35.067Z",
+    "messageId": "<b8ca9ed4-6bd4-a231-7187-e955222310bd@quvirl.com>"
+  },
+  {
+    "prospectId": "f16e88ca7546e283a100",
+    "email": "hello@sokoglam.com",
+    "status": "sent",
+    "sentAt": "2026-08-06T11:43:21.076Z",
+    "messageId": "<fa5a19f3-6120-ecf1-c0c6-75e590ef6aff@quvirl.com>"
+  },
+  {
+    "prospectId": "d4a849195064345afa4c",
+    "email": "support@corehomefitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-06T11:44:07.644Z",
+    "messageId": "<f44085a9-1196-0991-e6bb-99e2624a6bde@quvirl.com>"
   }
 ]

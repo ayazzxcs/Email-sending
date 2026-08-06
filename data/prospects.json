@@ -1254,10 +1254,11 @@
     "storeUrl": "https://www.decormarket.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T03:41:24.572Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T10:03:20.648Z"
+    "approvedAt": "2026-08-06T10:03:20.648Z",
+    "lastSentAt": "2026-08-06T11:41:02.096Z"
   },
   {
     "id": "a36c06f3a46eb60999aa",
@@ -1266,10 +1267,11 @@
     "storeUrl": "https://omnifitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T03:44:04.059Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T10:03:20.648Z"
+    "approvedAt": "2026-08-06T10:03:20.648Z",
+    "lastSentAt": "2026-08-06T11:41:48.728Z"
   },
   {
     "id": "42b119c91779725f144a",
@@ -1278,10 +1280,11 @@
     "storeUrl": "https://pittsboropetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T06:48:16.500Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T10:03:20.648Z"
+    "approvedAt": "2026-08-06T10:03:20.648Z",
+    "lastSentAt": "2026-08-06T11:42:35.067Z"
   },
   {
     "id": "f16e88ca7546e283a100",
@@ -1290,10 +1293,11 @@
     "storeUrl": "https://sokoglam.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T09:56:40.928Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T10:03:20.648Z"
+    "approvedAt": "2026-08-06T10:03:20.648Z",
+    "lastSentAt": "2026-08-06T11:43:21.076Z"
   },
   {
     "id": "d4a849195064345afa4c",
@@ -1302,9 +1306,32 @@
     "storeUrl": "https://corehomefitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T10:00:05.662Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T10:03:20.648Z"
+    "approvedAt": "2026-08-06T10:03:20.648Z",
+    "lastSentAt": "2026-08-06T11:44:07.644Z"
+  },
+  {
+    "id": "e76b709aa001e23ff70b",
+    "email": "support@langegeneralstore.com",
+    "storeName": "Lange General Store",
+    "storeUrl": "https://www.langegeneralstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T11:36:47.424Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "70574e9b15ca0a6178a8",
+    "email": "info@langegeneralstore.com",
+    "storeName": "Lange General Store",
+    "storeUrl": "https://www.langegeneralstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T11:36:47.424Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
