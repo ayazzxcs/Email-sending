@@ -1059,10 +1059,11 @@
     "storeUrl": "https://ecomposer.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:17:07.326Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T02:58:28.617Z"
   },
   {
     "id": "eb6018a3541c863c5948",
@@ -1071,10 +1072,11 @@
     "storeUrl": "https://ecomposer.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:17:07.327Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T02:59:15.372Z"
   },
   {
     "id": "66a5184f4c5fb65fcba3",
@@ -1083,10 +1085,11 @@
     "storeUrl": "https://anaheimfeed.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:19:16.480Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:00:01.880Z"
   },
   {
     "id": "c0c86e2d81edeb3f0c13",
@@ -1095,10 +1098,11 @@
     "storeUrl": "https://anaheimfeed.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:19:16.480Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:00:48.982Z"
   },
   {
     "id": "702e14e7d7c5ffef76a3",
@@ -1107,10 +1111,11 @@
     "storeUrl": "https://cijispetsupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:19:55.436Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:01:35.470Z"
   },
   {
     "id": "5c19ad4f49a009f25f7e",
@@ -1119,10 +1124,11 @@
     "storeUrl": "https://cijispetsupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:19:55.436Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:02:22.194Z"
   },
   {
     "id": "5587789806e9941208ae",
@@ -1131,10 +1137,11 @@
     "storeUrl": "https://www.marcypro.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:25:20.808Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:03:09.101Z"
   },
   {
     "id": "c6f6c98a618c726ff955",
@@ -1143,10 +1150,11 @@
     "storeUrl": "https://www.sbfitnessequipment.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T12:26:01.013Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:03:56.101Z"
   },
   {
     "id": "7cf1ccb34d4f2463217c",
@@ -1155,10 +1163,11 @@
     "storeUrl": "https://www.muttsandco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T14:38:32.228Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:04:42.877Z"
   },
   {
     "id": "a3d6060a9dec233877d8",
@@ -1167,10 +1176,11 @@
     "storeUrl": "https://competitorsoutlet.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T14:45:01.237Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:05:29.999Z"
   },
   {
     "id": "7ae156b0a46f63ae2646",
@@ -1179,10 +1189,11 @@
     "storeUrl": "https://28furnitureco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T17:11:07.776Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:06:16.840Z"
   },
   {
     "id": "83e318754daef9203984",
@@ -1191,10 +1202,11 @@
     "storeUrl": "https://columbiafitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T17:13:54.885Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:07:03.733Z"
   },
   {
     "id": "255801f43a5379c6ffdb",
@@ -1203,10 +1215,11 @@
     "storeUrl": "https://lehomedecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T20:45:29.419Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:07:50.459Z"
   },
   {
     "id": "b8a1c4f8a3915ff32dfe",
@@ -1215,10 +1228,11 @@
     "storeUrl": "https://emiejames.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-05T20:45:38.797Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:08:36.981Z"
   },
   {
     "id": "dea13fd7ce9513655a69",
@@ -1227,9 +1241,10 @@
     "storeUrl": "https://naturesselectshop.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T00:13:12.724Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-06T02:50:01.488Z"
+    "approvedAt": "2026-08-06T02:50:01.488Z",
+    "lastSentAt": "2026-08-06T03:09:23.530Z"
   }
 ]
