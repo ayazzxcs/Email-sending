@@ -1254,9 +1254,10 @@
     "storeUrl": "https://www.decormarket.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T03:41:24.572Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T10:03:20.648Z"
   },
   {
     "id": "a36c06f3a46eb60999aa",
@@ -1265,9 +1266,10 @@
     "storeUrl": "https://omnifitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T03:44:04.059Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T10:03:20.648Z"
   },
   {
     "id": "42b119c91779725f144a",
@@ -1276,9 +1278,10 @@
     "storeUrl": "https://pittsboropetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T06:48:16.500Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T10:03:20.648Z"
   },
   {
     "id": "f16e88ca7546e283a100",
@@ -1287,9 +1290,10 @@
     "storeUrl": "https://sokoglam.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T09:56:40.928Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T10:03:20.648Z"
   },
   {
     "id": "d4a849195064345afa4c",
@@ -1298,8 +1302,9 @@
     "storeUrl": "https://corehomefitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-06T10:00:05.662Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-06T10:03:20.648Z"
   }
 ]
