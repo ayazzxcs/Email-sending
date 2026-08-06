@@ -1205,5 +1205,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "dea13fd7ce9513655a69",
+    "email": "info@naturesselectcorp.com",
+    "storeName": "Nature's Select Pet Food",
+    "storeUrl": "https://naturesselectshop.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T00:13:12.724Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
