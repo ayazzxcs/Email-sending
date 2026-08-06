@@ -1246,5 +1246,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-06T02:50:01.488Z",
     "lastSentAt": "2026-08-06T03:09:23.530Z"
+  },
+  {
+    "id": "159a0bd0424b9292c0b3",
+    "email": "info@decormarket.com",
+    "storeName": "Home Furnishings Online | Home Decor Stores | Decor Market",
+    "storeUrl": "https://www.decormarket.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T03:41:24.572Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "a36c06f3a46eb60999aa",
+    "email": "support@omnifitness.com",
+    "storeName": "Omni Fitness",
+    "storeUrl": "https://omnifitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T03:44:04.059Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

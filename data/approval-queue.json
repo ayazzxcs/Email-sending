@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "159a0bd0424b9292c0b3",
+    "email": "info@decormarket.com",
+    "storeName": "Home Furnishings Online | Home Decor Stores | Decor Market",
+    "storeUrl": "https://www.decormarket.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T03:41:24.572Z"
+  },
+  {
+    "id": "a36c06f3a46eb60999aa",
+    "email": "support@omnifitness.com",
+    "storeName": "Omni Fitness",
+    "storeUrl": "https://omnifitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T03:44:04.059Z"
+  }
+]
