@@ -1333,5 +1333,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "5607fbcdc2513b6e38c7",
+    "email": "info@electriceye.io",
+    "storeName": "Electric Eye | Shopify Premier Partners Optimizing Ecommerce Brands – Electric Eye Agency",
+    "storeUrl": "https://electriceye.io",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-06T12:23:07.340Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
