@@ -1410,9 +1410,10 @@
     "storeUrl": "https://eterna-home.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T12:02:51.728Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-07T13:48:42.680Z"
+    "approvedAt": "2026-08-07T13:48:42.680Z",
+    "lastSentAt": "2026-08-07T15:19:44.988Z"
   }
 ]

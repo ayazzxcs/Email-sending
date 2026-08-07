@@ -754,5 +754,12 @@
     "status": "sent",
     "sentAt": "2026-08-07T06:30:54.589Z",
     "messageId": "<295743b3-210f-9f95-0558-0573f7cb2d87@quvirl.com>"
+  },
+  {
+    "prospectId": "a427141a2b03b44b5397",
+    "email": "hello@eterna-home.com",
+    "status": "sent",
+    "sentAt": "2026-08-07T15:19:44.988Z",
+    "messageId": "<cac29fdb-55cf-41cf-5827-0a428cb2e03d@quvirl.com>"
   }
 ]
