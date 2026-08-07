@@ -1372,5 +1372,27 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "d3f1285d7d84c53203e9",
+    "email": "sales@dyaco.co.uk",
+    "storeName": "Spirit Fitness: Premium Fitness Equipment for Elite Performance",
+    "storeUrl": "https://spiritfitness.store",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-07T05:14:06.526Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "333ddb5b471240a47165",
+    "email": "support@spiritfitness.co.uk",
+    "storeName": "Spirit Fitness: Premium Fitness Equipment for Elite Performance",
+    "storeUrl": "https://spiritfitness.store",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-07T05:14:06.527Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
