@@ -775,5 +775,12 @@
     "status": "sent",
     "sentAt": "2026-08-07T19:24:19.002Z",
     "messageId": "<a710769c-ca82-ce78-e668-6ed73dc0dc1f@quvirl.com>"
+  },
+  {
+    "prospectId": "a0d1b4743f6d861c63db",
+    "email": "sales@ace4parts.com",
+    "status": "sent",
+    "sentAt": "2026-08-07T23:57:37.280Z",
+    "messageId": "<f3cabc6e-2ec6-73a5-b6cb-a4a0584584aa@quvirl.com>"
   }
 ]

@@ -1449,9 +1449,10 @@
     "storeUrl": "https://ace4parts.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T22:03:45.242Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-07T23:01:48.012Z"
+    "approvedAt": "2026-08-07T23:01:48.012Z",
+    "lastSentAt": "2026-08-07T23:57:37.280Z"
   }
 ]
