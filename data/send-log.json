@@ -761,5 +761,19 @@
     "status": "sent",
     "sentAt": "2026-08-07T15:19:44.988Z",
     "messageId": "<cac29fdb-55cf-41cf-5827-0a428cb2e03d@quvirl.com>"
+  },
+  {
+    "prospectId": "d462bdd5a17ab30bdf88",
+    "email": "contact@experthridoy.com",
+    "status": "sent",
+    "sentAt": "2026-08-07T19:23:33.316Z",
+    "messageId": "<5f301106-8847-2769-f488-fc1a2f959ff9@quvirl.com>"
+  },
+  {
+    "prospectId": "14e60eb05cd4eae59978",
+    "email": "info@helefitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-07T19:24:19.002Z",
+    "messageId": "<a710769c-ca82-ce78-e668-6ed73dc0dc1f@quvirl.com>"
   }
 ]
