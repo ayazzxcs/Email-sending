@@ -1358,9 +1358,10 @@
     "storeUrl": "https://bulletprooffitnessequipment.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T03:25:51.864Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-07T05:54:08.834Z"
   },
   {
     "id": "2687850c10c1b5fec8e7",
@@ -1369,9 +1370,10 @@
     "storeUrl": "https://www.zeusfitness.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T03:26:16.985Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-07T05:54:08.834Z"
   },
   {
     "id": "d3f1285d7d84c53203e9",
@@ -1380,9 +1382,10 @@
     "storeUrl": "https://spiritfitness.store",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T05:14:06.526Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-07T05:54:08.834Z"
   },
   {
     "id": "333ddb5b471240a47165",
@@ -1391,8 +1394,9 @@
     "storeUrl": "https://spiritfitness.store",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T05:14:06.527Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-07T05:54:08.834Z"
   }
 ]
