@@ -726,5 +726,33 @@
     "status": "sent",
     "sentAt": "2026-08-07T00:23:27.204Z",
     "messageId": "<b3ed152d-90b4-2c7f-23ef-d2a11ee1ac9c@quvirl.com>"
+  },
+  {
+    "prospectId": "21db9eb878a67d1dbed3",
+    "email": "info@bulletprooffitnessequipment.com",
+    "status": "sent",
+    "sentAt": "2026-08-07T06:28:35.565Z",
+    "messageId": "<77d29389-5516-6242-5827-a6daf6f1380f@quvirl.com>"
+  },
+  {
+    "prospectId": "2687850c10c1b5fec8e7",
+    "email": "team@zeusfitness.ca",
+    "status": "sent",
+    "sentAt": "2026-08-07T06:29:21.949Z",
+    "messageId": "<8a33677a-6e2c-5345-6033-548297924a56@quvirl.com>"
+  },
+  {
+    "prospectId": "d3f1285d7d84c53203e9",
+    "email": "sales@dyaco.co.uk",
+    "status": "sent",
+    "sentAt": "2026-08-07T06:30:08.264Z",
+    "messageId": "<3fcd9241-4530-2e20-d2a5-3af53c3adba8@quvirl.com>"
+  },
+  {
+    "prospectId": "333ddb5b471240a47165",
+    "email": "support@spiritfitness.co.uk",
+    "status": "sent",
+    "sentAt": "2026-08-07T06:30:54.589Z",
+    "messageId": "<295743b3-210f-9f95-0558-0573f7cb2d87@quvirl.com>"
   }
 ]
