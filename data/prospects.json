@@ -1423,9 +1423,10 @@
     "storeUrl": "https://www.experthridoy.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T17:51:40.056Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-07T18:09:46.434Z"
   },
   {
     "id": "14e60eb05cd4eae59978",
@@ -1434,8 +1435,9 @@
     "storeUrl": "https://helefit.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-07T17:53:26.112Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-07T18:09:46.435Z"
   }
 ]
