@@ -52,10 +52,10 @@ jobs:
           SMTP_PASS: ${{ secrets.SMTP_PASS }}
           REPLY_TO: ${{ secrets.REPLY_TO }}
           DAILY_LIMIT: '500'
-          BATCH_SIZE: '500'
+          BATCH_SIZE: '1000'
           DELAY_SECONDS: '45'
-          MAX_QUERIES: '10'
-          SEARCH_PAGES: '10'
+          MAX_QUERIES: '100'
+          SEARCH_PAGES: '100'
           MAX_STORES: '500'
           EMERGENCY_STOP: ${{ vars.EMERGENCY_STOP }}
       - name: Show SearXNG logs on failure
