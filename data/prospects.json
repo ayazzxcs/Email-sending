@@ -1402,5 +1402,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-07T05:54:08.834Z",
     "lastSentAt": "2026-08-07T06:30:54.589Z"
+  },
+  {
+    "id": "a427141a2b03b44b5397",
+    "email": "hello@eterna-home.com",
+    "storeName": "Eterna Home | Curated Mexican Folk Art & Artisanal Decor",
+    "storeUrl": "https://eterna-home.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-07T12:02:51.728Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
