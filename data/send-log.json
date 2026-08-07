@@ -705,5 +705,26 @@
     "status": "sent",
     "sentAt": "2026-08-06T11:44:07.644Z",
     "messageId": "<f44085a9-1196-0991-e6bb-99e2624a6bde@quvirl.com>"
+  },
+  {
+    "prospectId": "e76b709aa001e23ff70b",
+    "email": "support@langegeneralstore.com",
+    "status": "sent",
+    "sentAt": "2026-08-07T00:21:54.762Z",
+    "messageId": "<4b480fd6-ab00-d96f-f961-a5537ae6b26d@quvirl.com>"
+  },
+  {
+    "prospectId": "70574e9b15ca0a6178a8",
+    "email": "info@langegeneralstore.com",
+    "status": "sent",
+    "sentAt": "2026-08-07T00:22:40.934Z",
+    "messageId": "<9568aaac-66da-60fd-2e53-a730aded9d6e@quvirl.com>"
+  },
+  {
+    "prospectId": "5607fbcdc2513b6e38c7",
+    "email": "info@electriceye.io",
+    "status": "sent",
+    "sentAt": "2026-08-07T00:23:27.204Z",
+    "messageId": "<b3ed152d-90b4-2c7f-23ef-d2a11ee1ac9c@quvirl.com>"
   }
 ]
