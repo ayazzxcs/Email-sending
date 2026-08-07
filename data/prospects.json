@@ -1350,5 +1350,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-06T15:38:23.045Z",
     "lastSentAt": "2026-08-07T00:23:27.204Z"
+  },
+  {
+    "id": "21db9eb878a67d1dbed3",
+    "email": "info@bulletprooffitnessequipment.com",
+    "storeName": "Bulletproof Fitness Equipment",
+    "storeUrl": "https://bulletprooffitnessequipment.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-07T03:25:51.864Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "2687850c10c1b5fec8e7",
+    "email": "team@zeusfitness.ca",
+    "storeName": "Zeus Fitness – Zeus Fitness BC",
+    "storeUrl": "https://www.zeusfitness.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-07T03:26:16.985Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
