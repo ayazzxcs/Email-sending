@@ -782,5 +782,33 @@
     "status": "sent",
     "sentAt": "2026-08-07T23:57:37.280Z",
     "messageId": "<f3cabc6e-2ec6-73a5-b6cb-a4a0584584aa@quvirl.com>"
+  },
+  {
+    "prospectId": "5be2d2b456bbb5b5930d",
+    "email": "info@pentfitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T08:07:23.512Z",
+    "messageId": "<f6c98947-8113-a714-7823-d0c8bc54ff66@quvirl.com>"
+  },
+  {
+    "prospectId": "8a92d75392a116b058a9",
+    "email": "team@saschafitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T08:08:09.561Z",
+    "messageId": "<54faf036-688a-9540-7fc9-09911165eec1@quvirl.com>"
+  },
+  {
+    "prospectId": "a6ffbe23582549f195d2",
+    "email": "hello@cultsport.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T08:08:55.745Z",
+    "messageId": "<fa37c3f1-7424-8d37-5e64-f2aa7ac4c098@quvirl.com>"
+  },
+  {
+    "prospectId": "0318736760ff2e4d05d4",
+    "email": "hello@cult.fit",
+    "status": "sent",
+    "sentAt": "2026-08-08T08:09:41.948Z",
+    "messageId": "<3d598e41-75f9-fd77-1ea0-44825e47af24@quvirl.com>"
   }
 ]
