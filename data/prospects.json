@@ -1645,5 +1645,38 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "d7fedbd1f825a1b8c39c",
+    "email": "support@downtownpetsupply.com",
+    "storeName": "All the best for your dog — premium treats, gear, & more in one place – Downtown Pet Supply",
+    "storeUrl": "https://downtownpetsupply.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T22:49:42.431Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "1b3e5e3da2c60cfe8ed5",
+    "email": "info@hightechpet.com",
+    "storeName": "Electronic Pet Doors, Dog Fences, Bark & Training Collars – High Tech Pet",
+    "storeUrl": "https://www.hitecpet.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T22:50:24.911Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "3faabbfa4576951d6b4c",
+    "email": "info@preusspets.com",
+    "storeName": "Preuss Pets",
+    "storeUrl": "https://preusspetsstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T22:50:33.098Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
