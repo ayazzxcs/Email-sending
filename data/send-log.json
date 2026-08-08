@@ -810,5 +810,61 @@
     "status": "sent",
     "sentAt": "2026-08-08T08:09:41.948Z",
     "messageId": "<3d598e41-75f9-fd77-1ea0-44825e47af24@quvirl.com>"
+  },
+  {
+    "prospectId": "d96f4f02ed0d2e43b505",
+    "email": "sales@optimabeautysupply.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T13:59:08.927Z",
+    "messageId": "<243b3394-c31f-ec4a-be9c-1ccd6adf8fdb@quvirl.com>"
+  },
+  {
+    "prospectId": "01000730ed6573c0bb11",
+    "email": "support@doll10.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T13:59:55.370Z",
+    "messageId": "<84f020dc-beb9-ee2d-3d1b-f8ce7fc478a2@quvirl.com>"
+  },
+  {
+    "prospectId": "ce45f5162475cc4fdef3",
+    "email": "info@doll10.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T14:00:41.894Z",
+    "messageId": "<97a08617-9095-ca0a-384e-fbeb9f303740@quvirl.com>"
+  },
+  {
+    "prospectId": "a5ea0d68f99c77c056db",
+    "email": "hello@shopheybella.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T14:01:28.303Z",
+    "messageId": "<3e470660-dbd4-dd10-a3e6-84f8ceea94d3@quvirl.com>"
+  },
+  {
+    "prospectId": "96798c3c047a7745245a",
+    "email": "support@pawbrey.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T14:02:14.680Z",
+    "messageId": "<98b50f47-10a8-6dba-6af2-6afe3826b4ab@quvirl.com>"
+  },
+  {
+    "prospectId": "ea32bce9d2d127c08fa3",
+    "email": "support@dreamdecor.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T14:03:01.232Z",
+    "messageId": "<fe769640-7104-ad66-4184-4af24a6fc61c@quvirl.com>"
+  },
+  {
+    "prospectId": "ff9af499adaa7e76a179",
+    "email": "info@nohohomehawaii.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T14:03:47.442Z",
+    "messageId": "<f27588e1-ceb6-3f9d-2f65-27f70461e606@quvirl.com>"
+  },
+  {
+    "prospectId": "c31586fbfc67850c2568",
+    "email": "support@flashfitnesstx.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T14:04:33.642Z",
+    "messageId": "<90ba12d8-dade-5d7b-a57a-a2103ca9eb8e@quvirl.com>"
   }
 ]

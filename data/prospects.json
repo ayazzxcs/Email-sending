@@ -1514,10 +1514,11 @@
     "storeUrl": "https://www.optimabeautysupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T09:04:32.773Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.380Z"
+    "approvedAt": "2026-08-08T13:21:01.380Z",
+    "lastSentAt": "2026-08-08T13:59:08.927Z"
   },
   {
     "id": "01000730ed6573c0bb11",
@@ -1526,10 +1527,11 @@
     "storeUrl": "https://www.doll10.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T09:05:13.788Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.381Z"
+    "approvedAt": "2026-08-08T13:21:01.381Z",
+    "lastSentAt": "2026-08-08T13:59:55.370Z"
   },
   {
     "id": "ce45f5162475cc4fdef3",
@@ -1538,10 +1540,11 @@
     "storeUrl": "https://www.doll10.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T09:05:13.788Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.381Z"
+    "approvedAt": "2026-08-08T13:21:01.381Z",
+    "lastSentAt": "2026-08-08T14:00:41.894Z"
   },
   {
     "id": "a5ea0d68f99c77c056db",
@@ -1550,10 +1553,11 @@
     "storeUrl": "https://shopheybella.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T09:59:30.298Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.381Z"
+    "approvedAt": "2026-08-08T13:21:01.381Z",
+    "lastSentAt": "2026-08-08T14:01:28.303Z"
   },
   {
     "id": "96798c3c047a7745245a",
@@ -1562,10 +1566,11 @@
     "storeUrl": "https://www.pawbrey.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T10:54:33.849Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.381Z"
+    "approvedAt": "2026-08-08T13:21:01.381Z",
+    "lastSentAt": "2026-08-08T14:02:14.680Z"
   },
   {
     "id": "ea32bce9d2d127c08fa3",
@@ -1574,10 +1579,11 @@
     "storeUrl": "https://dreamdecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T10:57:33.527Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.381Z"
+    "approvedAt": "2026-08-08T13:21:01.381Z",
+    "lastSentAt": "2026-08-08T14:03:01.232Z"
   },
   {
     "id": "ff9af499adaa7e76a179",
@@ -1586,10 +1592,11 @@
     "storeUrl": "https://nohohomehawaii.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T10:58:00.276Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.381Z"
+    "approvedAt": "2026-08-08T13:21:01.381Z",
+    "lastSentAt": "2026-08-08T14:03:47.442Z"
   },
   {
     "id": "c31586fbfc67850c2568",
@@ -1598,9 +1605,10 @@
     "storeUrl": "https://www.flashfitnesstx.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T11:50:25.958Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T13:21:01.381Z"
+    "approvedAt": "2026-08-08T13:21:01.381Z",
+    "lastSentAt": "2026-08-08T14:04:33.642Z"
   }
 ]
