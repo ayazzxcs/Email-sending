@@ -866,5 +866,12 @@
     "status": "sent",
     "sentAt": "2026-08-08T14:04:33.642Z",
     "messageId": "<90ba12d8-dade-5d7b-a57a-a2103ca9eb8e@quvirl.com>"
+  },
+  {
+    "prospectId": "5c7fffb69c3e4e8fdcbb",
+    "email": "support@americanbarbell.com",
+    "status": "sent",
+    "sentAt": "2026-08-08T19:04:31.236Z",
+    "messageId": "<769584cb-a909-56dc-a5e1-5c716ce211fb@quvirl.com>"
   }
 ]

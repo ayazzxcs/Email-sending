@@ -1618,9 +1618,10 @@
     "storeUrl": "https://americanbarbell.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T16:58:47.172Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T17:54:34.488Z"
+    "approvedAt": "2026-08-08T17:54:34.488Z",
+    "lastSentAt": "2026-08-08T19:04:31.236Z"
   }
 ]
