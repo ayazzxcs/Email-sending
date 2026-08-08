@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "d96f4f02ed0d2e43b505",
+    "email": "sales@optimabeautysupply.com",
+    "storeName": "Hair Care and Beauty Products – Optima Beauty Supply",
+    "storeUrl": "https://www.optimabeautysupply.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T09:04:32.773Z"
+  },
+  {
+    "id": "01000730ed6573c0bb11",
+    "email": "support@doll10.com",
+    "storeName": "DOLL 10 BEAUTY - Proven Beauty Solutions – Doll 10 Beauty",
+    "storeUrl": "https://www.doll10.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T09:05:13.788Z"
+  },
+  {
+    "id": "ce45f5162475cc4fdef3",
+    "email": "info@doll10.com",
+    "storeName": "DOLL 10 BEAUTY - Proven Beauty Solutions – Doll 10 Beauty",
+    "storeUrl": "https://www.doll10.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T09:05:13.788Z"
+  }
+]
