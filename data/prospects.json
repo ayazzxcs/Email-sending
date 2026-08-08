@@ -1623,5 +1623,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-08T17:54:34.488Z",
     "lastSentAt": "2026-08-08T19:04:31.236Z"
+  },
+  {
+    "id": "a3e17daeed517f64b0eb",
+    "email": "support@pacificabeauty.com",
+    "storeName": "Pacifica Beauty | Vegan Skincare, Haircare & Fragrance",
+    "storeUrl": "https://www.pacificabeauty.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T20:53:16.485Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
