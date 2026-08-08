@@ -1631,9 +1631,10 @@
     "storeUrl": "https://www.pacificabeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T20:53:16.485Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T23:51:57.475Z"
   },
   {
     "id": "5eee6e7de76fc2dc6940",
@@ -1642,9 +1643,10 @@
     "storeUrl": "https://petempiresupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T21:48:37.963Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T23:51:57.475Z"
   },
   {
     "id": "d7fedbd1f825a1b8c39c",
@@ -1653,9 +1655,10 @@
     "storeUrl": "https://downtownpetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T22:49:42.431Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T23:51:57.475Z"
   },
   {
     "id": "1b3e5e3da2c60cfe8ed5",
@@ -1664,9 +1667,10 @@
     "storeUrl": "https://www.hitecpet.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T22:50:24.911Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T23:51:57.475Z"
   },
   {
     "id": "3faabbfa4576951d6b4c",
@@ -1675,8 +1679,9 @@
     "storeUrl": "https://preusspetsstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T22:50:33.098Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T23:51:57.475Z"
   }
 ]
