@@ -1462,9 +1462,10 @@
     "storeUrl": "https://www.pentfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T06:00:23.389Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T07:25:12.366Z"
   },
   {
     "id": "8a92d75392a116b058a9",
@@ -1473,9 +1474,10 @@
     "storeUrl": "https://saschafitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T06:00:28.433Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T07:25:12.366Z"
   },
   {
     "id": "a6ffbe23582549f195d2",
@@ -1484,9 +1486,10 @@
     "storeUrl": "https://cultstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T06:00:50.421Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T07:25:12.366Z"
   },
   {
     "id": "0318736760ff2e4d05d4",
@@ -1495,8 +1498,9 @@
     "storeUrl": "https://cultstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T06:00:50.421Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-08T07:25:12.366Z"
   }
 ]
