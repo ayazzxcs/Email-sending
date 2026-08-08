@@ -1583,5 +1583,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "c31586fbfc67850c2568",
+    "email": "support@flashfitnesstx.com",
+    "storeName": "FlashFitnessTx",
+    "storeUrl": "https://www.flashfitnesstx.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-08T11:50:25.958Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
