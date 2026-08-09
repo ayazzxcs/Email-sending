@@ -1891,8 +1891,9 @@
     "storeUrl": "https://thepetstoplb.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T21:51:43.467Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T22:56:41.983Z"
   }
 ]
