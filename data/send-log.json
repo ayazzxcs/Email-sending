@@ -936,5 +936,19 @@
     "status": "sent",
     "sentAt": "2026-08-09T07:26:59.030Z",
     "messageId": "<5e9587d9-06eb-3195-f65c-46a7f0c255c4@quvirl.com>"
+  },
+  {
+    "prospectId": "78feb8be9493df1eb9c6",
+    "email": "sales@jordanfitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T10:06:39.704Z",
+    "messageId": "<76136d0e-04a2-b3d7-fdb9-5e194c43cbc4@quvirl.com>"
+  },
+  {
+    "prospectId": "6163aa886869c64371a6",
+    "email": "sales@jordanfitness.co.uk",
+    "status": "sent",
+    "sentAt": "2026-08-09T10:07:25.898Z",
+    "messageId": "<4a0949dc-5c19-7ca5-8003-10109210cff3@quvirl.com>"
   }
 ]

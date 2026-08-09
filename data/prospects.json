@@ -1748,10 +1748,11 @@
     "storeUrl": "https://www.jordanfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T08:11:46.315Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T09:11:11.566Z"
+    "approvedAt": "2026-08-09T09:11:11.566Z",
+    "lastSentAt": "2026-08-09T10:06:39.704Z"
   },
   {
     "id": "6163aa886869c64371a6",
@@ -1760,9 +1761,32 @@
     "storeUrl": "https://www.jordanfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T08:11:46.315Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T09:11:11.566Z"
+    "approvedAt": "2026-08-09T09:11:11.566Z",
+    "lastSentAt": "2026-08-09T10:07:25.898Z"
+  },
+  {
+    "id": "9abbea63903cc65087e5",
+    "email": "hello@canvasinteriors.com",
+    "storeName": "Canvas Interiors | Furniture, Home Decor, Lighting & Accessories |",
+    "storeUrl": "https://www.canvasinteriors.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T10:02:53.214Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "b020b1148b64d32298ce",
+    "email": "info@fitnessexperience.ca",
+    "storeName": "Premium Fitness Equipment for Home Gyms | Fitness Experience",
+    "storeUrl": "https://fitnessexperience.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T10:06:34.790Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
