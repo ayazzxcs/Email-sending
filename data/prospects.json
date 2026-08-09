@@ -1800,10 +1800,11 @@
     "storeUrl": "https://cetohome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T14:07:37.832Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T15:00:56.336Z"
+    "approvedAt": "2026-08-09T15:00:56.336Z",
+    "lastSentAt": "2026-08-09T15:57:07.625Z"
   },
   {
     "id": "cf8f47de1649b995ff88",
@@ -1812,10 +1813,11 @@
     "storeUrl": "https://www.highfashionhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T14:07:50.195Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T15:00:56.336Z"
+    "approvedAt": "2026-08-09T15:00:56.336Z",
+    "lastSentAt": "2026-08-09T15:57:53.272Z"
   },
   {
     "id": "d65004d65971b7b32176",
@@ -1824,10 +1826,11 @@
     "storeUrl": "https://www.mcgeeandco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T14:07:55.810Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T15:00:56.336Z"
+    "approvedAt": "2026-08-09T15:00:56.336Z",
+    "lastSentAt": "2026-08-09T15:58:38.920Z"
   },
   {
     "id": "65fb377a5d6ab1e48f7a",
@@ -1836,10 +1839,11 @@
     "storeUrl": "https://saybrookhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T14:08:59.375Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T15:00:56.336Z"
+    "approvedAt": "2026-08-09T15:00:56.336Z",
+    "lastSentAt": "2026-08-09T15:59:24.516Z"
   },
   {
     "id": "1fc30044be2a3611f77a",
@@ -1848,9 +1852,21 @@
     "storeUrl": "https://simoneandivy.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T14:09:31.278Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T15:00:56.336Z"
+    "approvedAt": "2026-08-09T15:00:56.336Z",
+    "lastSentAt": "2026-08-09T16:00:10.267Z"
+  },
+  {
+    "id": "9e52574e10350c0751fe",
+    "email": "info@curatedhomedecor.com",
+    "storeName": "Curated Home Decor - Home Decor, Lighting & Furniture and Accessories",
+    "storeUrl": "https://curatedhomedecor.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T15:52:20.025Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

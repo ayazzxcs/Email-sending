@@ -964,5 +964,40 @@
     "status": "sent",
     "sentAt": "2026-08-09T11:49:08.042Z",
     "messageId": "<bea730f5-9d0d-89dc-6f26-cdb4a3014374@quvirl.com>"
+  },
+  {
+    "prospectId": "8c415f200b03f734215a",
+    "email": "info@cetohome.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T15:57:07.625Z",
+    "messageId": "<21c38514-53b4-150d-2e88-1a223ac953fb@quvirl.com>"
+  },
+  {
+    "prospectId": "cf8f47de1649b995ff88",
+    "email": "support@highfashionhome.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T15:57:53.272Z",
+    "messageId": "<aaa3081f-cd52-4c02-6684-5cf2b74ba2a9@quvirl.com>"
+  },
+  {
+    "prospectId": "d65004d65971b7b32176",
+    "email": "support@mcgeeandco.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T15:58:38.920Z",
+    "messageId": "<ac4faa1e-757c-859b-109c-3caa07fb03b0@quvirl.com>"
+  },
+  {
+    "prospectId": "65fb377a5d6ab1e48f7a",
+    "email": "sales@saybrookhome.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T15:59:24.516Z",
+    "messageId": "<cd5dad4c-614d-ffdf-1143-cf4c85e43d4e@quvirl.com>"
+  },
+  {
+    "prospectId": "1fc30044be2a3611f77a",
+    "email": "hello@simoneandivy.ca",
+    "status": "sent",
+    "sentAt": "2026-08-09T16:00:10.267Z",
+    "messageId": "<ca1e768c-c2bf-6aae-bfa5-1d5732260d9c@quvirl.com>"
   }
 ]
