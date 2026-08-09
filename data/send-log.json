@@ -999,5 +999,12 @@
     "status": "sent",
     "sentAt": "2026-08-09T16:00:10.267Z",
     "messageId": "<ca1e768c-c2bf-6aae-bfa5-1d5732260d9c@quvirl.com>"
+  },
+  {
+    "prospectId": "9e52574e10350c0751fe",
+    "email": "info@curatedhomedecor.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T17:54:52.567Z",
+    "messageId": "<5d480ab0-6eee-03c2-6e6b-af3ac0f7975c@quvirl.com>"
   }
 ]
