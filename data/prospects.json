@@ -1792,5 +1792,60 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-09T11:00:31.177Z",
     "lastSentAt": "2026-08-09T11:49:08.042Z"
+  },
+  {
+    "id": "8c415f200b03f734215a",
+    "email": "info@cetohome.com",
+    "storeName": "Cetohome",
+    "storeUrl": "https://cetohome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T14:07:37.832Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "cf8f47de1649b995ff88",
+    "email": "support@highfashionhome.com",
+    "storeName": "Modern Furniture and Home Decor | High Fashion Home",
+    "storeUrl": "https://www.highfashionhome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T14:07:50.195Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "d65004d65971b7b32176",
+    "email": "support@mcgeeandco.com",
+    "storeName": "Create Beautiful Spaces for Inspired Living - McGee & Co.",
+    "storeUrl": "https://www.mcgeeandco.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T14:07:55.810Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "65fb377a5d6ab1e48f7a",
+    "email": "sales@saybrookhome.com",
+    "storeName": "Saybrook Home",
+    "storeUrl": "https://saybrookhome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T14:08:59.375Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "1fc30044be2a3611f77a",
+    "email": "hello@simoneandivy.ca",
+    "storeName": "Home Decor, Home Goods and Furniture | Simone & Ivy | Alberta, Canada",
+    "storeUrl": "https://simoneandivy.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T14:09:31.278Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
