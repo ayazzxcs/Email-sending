@@ -1865,8 +1865,9 @@
     "storeUrl": "https://curatedhomedecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T15:52:20.025Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T17:05:08.806Z"
   }
 ]
