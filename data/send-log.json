@@ -908,5 +908,33 @@
     "status": "sent",
     "sentAt": "2026-08-09T02:41:00.725Z",
     "messageId": "<3ff91e60-8333-a45c-b2a0-0a2a33133149@quvirl.com>"
+  },
+  {
+    "prospectId": "2ffe31700729c023e1e7",
+    "email": "support@onemobile.ai",
+    "status": "sent",
+    "sentAt": "2026-08-09T07:24:42.134Z",
+    "messageId": "<a397d94f-68bf-1555-249f-95d8c3729b69@quvirl.com>"
+  },
+  {
+    "prospectId": "7dccba5befa43158481a",
+    "email": "support@transcy.io",
+    "status": "sent",
+    "sentAt": "2026-08-09T07:25:27.851Z",
+    "messageId": "<89ec2ba6-4e54-c995-1406-b20534306f86@quvirl.com>"
+  },
+  {
+    "prospectId": "c72a1ee71ef1d86043b8",
+    "email": "support@revoltfitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T07:26:13.450Z",
+    "messageId": "<88fe57b5-998f-ccd5-450a-e48428c2fbed@quvirl.com>"
+  },
+  {
+    "prospectId": "8090ee583d0361665e06",
+    "email": "contact@ggfitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T07:26:59.030Z",
+    "messageId": "<5e9587d9-06eb-3195-f65c-46a7f0c255c4@quvirl.com>"
   }
 ]
