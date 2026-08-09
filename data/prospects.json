@@ -1696,9 +1696,10 @@
     "storeUrl": "https://onemobile.ai",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T02:33:06.124Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T06:05:39.119Z"
   },
   {
     "id": "7dccba5befa43158481a",
@@ -1707,9 +1708,10 @@
     "storeUrl": "https://onemobile.ai",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T02:33:06.124Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T06:05:39.119Z"
   },
   {
     "id": "c72a1ee71ef1d86043b8",
@@ -1718,9 +1720,10 @@
     "storeUrl": "https://revoltfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T02:37:24.386Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T06:05:39.119Z"
   },
   {
     "id": "8090ee583d0361665e06",
@@ -1729,8 +1732,9 @@
     "storeUrl": "https://ggfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T04:42:16.718Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T06:05:39.119Z"
   }
 ]
