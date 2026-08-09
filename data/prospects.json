@@ -1870,5 +1870,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-09T17:05:08.806Z",
     "lastSentAt": "2026-08-09T17:54:52.567Z"
+  },
+  {
+    "id": "78dcca4128b15ab54f24",
+    "email": "info@ocartandhome.com",
+    "storeName": "OC Art & Home | Unique Wall Art, Decor & Stylish Furniture Online",
+    "storeUrl": "https://www.ocartandhome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T19:53:28.334Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
