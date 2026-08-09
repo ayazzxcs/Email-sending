@@ -1006,5 +1006,12 @@
     "status": "sent",
     "sentAt": "2026-08-09T17:54:52.567Z",
     "messageId": "<5d480ab0-6eee-03c2-6e6b-af3ac0f7975c@quvirl.com>"
+  },
+  {
+    "prospectId": "78dcca4128b15ab54f24",
+    "email": "info@ocartandhome.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T21:54:31.429Z",
+    "messageId": "<ad59e4f8-34cf-a7b7-a407-6a93e7f182f6@quvirl.com>"
   }
 ]

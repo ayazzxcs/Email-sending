@@ -1878,9 +1878,21 @@
     "storeUrl": "https://www.ocartandhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T19:53:28.334Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T20:59:30.138Z"
+    "approvedAt": "2026-08-09T20:59:30.138Z",
+    "lastSentAt": "2026-08-09T21:54:31.429Z"
+  },
+  {
+    "id": "2367dad5403398604b7b",
+    "email": "support@thepetstoplb.com",
+    "storeName": "Lebanon’s #1 Online Pet Store | Pet Supplies, Toys & Accessories",
+    "storeUrl": "https://thepetstoplb.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T21:51:43.467Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
