@@ -1878,8 +1878,9 @@
     "storeUrl": "https://www.ocartandhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T19:53:28.334Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T20:59:30.138Z"
   }
 ]
