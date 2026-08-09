@@ -1013,5 +1013,12 @@
     "status": "sent",
     "sentAt": "2026-08-09T21:54:31.429Z",
     "messageId": "<ad59e4f8-34cf-a7b7-a407-6a93e7f182f6@quvirl.com>"
+  },
+  {
+    "prospectId": "2367dad5403398604b7b",
+    "email": "support@thepetstoplb.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T23:49:19.230Z",
+    "messageId": "<e4727ea7-e8b6-5206-a3dc-6cadf05888d3@quvirl.com>"
   }
 ]
