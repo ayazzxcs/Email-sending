@@ -1740,5 +1740,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-09T06:05:39.119Z",
     "lastSentAt": "2026-08-09T07:26:59.030Z"
+  },
+  {
+    "id": "78feb8be9493df1eb9c6",
+    "email": "sales@jordanfitness.com",
+    "storeName": "Jordan Fitness | Commercial Gym Equipment & Gym Design | Gym Equipment, Gym Flooring & Gym Design for Commercial, Leisure, Home",
+    "storeUrl": "https://www.jordanfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T08:11:46.315Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "6163aa886869c64371a6",
+    "email": "sales@jordanfitness.co.uk",
+    "storeName": "Jordan Fitness | Commercial Gym Equipment & Gym Design | Gym Equipment, Gym Flooring & Gym Design for Commercial, Leisure, Home",
+    "storeUrl": "https://www.jordanfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T08:11:46.315Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
