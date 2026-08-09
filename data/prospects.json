@@ -1774,10 +1774,11 @@
     "storeUrl": "https://www.canvasinteriors.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T10:02:53.214Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T11:00:31.176Z"
+    "approvedAt": "2026-08-09T11:00:31.176Z",
+    "lastSentAt": "2026-08-09T11:48:21.885Z"
   },
   {
     "id": "b020b1148b64d32298ce",
@@ -1786,9 +1787,10 @@
     "storeUrl": "https://fitnessexperience.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T10:06:34.790Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-09T11:00:31.177Z"
+    "approvedAt": "2026-08-09T11:00:31.177Z",
+    "lastSentAt": "2026-08-09T11:49:08.042Z"
   }
 ]

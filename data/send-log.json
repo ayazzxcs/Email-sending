@@ -950,5 +950,19 @@
     "status": "sent",
     "sentAt": "2026-08-09T10:07:25.898Z",
     "messageId": "<4a0949dc-5c19-7ca5-8003-10109210cff3@quvirl.com>"
+  },
+  {
+    "prospectId": "9abbea63903cc65087e5",
+    "email": "hello@canvasinteriors.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T11:48:21.885Z",
+    "messageId": "<ac784ac3-5ade-60dc-73b1-267b33cbbc44@quvirl.com>"
+  },
+  {
+    "prospectId": "b020b1148b64d32298ce",
+    "email": "info@fitnessexperience.ca",
+    "status": "sent",
+    "sentAt": "2026-08-09T11:49:08.042Z",
+    "messageId": "<bea730f5-9d0d-89dc-6f26-cdb4a3014374@quvirl.com>"
   }
 ]
