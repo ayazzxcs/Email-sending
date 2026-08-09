@@ -1721,5 +1721,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "8090ee583d0361665e06",
+    "email": "contact@ggfitness.com",
+    "storeName": "G&G Fitness Equipment Home & Commercial Sales & Service",
+    "storeUrl": "https://ggfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T04:42:16.718Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
