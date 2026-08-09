@@ -1748,9 +1748,10 @@
     "storeUrl": "https://www.jordanfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T08:11:46.315Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T09:11:11.566Z"
   },
   {
     "id": "6163aa886869c64371a6",
@@ -1759,8 +1760,9 @@
     "storeUrl": "https://www.jordanfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-09T08:11:46.315Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-09T09:11:11.566Z"
   }
 ]
