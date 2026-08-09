@@ -1631,10 +1631,11 @@
     "storeUrl": "https://www.pacificabeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T20:53:16.485Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T23:51:57.475Z"
+    "approvedAt": "2026-08-08T23:51:57.475Z",
+    "lastSentAt": "2026-08-09T02:37:57.587Z"
   },
   {
     "id": "5eee6e7de76fc2dc6940",
@@ -1643,10 +1644,11 @@
     "storeUrl": "https://petempiresupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T21:48:37.963Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T23:51:57.475Z"
+    "approvedAt": "2026-08-08T23:51:57.475Z",
+    "lastSentAt": "2026-08-09T02:38:43.317Z"
   },
   {
     "id": "d7fedbd1f825a1b8c39c",
@@ -1655,10 +1657,11 @@
     "storeUrl": "https://downtownpetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T22:49:42.431Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T23:51:57.475Z"
+    "approvedAt": "2026-08-08T23:51:57.475Z",
+    "lastSentAt": "2026-08-09T02:39:29.157Z"
   },
   {
     "id": "1b3e5e3da2c60cfe8ed5",
@@ -1667,10 +1670,11 @@
     "storeUrl": "https://www.hitecpet.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T22:50:24.911Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T23:51:57.475Z"
+    "approvedAt": "2026-08-08T23:51:57.475Z",
+    "lastSentAt": "2026-08-09T02:40:14.960Z"
   },
   {
     "id": "3faabbfa4576951d6b4c",
@@ -1679,9 +1683,43 @@
     "storeUrl": "https://preusspetsstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-08T22:50:33.098Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-08T23:51:57.475Z"
+    "approvedAt": "2026-08-08T23:51:57.475Z",
+    "lastSentAt": "2026-08-09T02:41:00.725Z"
+  },
+  {
+    "id": "2ffe31700729c023e1e7",
+    "email": "support@onemobile.ai",
+    "storeName": "OneMobile: Shopify Mobile App Builder",
+    "storeUrl": "https://onemobile.ai",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T02:33:06.124Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "7dccba5befa43158481a",
+    "email": "support@transcy.io",
+    "storeName": "OneMobile: Shopify Mobile App Builder",
+    "storeUrl": "https://onemobile.ai",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T02:33:06.124Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "c72a1ee71ef1d86043b8",
+    "email": "support@revoltfitness.com",
+    "storeName": "Revolt Fitness",
+    "storeUrl": "https://revoltfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-09T02:37:24.386Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

@@ -873,5 +873,40 @@
     "status": "sent",
     "sentAt": "2026-08-08T19:04:31.236Z",
     "messageId": "<769584cb-a909-56dc-a5e1-5c716ce211fb@quvirl.com>"
+  },
+  {
+    "prospectId": "a3e17daeed517f64b0eb",
+    "email": "support@pacificabeauty.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T02:37:57.587Z",
+    "messageId": "<0f865e4a-d6b8-b014-43f1-7d920cf85c0a@quvirl.com>"
+  },
+  {
+    "prospectId": "5eee6e7de76fc2dc6940",
+    "email": "info@petempiresupplies.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T02:38:43.317Z",
+    "messageId": "<32337f9d-762d-770f-9c77-b0311006ec23@quvirl.com>"
+  },
+  {
+    "prospectId": "d7fedbd1f825a1b8c39c",
+    "email": "support@downtownpetsupply.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T02:39:29.157Z",
+    "messageId": "<9aae40e8-64ef-0a46-139e-edfbc129387d@quvirl.com>"
+  },
+  {
+    "prospectId": "1b3e5e3da2c60cfe8ed5",
+    "email": "info@hightechpet.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T02:40:14.960Z",
+    "messageId": "<db3165b8-8b76-28ee-b15d-29223711802c@quvirl.com>"
+  },
+  {
+    "prospectId": "3faabbfa4576951d6b4c",
+    "email": "info@preusspets.com",
+    "status": "sent",
+    "sentAt": "2026-08-09T02:41:00.725Z",
+    "messageId": "<3ff91e60-8333-a45c-b2a0-0a2a33133149@quvirl.com>"
   }
 ]
