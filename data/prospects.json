@@ -2011,5 +2011,27 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "bbc1b316570e78a6ba07",
+    "email": "hello@breadbeautysupply.com",
+    "storeName": "Bread Beauty Supply | haircare basics, for not so basic hair. – BREAD BEAUTY SUPPLY",
+    "storeUrl": "https://breadbeautysupply.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-10T21:06:23.376Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "dcdf0e6a8ff341aeadc6",
+    "email": "support@breadbeautysupply.com",
+    "storeName": "Bread Beauty Supply | haircare basics, for not so basic hair. – BREAD BEAUTY SUPPLY",
+    "storeUrl": "https://breadbeautysupply.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-10T21:06:23.376Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
