@@ -2000,5 +2000,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-10T17:19:19.841Z",
     "lastSentAt": "2026-08-10T18:09:33.880Z"
+  },
+  {
+    "id": "0ee0f1e65348e53a2c20",
+    "email": "support@easysubscription.io",
+    "storeName": "Shopify Subscription App - 0% Fees, Free Plan | Easy Subscriptions",
+    "storeUrl": "https://easysubscription.io",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-10T19:18:56.152Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
