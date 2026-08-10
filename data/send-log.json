@@ -1076,5 +1076,26 @@
     "status": "sent",
     "sentAt": "2026-08-10T18:09:33.880Z",
     "messageId": "<ecaef5ca-e279-626f-99c9-5816fabe4ecf@quvirl.com>"
+  },
+  {
+    "prospectId": "0ee0f1e65348e53a2c20",
+    "email": "support@easysubscription.io",
+    "status": "sent",
+    "sentAt": "2026-08-10T23:06:40.151Z",
+    "messageId": "<e1bb3be0-2ae7-0311-1459-3e2b0076cb0d@quvirl.com>"
+  },
+  {
+    "prospectId": "bbc1b316570e78a6ba07",
+    "email": "hello@breadbeautysupply.com",
+    "status": "sent",
+    "sentAt": "2026-08-10T23:07:26.619Z",
+    "messageId": "<fae253f9-4b9f-9ce9-fc30-8955bb10058f@quvirl.com>"
+  },
+  {
+    "prospectId": "dcdf0e6a8ff341aeadc6",
+    "email": "support@breadbeautysupply.com",
+    "status": "sent",
+    "sentAt": "2026-08-10T23:08:13.142Z",
+    "messageId": "<cfb37f9d-f8b1-e143-dff8-b6149cf54719@quvirl.com>"
   }
 ]

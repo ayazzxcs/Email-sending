@@ -2008,10 +2008,11 @@
     "storeUrl": "https://easysubscription.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T19:18:56.152Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-10T22:07:29.449Z"
+    "approvedAt": "2026-08-10T22:07:29.449Z",
+    "lastSentAt": "2026-08-10T23:06:40.151Z"
   },
   {
     "id": "bbc1b316570e78a6ba07",
@@ -2020,10 +2021,11 @@
     "storeUrl": "https://breadbeautysupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T21:06:23.376Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-10T22:07:29.449Z"
+    "approvedAt": "2026-08-10T22:07:29.449Z",
+    "lastSentAt": "2026-08-10T23:07:26.619Z"
   },
   {
     "id": "dcdf0e6a8ff341aeadc6",
@@ -2032,9 +2034,10 @@
     "storeUrl": "https://breadbeautysupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T21:06:23.376Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-10T22:07:29.449Z"
+    "approvedAt": "2026-08-10T22:07:29.449Z",
+    "lastSentAt": "2026-08-10T23:08:13.142Z"
   }
 ]
