@@ -1069,5 +1069,12 @@
     "status": "sent",
     "sentAt": "2026-08-10T16:26:12.202Z",
     "messageId": "<75a2557e-31b9-8c0f-3868-d49f1ab311b7@quvirl.com>"
+  },
+  {
+    "prospectId": "77b3856f2760e1489314",
+    "email": "info@jessbeauty.com",
+    "status": "sent",
+    "sentAt": "2026-08-10T18:09:33.880Z",
+    "messageId": "<ecaef5ca-e279-626f-99c9-5816fabe4ecf@quvirl.com>"
   }
 ]
