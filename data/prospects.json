@@ -1995,8 +1995,9 @@
     "storeUrl": "https://jessbeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T16:17:15.999Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T17:19:19.841Z"
   }
 ]
