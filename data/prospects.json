@@ -1904,9 +1904,10 @@
     "storeUrl": "https://behome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T12:04:32.756Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T15:27:15.646Z"
   },
   {
     "id": "20feedb06cfb26fad7c7",
@@ -1915,9 +1916,10 @@
     "storeUrl": "https://behome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T12:04:32.756Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T15:27:15.646Z"
   },
   {
     "id": "7c756f88a22c65713692",
@@ -1926,9 +1928,10 @@
     "storeUrl": "https://ddbarbell.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T12:07:37.438Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T15:27:15.646Z"
   },
   {
     "id": "21c7254a5f49c51f82a3",
@@ -1937,9 +1940,10 @@
     "storeUrl": "https://ubeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T13:47:23.380Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T15:27:15.646Z"
   },
   {
     "id": "cbce7aeb6baf5363307a",
@@ -1948,9 +1952,10 @@
     "storeUrl": "https://mhbeautystore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T13:48:09.566Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T15:27:15.646Z"
   },
   {
     "id": "21f19c860f9ca06c4f16",
@@ -1959,9 +1964,10 @@
     "storeUrl": "https://www.100percentpure.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T13:48:28.878Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T15:27:15.646Z"
   },
   {
     "id": "46efb21c5e06c222c57f",
@@ -1970,8 +1976,9 @@
     "storeUrl": "https://www.buttahskin.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-10T13:48:38.781Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-10T15:27:15.646Z"
   }
 ]
