@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "150538d3dd7836625ffa",
+    "email": "hello@behome.com",
+    "storeName": "Be Home | Handcrafted Home and Lifestyle Products",
+    "storeUrl": "https://behome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-10T12:04:32.756Z"
+  },
+  {
+    "id": "20feedb06cfb26fad7c7",
+    "email": "info@behome.com",
+    "storeName": "Be Home | Handcrafted Home and Lifestyle Products",
+    "storeUrl": "https://behome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-10T12:04:32.756Z"
+  },
+  {
+    "id": "7c756f88a22c65713692",
+    "email": "info@ddbarbell.com",
+    "storeName": "Fitness and Exercise Equipment Store Home Gym Strength Weight Training — D&D Barbell Company",
+    "storeUrl": "https://ddbarbell.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-10T12:07:37.438Z"
+  }
+]
