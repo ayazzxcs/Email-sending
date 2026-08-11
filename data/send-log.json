@@ -1111,5 +1111,12 @@
     "status": "sent",
     "sentAt": "2026-08-11T12:04:36.857Z",
     "messageId": "<b3cc7b15-e6ed-f591-8611-4f2bf072d914@quvirl.com>"
+  },
+  {
+    "prospectId": "04abcf0fe0afc3b96a19",
+    "email": "support@layouthub.com",
+    "status": "sent",
+    "sentAt": "2026-08-11T18:16:54.701Z",
+    "messageId": "<62e48594-5315-dcdd-7d15-bc5e7143df4e@quvirl.com>"
   }
 ]
