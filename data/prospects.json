@@ -2060,8 +2060,9 @@
     "storeUrl": "https://www.songmics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-11T10:17:06.706Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-11T11:13:44.516Z"
   }
 ]
