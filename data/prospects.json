@@ -2047,8 +2047,9 @@
     "storeUrl": "https://chapinfurniture.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-11T07:40:50.184Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-11T09:23:50.568Z"
   }
 ]
