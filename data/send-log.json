@@ -1097,5 +1097,12 @@
     "status": "sent",
     "sentAt": "2026-08-10T23:08:13.142Z",
     "messageId": "<cfb37f9d-f8b1-e143-dff8-b6149cf54719@quvirl.com>"
+  },
+  {
+    "prospectId": "4115ae7d885843a956b4",
+    "email": "info@chapinfurniture.com",
+    "status": "sent",
+    "sentAt": "2026-08-11T10:20:16.823Z",
+    "messageId": "<1773a44c-c571-f5f6-7ffe-e39976a2249e@quvirl.com>"
   }
 ]
