@@ -1125,5 +1125,19 @@
     "status": "sent",
     "sentAt": "2026-08-11T21:10:51.103Z",
     "messageId": "<4d651588-2d39-b270-7ea7-5c1a7013d922@quvirl.com>"
+  },
+  {
+    "prospectId": "566113e17e390c441a67",
+    "email": "info@pawsonchicon.com",
+    "status": "sent",
+    "sentAt": "2026-08-12T08:48:05.445Z",
+    "messageId": "<a0efa1e8-45c6-53cf-b57f-fba96c8eb4d6@quvirl.com>"
+  },
+  {
+    "prospectId": "628c65d0a770e963f3bf",
+    "email": "info@adorepet.com.au",
+    "status": "sent",
+    "sentAt": "2026-08-12T08:48:51.286Z",
+    "messageId": "<f2ba75a7-0ced-868e-ccde-17042c5ad841@quvirl.com>"
   }
 ]
