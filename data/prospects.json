@@ -2125,10 +2125,11 @@
     "storeUrl": "https://www.petsupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-12T08:41:55.267Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-12T10:30:56.840Z"
+    "approvedAt": "2026-08-12T10:30:56.840Z",
+    "lastSentAt": "2026-08-12T12:06:06.897Z"
   },
   {
     "id": "eac25217bbcabda4cc53",
@@ -2137,9 +2138,10 @@
     "storeUrl": "https://sincerelybeautystore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-12T08:44:13.060Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-12T10:30:56.840Z"
+    "approvedAt": "2026-08-12T10:30:56.840Z",
+    "lastSentAt": "2026-08-12T12:06:53.308Z"
   }
 ]
