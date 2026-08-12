@@ -2099,9 +2099,10 @@
     "storeUrl": "https://www.pawsonchicon.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-12T05:03:58.291Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-12T06:49:53.379Z"
   },
   {
     "id": "628c65d0a770e963f3bf",
@@ -2110,8 +2111,9 @@
     "storeUrl": "https://adorepet.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-12T05:04:33.787Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-12T06:49:53.379Z"
   }
 ]
