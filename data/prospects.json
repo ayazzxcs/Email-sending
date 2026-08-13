@@ -2151,10 +2151,11 @@
     "storeUrl": "https://sbghome-design.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T00:03:28.180Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T03:03:12.327Z"
+    "approvedAt": "2026-08-13T03:03:12.327Z",
+    "lastSentAt": "2026-08-13T05:13:29.549Z"
   },
   {
     "id": "0f6ee4d19ad9328d27f6",
@@ -2163,9 +2164,21 @@
     "storeUrl": "https://anatomyfitness.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T02:55:28.463Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T03:03:12.327Z"
+    "approvedAt": "2026-08-13T03:03:12.327Z",
+    "lastSentAt": "2026-08-13T05:14:16.063Z"
+  },
+  {
+    "id": "d4e619ccc4c6fc08fae2",
+    "email": "info@jaysonhome.com",
+    "storeName": "Unique Furniture & Home Décor | Jayson Home",
+    "storeUrl": "https://www.jaysonhome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T05:09:34.397Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

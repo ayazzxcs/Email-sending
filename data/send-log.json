@@ -1153,5 +1153,19 @@
     "status": "sent",
     "sentAt": "2026-08-12T12:06:53.308Z",
     "messageId": "<b16b2c2a-f24e-66e3-ab30-ddaa1e743cce@quvirl.com>"
+  },
+  {
+    "prospectId": "c5187294bf0aa3125d45",
+    "email": "info@sbghome-design.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T05:13:29.549Z",
+    "messageId": "<d383798e-1a19-59b5-af19-7383309f8274@quvirl.com>"
+  },
+  {
+    "prospectId": "0f6ee4d19ad9328d27f6",
+    "email": "info@anatomyfitness.co",
+    "status": "sent",
+    "sentAt": "2026-08-13T05:14:16.063Z",
+    "messageId": "<df91dbab-0b67-4de7-cc54-32ae8449e5fe@quvirl.com>"
   }
 ]
