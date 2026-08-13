@@ -2143,5 +2143,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-12T10:30:56.840Z",
     "lastSentAt": "2026-08-12T12:06:53.308Z"
+  },
+  {
+    "id": "c5187294bf0aa3125d45",
+    "email": "info@sbghome-design.com",
+    "storeName": "SBG Home & Design | Home Furnishings & Design Studio",
+    "storeUrl": "https://sbghome-design.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T00:03:28.180Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
