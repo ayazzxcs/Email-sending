@@ -1167,5 +1167,26 @@
     "status": "sent",
     "sentAt": "2026-08-13T05:14:16.063Z",
     "messageId": "<df91dbab-0b67-4de7-cc54-32ae8449e5fe@quvirl.com>"
+  },
+  {
+    "prospectId": "d4e619ccc4c6fc08fae2",
+    "email": "info@jaysonhome.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T10:31:35.828Z",
+    "messageId": "<504056e9-f88c-cc7d-fbb4-d3b9e5a61473@quvirl.com>"
+  },
+  {
+    "prospectId": "7406c41e985f03523bd0",
+    "email": "marketing@happyandpolly.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T10:32:21.631Z",
+    "messageId": "<24eba5a8-68fe-ea0f-4c4f-8d533a9655fa@quvirl.com>"
+  },
+  {
+    "prospectId": "e6160cb1610c7b5f838f",
+    "email": "info@happyandpolly.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T10:33:07.632Z",
+    "messageId": "<6c102dbc-ca25-bb7e-8dcb-30a26b1d4da7@quvirl.com>"
   }
 ]

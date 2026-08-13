@@ -2177,10 +2177,11 @@
     "storeUrl": "https://www.jaysonhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T05:09:34.397Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T08:53:02.201Z"
+    "approvedAt": "2026-08-13T08:53:02.201Z",
+    "lastSentAt": "2026-08-13T10:31:35.828Z"
   },
   {
     "id": "7406c41e985f03523bd0",
@@ -2189,10 +2190,11 @@
     "storeUrl": "https://happyandpolly.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T06:47:48.379Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T08:53:02.201Z"
+    "approvedAt": "2026-08-13T08:53:02.201Z",
+    "lastSentAt": "2026-08-13T10:32:21.631Z"
   },
   {
     "id": "e6160cb1610c7b5f838f",
@@ -2201,9 +2203,10 @@
     "storeUrl": "https://happyandpolly.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T06:47:48.379Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T08:53:02.201Z"
+    "approvedAt": "2026-08-13T08:53:02.201Z",
+    "lastSentAt": "2026-08-13T10:33:07.632Z"
   }
 ]
