@@ -2260,5 +2260,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-13T15:26:18.192Z",
     "lastSentAt": "2026-08-13T16:24:51.381Z"
+  },
+  {
+    "id": "a85ebbec13edef9c2cfd",
+    "email": "support@mifitness.store",
+    "storeName": "Mi Fitness",
+    "storeUrl": "https://mifitness.store",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T19:30:11.912Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
