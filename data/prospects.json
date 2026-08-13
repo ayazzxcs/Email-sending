@@ -2315,5 +2315,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "9fb92a50608a7e598e89",
+    "email": "info@gumps.com",
+    "storeName": "Gump's San Francisco - A Destination for Exceptional Taste",
+    "storeUrl": "https://gumps.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T23:08:48.587Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
