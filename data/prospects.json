@@ -2271,5 +2271,38 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "74766e3d1da6c7a34c5b",
+    "email": "sales@buyandsellfitness.com",
+    "storeName": "Buy New And Used Gym Equipment | Buy & Sell Fitness",
+    "storeUrl": "https://www.buyandsellfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T21:12:51.190Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "38ae7008be68f3d3b4ff",
+    "email": "info@tfusa.net",
+    "storeName": "Total Fitness USA",
+    "storeUrl": "https://tfusa.net",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T21:12:53.390Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "9e50f9e5eeab748737d0",
+    "email": "support@umayfitness.com",
+    "storeName": "Umay Fitness® - Foldable Incline Treadmills &​ Affordable Home Fitness",
+    "storeUrl": "https://umayfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T21:12:59.400Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
