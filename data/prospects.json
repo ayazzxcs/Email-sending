@@ -2151,9 +2151,10 @@
     "storeUrl": "https://sbghome-design.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T00:03:28.180Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-13T03:03:12.327Z"
   },
   {
     "id": "0f6ee4d19ad9328d27f6",
@@ -2162,8 +2163,9 @@
     "storeUrl": "https://anatomyfitness.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T02:55:28.463Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-13T03:03:12.327Z"
   }
 ]
