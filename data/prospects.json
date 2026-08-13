@@ -2216,10 +2216,11 @@
     "storeUrl": "https://www.serioussteel.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T13:55:14.151Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T15:26:18.192Z"
+    "approvedAt": "2026-08-13T15:26:18.192Z",
+    "lastSentAt": "2026-08-13T16:22:30.958Z"
   },
   {
     "id": "e57e09e61e8e67a1b7ab",
@@ -2228,10 +2229,11 @@
     "storeUrl": "https://showmeweights.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T13:55:25.785Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T15:26:18.192Z"
+    "approvedAt": "2026-08-13T15:26:18.192Z",
+    "lastSentAt": "2026-08-13T16:23:17.937Z"
   },
   {
     "id": "54a8bd60af0a80783930",
@@ -2240,10 +2242,11 @@
     "storeUrl": "https://www.fitnesssquadron.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T13:55:36.935Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T15:26:18.192Z"
+    "approvedAt": "2026-08-13T15:26:18.192Z",
+    "lastSentAt": "2026-08-13T16:24:04.914Z"
   },
   {
     "id": "4031876cf6dd330ea20f",
@@ -2252,9 +2255,10 @@
     "storeUrl": "https://www.redbarn.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-13T15:17:34.175Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-13T15:26:18.192Z"
+    "approvedAt": "2026-08-13T15:26:18.192Z",
+    "lastSentAt": "2026-08-13T16:24:51.381Z"
   }
 ]

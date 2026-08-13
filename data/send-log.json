@@ -1188,5 +1188,33 @@
     "status": "sent",
     "sentAt": "2026-08-13T10:33:07.632Z",
     "messageId": "<6c102dbc-ca25-bb7e-8dcb-30a26b1d4da7@quvirl.com>"
+  },
+  {
+    "prospectId": "2bae7319d65112cf05a6",
+    "email": "team@serioussteel.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T16:22:30.958Z",
+    "messageId": "<c9a6a82e-7421-c031-451d-baae81d65a26@quvirl.com>"
+  },
+  {
+    "prospectId": "e57e09e61e8e67a1b7ab",
+    "email": "sales@showmeweights.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T16:23:17.937Z",
+    "messageId": "<887ba3e6-f5c9-adc1-79cf-36eacb637993@quvirl.com>"
+  },
+  {
+    "prospectId": "54a8bd60af0a80783930",
+    "email": "support@fitnesssquadron.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T16:24:04.914Z",
+    "messageId": "<a8618ca0-0531-6c5f-c3ba-19e573258a45@quvirl.com>"
+  },
+  {
+    "prospectId": "4031876cf6dd330ea20f",
+    "email": "info@redbarn.com",
+    "status": "sent",
+    "sentAt": "2026-08-13T16:24:51.381Z",
+    "messageId": "<9a72de3f-dc24-db4f-6210-8bcbe6365665@quvirl.com>"
   }
 ]
