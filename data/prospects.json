@@ -2154,5 +2154,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "0f6ee4d19ad9328d27f6",
+    "email": "info@anatomyfitness.co",
+    "storeName": "Anatomy Fitness: The Best Commercial Gym Equipment Brand for Your Gym – Anatomy Fitness Co",
+    "storeUrl": "https://anatomyfitness.co",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T02:55:28.463Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
