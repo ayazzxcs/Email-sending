@@ -2304,5 +2304,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "ae34a1aad829ca7d3fab",
+    "email": "hello@sherocommerce.com",
+    "storeName": "Shopify Plus Agency for Complex Commerce | Shero",
+    "storeUrl": "https://sherocommerce.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T22:11:48.988Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
