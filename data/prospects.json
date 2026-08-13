@@ -2180,5 +2180,27 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "7406c41e985f03523bd0",
+    "email": "marketing@happyandpolly.com",
+    "storeName": "Happy & Polly Online Pet Store | Cat Bowls, Toys, Trees & Supplies",
+    "storeUrl": "https://happyandpolly.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T06:47:48.379Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "e6160cb1610c7b5f838f",
+    "email": "info@happyandpolly.com",
+    "storeName": "Happy & Polly Online Pet Store | Cat Bowls, Toys, Trees & Supplies",
+    "storeUrl": "https://happyandpolly.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T06:47:48.379Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
