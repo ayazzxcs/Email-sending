@@ -2241,5 +2241,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "4031876cf6dd330ea20f",
+    "email": "info@redbarn.com",
+    "storeName": "Redbarn Pet Products | Shop Natural Dog and Cat Treats & Food",
+    "storeUrl": "https://www.redbarn.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-13T15:17:34.175Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
