@@ -2359,9 +2359,10 @@
     "storeUrl": "https://www.shopcozycottage.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-14T16:10:30.609Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-14T17:20:33.617Z"
+    "approvedAt": "2026-08-14T17:20:33.617Z",
+    "lastSentAt": "2026-08-14T18:15:04.691Z"
   }
 ]

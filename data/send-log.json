@@ -1265,5 +1265,12 @@
     "status": "sent",
     "sentAt": "2026-08-14T08:46:16.562Z",
     "messageId": "<7c0bc5c9-6603-094d-8d6b-c8048afdeb03@quvirl.com>"
+  },
+  {
+    "prospectId": "e34f1edddf498d20b3cb",
+    "email": "info@shopcozycottage.com",
+    "status": "sent",
+    "sentAt": "2026-08-14T18:15:04.691Z",
+    "messageId": "<abca53e7-6467-a452-20b9-6a1551689066@quvirl.com>"
   }
 ]
