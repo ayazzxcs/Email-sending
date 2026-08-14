@@ -1216,5 +1216,47 @@
     "status": "sent",
     "sentAt": "2026-08-13T16:24:51.381Z",
     "messageId": "<9a72de3f-dc24-db4f-6210-8bcbe6365665@quvirl.com>"
+  },
+  {
+    "prospectId": "a85ebbec13edef9c2cfd",
+    "email": "support@mifitness.store",
+    "status": "sent",
+    "sentAt": "2026-08-14T02:53:17.624Z",
+    "messageId": "<da543145-20ef-15f0-f0b8-1b68764fdfb1@quvirl.com>"
+  },
+  {
+    "prospectId": "74766e3d1da6c7a34c5b",
+    "email": "sales@buyandsellfitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-14T02:54:04.131Z",
+    "messageId": "<7645f6fa-378e-b7ef-c95a-460894ce4929@quvirl.com>"
+  },
+  {
+    "prospectId": "38ae7008be68f3d3b4ff",
+    "email": "info@tfusa.net",
+    "status": "sent",
+    "sentAt": "2026-08-14T02:54:50.459Z",
+    "messageId": "<dd7566cc-e2d5-7b41-d99f-d7dc559a5194@quvirl.com>"
+  },
+  {
+    "prospectId": "9e50f9e5eeab748737d0",
+    "email": "support@umayfitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-14T02:55:36.957Z",
+    "messageId": "<35e28dec-b2e6-5178-6767-5d19ec415ab5@quvirl.com>"
+  },
+  {
+    "prospectId": "ae34a1aad829ca7d3fab",
+    "email": "hello@sherocommerce.com",
+    "status": "sent",
+    "sentAt": "2026-08-14T02:56:23.884Z",
+    "messageId": "<ab2576ba-8eeb-8a1c-03f1-04d602546916@quvirl.com>"
+  },
+  {
+    "prospectId": "9fb92a50608a7e598e89",
+    "email": "info@gumps.com",
+    "status": "sent",
+    "sentAt": "2026-08-14T02:57:10.437Z",
+    "messageId": "<e02ec112-098e-b04c-fc42-543a77c51a7b@quvirl.com>"
   }
 ]
