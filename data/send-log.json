@@ -1258,5 +1258,12 @@
     "status": "sent",
     "sentAt": "2026-08-14T02:57:10.437Z",
     "messageId": "<e02ec112-098e-b04c-fc42-543a77c51a7b@quvirl.com>"
+  },
+  {
+    "prospectId": "2a211f7096aa65389b60",
+    "email": "support@valuepetsupplies.com",
+    "status": "sent",
+    "sentAt": "2026-08-14T08:46:16.562Z",
+    "messageId": "<7c0bc5c9-6603-094d-8d6b-c8048afdeb03@quvirl.com>"
   }
 ]
