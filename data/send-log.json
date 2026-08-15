@@ -1300,5 +1300,19 @@
     "status": "sent",
     "sentAt": "2026-08-15T20:50:29.847Z",
     "messageId": "<d4189002-c643-c458-5675-1c9228d4f6d6@quvirl.com>"
+  },
+  {
+    "prospectId": "fd8a061c40718e55fe0d",
+    "email": "hello@pluro.co.uk",
+    "status": "sent",
+    "sentAt": "2026-08-15T22:46:35.938Z",
+    "messageId": "<e00d3a2d-2602-11cc-7c66-80892830472f@quvirl.com>"
+  },
+  {
+    "prospectId": "7fadd2775d0f3415de57",
+    "email": "info@pluro.co.uk",
+    "status": "sent",
+    "sentAt": "2026-08-15T22:47:22.262Z",
+    "messageId": "<d62ff9e5-1774-02b0-81a1-ed898e6bbe20@quvirl.com>"
   }
 ]
