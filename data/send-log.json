@@ -1272,5 +1272,33 @@
     "status": "sent",
     "sentAt": "2026-08-14T18:15:04.691Z",
     "messageId": "<abca53e7-6467-a452-20b9-6a1551689066@quvirl.com>"
+  },
+  {
+    "prospectId": "3a6e03af63e241f7cafd",
+    "email": "team@fringesport.com",
+    "status": "sent",
+    "sentAt": "2026-08-15T20:48:09.855Z",
+    "messageId": "<283fc9ea-5c1d-dc9c-d023-517f46e92084@quvirl.com>"
+  },
+  {
+    "prospectId": "654a220f81593ccf7bf8",
+    "email": "support@squadkin.com",
+    "status": "sent",
+    "sentAt": "2026-08-15T20:48:56.102Z",
+    "messageId": "<8586015b-1862-e210-af50-6eb26a0c7e08@quvirl.com>"
+  },
+  {
+    "prospectId": "fea2792293771e4695f6",
+    "email": "hello@servicify.com",
+    "status": "sent",
+    "sentAt": "2026-08-15T20:49:42.177Z",
+    "messageId": "<abef4411-6b0f-a30a-8696-9adb2c7762cc@quvirl.com>"
+  },
+  {
+    "prospectId": "d12916a4d4a8ae251917",
+    "email": "hello@chosen6.com",
+    "status": "sent",
+    "sentAt": "2026-08-15T20:50:29.847Z",
+    "messageId": "<d4189002-c643-c458-5675-1c9228d4f6d6@quvirl.com>"
   }
 ]

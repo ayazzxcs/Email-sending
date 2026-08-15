@@ -2372,10 +2372,11 @@
     "storeUrl": "https://www.fringesport.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-15T18:57:51.391Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-15T19:43:19.827Z"
+    "approvedAt": "2026-08-15T19:43:19.827Z",
+    "lastSentAt": "2026-08-15T20:48:09.855Z"
   },
   {
     "id": "654a220f81593ccf7bf8",
@@ -2384,10 +2385,11 @@
     "storeUrl": "https://www.squadkin.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-15T18:58:19.931Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-15T19:43:19.827Z"
+    "approvedAt": "2026-08-15T19:43:19.827Z",
+    "lastSentAt": "2026-08-15T20:48:56.102Z"
   },
   {
     "id": "fea2792293771e4695f6",
@@ -2396,10 +2398,11 @@
     "storeUrl": "https://www.getservicify.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-15T18:58:22.753Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-15T19:43:19.827Z"
+    "approvedAt": "2026-08-15T19:43:19.827Z",
+    "lastSentAt": "2026-08-15T20:49:42.177Z"
   },
   {
     "id": "d12916a4d4a8ae251917",
@@ -2408,9 +2411,32 @@
     "storeUrl": "https://www.chosen6.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-15T18:58:25.095Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-15T19:43:19.827Z"
+    "approvedAt": "2026-08-15T19:43:19.827Z",
+    "lastSentAt": "2026-08-15T20:50:29.847Z"
+  },
+  {
+    "id": "fd8a061c40718e55fe0d",
+    "email": "hello@pluro.co.uk",
+    "storeName": "Shopify Agency UK | Shopify Expert London – Pluro",
+    "storeUrl": "https://pluro.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-15T20:39:51.938Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "7fadd2775d0f3415de57",
+    "email": "info@pluro.co.uk",
+    "storeName": "Shopify Agency UK | Shopify Expert London – Pluro",
+    "storeUrl": "https://pluro.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-15T20:39:51.938Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

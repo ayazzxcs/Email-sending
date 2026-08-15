@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "fd8a061c40718e55fe0d",
+    "email": "hello@pluro.co.uk",
+    "storeName": "Shopify Agency UK | Shopify Expert London – Pluro",
+    "storeUrl": "https://pluro.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-15T20:39:51.938Z"
+  },
+  {
+    "id": "7fadd2775d0f3415de57",
+    "email": "info@pluro.co.uk",
+    "storeName": "Shopify Agency UK | Shopify Expert London – Pluro",
+    "storeUrl": "https://pluro.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-15T20:39:51.938Z"
+  }
+]
