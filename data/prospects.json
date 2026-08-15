@@ -2424,9 +2424,10 @@
     "storeUrl": "https://pluro.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-15T20:39:51.938Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-15T21:45:58.372Z"
   },
   {
     "id": "7fadd2775d0f3415de57",
@@ -2435,8 +2436,9 @@
     "storeUrl": "https://pluro.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-15T20:39:51.938Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-15T21:45:58.373Z"
   }
 ]
