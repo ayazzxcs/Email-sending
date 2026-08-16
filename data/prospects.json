@@ -2450,9 +2450,10 @@
     "storeUrl": "https://debutify.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-16T01:59:23.788Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-16T03:21:14.499Z"
+    "approvedAt": "2026-08-16T03:21:14.499Z",
+    "lastSentAt": "2026-08-16T04:08:47.569Z"
   }
 ]
