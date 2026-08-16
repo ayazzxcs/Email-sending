@@ -2442,5 +2442,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-15T21:45:58.373Z",
     "lastSentAt": "2026-08-15T22:47:22.262Z"
+  },
+  {
+    "id": "938b08f32ae12e2191c8",
+    "email": "info@debutify.com",
+    "storeName": "Debutify — Shopify Theme & Ecommerce Growth Platform · Debutify",
+    "storeUrl": "https://debutify.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-16T01:59:23.788Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
