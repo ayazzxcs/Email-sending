@@ -1321,5 +1321,12 @@
     "status": "sent",
     "sentAt": "2026-08-16T04:08:47.569Z",
     "messageId": "<1c737796-5af0-e8e3-0b4d-e93d6605e1de@quvirl.com>"
+  },
+  {
+    "prospectId": "7b8fea33ce6870e0344a",
+    "email": "hello@totalpet.com",
+    "status": "sent",
+    "sentAt": "2026-08-16T20:46:23.494Z",
+    "messageId": "<b42f08cd-4cd2-531e-1769-e6ba4b56b927@quvirl.com>"
   }
 ]
