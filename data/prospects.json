@@ -2476,8 +2476,9 @@
     "storeUrl": "https://goodboyjacks.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-17T21:43:30.872Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-17T22:50:29.098Z"
   }
 ]
