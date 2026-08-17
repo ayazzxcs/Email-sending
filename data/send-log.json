@@ -1328,5 +1328,12 @@
     "status": "sent",
     "sentAt": "2026-08-16T20:46:23.494Z",
     "messageId": "<b42f08cd-4cd2-531e-1769-e6ba4b56b927@quvirl.com>"
+  },
+  {
+    "prospectId": "fe6cad764e9e51a38f76",
+    "email": "info@goodboyjacks.com",
+    "status": "sent",
+    "sentAt": "2026-08-17T23:45:53.926Z",
+    "messageId": "<f1160900-e7f2-39fd-3cd0-ac897256bc08@quvirl.com>"
   }
 ]
