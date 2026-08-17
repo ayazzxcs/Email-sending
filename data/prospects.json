@@ -2468,5 +2468,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-16T19:38:57.979Z",
     "lastSentAt": "2026-08-16T20:46:23.494Z"
+  },
+  {
+    "id": "fe6cad764e9e51a38f76",
+    "email": "info@goodboyjacks.com",
+    "storeName": "Shop Premium Pet Goods & Best Pet Supplies | Good Boy Jack’s – Good Boy Jack's",
+    "storeUrl": "https://goodboyjacks.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-17T21:43:30.872Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
