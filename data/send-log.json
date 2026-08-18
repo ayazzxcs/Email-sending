@@ -1482,5 +1482,26 @@
     "status": "sent",
     "sentAt": "2026-08-18T14:06:21.136Z",
     "messageId": "<34bbfdac-4e87-7ec5-d9e4-d5fca4cfc706@quvirl.com>"
+  },
+  {
+    "prospectId": "27688ac70fc6ad070b99",
+    "email": "info@classichome.com",
+    "status": "sent",
+    "sentAt": "2026-08-18T19:49:00.572Z",
+    "messageId": "<e124f7f4-41b9-c77c-52a8-50cda458d636@quvirl.com>"
+  },
+  {
+    "prospectId": "9f663c9911128946a1cf",
+    "email": "support@ikorii.com",
+    "status": "sent",
+    "sentAt": "2026-08-18T19:49:46.709Z",
+    "messageId": "<6ac1f083-7b48-7069-fa4d-fb81448abdb0@quvirl.com>"
+  },
+  {
+    "prospectId": "295dd28ca4ca28f5f9f7",
+    "email": "info@fernandlilly.ca",
+    "status": "sent",
+    "sentAt": "2026-08-18T19:50:32.694Z",
+    "messageId": "<9c2d55cf-a055-717c-241e-fe80a4064f21@quvirl.com>"
   }
 ]
