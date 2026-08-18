@@ -2741,5 +2741,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-18T04:08:29.340Z",
     "lastSentAt": "2026-08-18T05:15:27.593Z"
+  },
+  {
+    "id": "a96b2fe9d28038532b17",
+    "email": "team@cottageandkey.com",
+    "storeName": "Cottage Home Shoppe | by Cottage + Key",
+    "storeUrl": "https://shop.cottageandkey.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-18T10:51:44.188Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
