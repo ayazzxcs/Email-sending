@@ -2749,8 +2749,9 @@
     "storeUrl": "https://shop.cottageandkey.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T10:51:44.188Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-18T11:49:40.428Z"
   }
 ]
