@@ -2793,5 +2793,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-18T19:10:02.834Z",
     "lastSentAt": "2026-08-18T19:50:32.694Z"
+  },
+  {
+    "id": "eb8c7c456e7c343b18f3",
+    "email": "info@clenchfitness.com",
+    "storeName": "Buy Resistance Bands & Accessories | Clench Fitness",
+    "storeUrl": "https://clenchfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-18T20:51:06.263Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
