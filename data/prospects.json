@@ -2801,9 +2801,10 @@
     "storeUrl": "https://clenchfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T20:51:06.263Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T21:47:35.071Z"
+    "approvedAt": "2026-08-18T21:47:35.071Z",
+    "lastSentAt": "2026-08-18T22:50:38.274Z"
   }
 ]

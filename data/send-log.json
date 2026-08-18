@@ -1503,5 +1503,12 @@
     "status": "sent",
     "sentAt": "2026-08-18T19:50:32.694Z",
     "messageId": "<9c2d55cf-a055-717c-241e-fe80a4064f21@quvirl.com>"
+  },
+  {
+    "prospectId": "eb8c7c456e7c343b18f3",
+    "email": "info@clenchfitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-18T22:50:38.274Z",
+    "messageId": "<fc7b8f66-53ac-587d-badc-6ecfd1185d8d@quvirl.com>"
   }
 ]
