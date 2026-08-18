@@ -1475,5 +1475,12 @@
     "status": "sent",
     "sentAt": "2026-08-18T05:15:27.593Z",
     "messageId": "<bce8917d-8546-dc44-7b08-9556ffa01cb1@quvirl.com>"
+  },
+  {
+    "prospectId": "a96b2fe9d28038532b17",
+    "email": "team@cottageandkey.com",
+    "status": "sent",
+    "sentAt": "2026-08-18T14:06:21.136Z",
+    "messageId": "<34bbfdac-4e87-7ec5-d9e4-d5fca4cfc706@quvirl.com>"
   }
 ]
