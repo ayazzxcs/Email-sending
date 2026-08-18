@@ -2762,9 +2762,10 @@
     "storeUrl": "https://www.classichome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T17:50:39.749Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-18T19:10:02.834Z"
   },
   {
     "id": "9f663c9911128946a1cf",
@@ -2773,9 +2774,10 @@
     "storeUrl": "https://www.ikorii.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T17:50:56.790Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-18T19:10:02.834Z"
   },
   {
     "id": "295dd28ca4ca28f5f9f7",
@@ -2784,8 +2786,9 @@
     "storeUrl": "https://fernandlilly.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T17:51:17.298Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-18T19:10:02.834Z"
   }
 ]
