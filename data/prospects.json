@@ -2489,10 +2489,11 @@
     "storeUrl": "https://www.waitapets.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:10:11.179Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:00:48.248Z"
   },
   {
     "id": "70e249baa6d610312ff7",
@@ -2501,10 +2502,11 @@
     "storeUrl": "https://www.waitapets.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:10:11.179Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:01:34.976Z"
   },
   {
     "id": "96a7a2eb0feaaa49fe9a",
@@ -2513,10 +2515,11 @@
     "storeUrl": "https://petplanet.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:10:37.517Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:02:21.144Z"
   },
   {
     "id": "5b7ed577ac9199c1922e",
@@ -2525,10 +2528,11 @@
     "storeUrl": "https://www.theurbanpetstore.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:11:22.312Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:03:07.464Z"
   },
   {
     "id": "0876ce5f29dca6e0b614",
@@ -2537,10 +2541,11 @@
     "storeUrl": "https://realpetstore.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:11:40.313Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:03:53.731Z"
   },
   {
     "id": "983ceb2972341889d3cc",
@@ -2549,10 +2554,11 @@
     "storeUrl": "https://www.petconnect.nz",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:12:05.430Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:04:40.191Z"
   },
   {
     "id": "acfddc085e3bd686fbb2",
@@ -2561,10 +2567,11 @@
     "storeUrl": "https://www.justforpets.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:12:19.805Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:05:26.422Z"
   },
   {
     "id": "aabb2f05e36538eedb8d",
@@ -2573,10 +2580,11 @@
     "storeUrl": "https://petplanet.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:12:39.310Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:06:12.650Z"
   },
   {
     "id": "77fabdab9e9fe5c9851c",
@@ -2585,10 +2593,11 @@
     "storeUrl": "https://nutmegstudio.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:13:43.025Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:06:59.026Z"
   },
   {
     "id": "fd66dacc500f8a404cdd",
@@ -2597,10 +2606,11 @@
     "storeUrl": "https://p-louise.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:14:19.857Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:07:45.309Z"
   },
   {
     "id": "050f98b65f535a5fa808",
@@ -2609,10 +2619,11 @@
     "storeUrl": "https://www.rarebeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:14:31.761Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:08:31.395Z"
   },
   {
     "id": "0cbe7e26ccb633011657",
@@ -2621,10 +2632,11 @@
     "storeUrl": "https://swiitchbeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:14:34.528Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:09:17.536Z"
   },
   {
     "id": "321152e56d1e88393299",
@@ -2633,10 +2645,11 @@
     "storeUrl": "https://flossom.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:15:01.263Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:10:03.703Z"
   },
   {
     "id": "f94e249d8b4121d68c3c",
@@ -2645,10 +2658,11 @@
     "storeUrl": "https://inherentsweetness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:15:34.167Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:10:49.921Z"
   },
   {
     "id": "e00d7c7cd0f6af12050d",
@@ -2657,10 +2671,11 @@
     "storeUrl": "https://flickacosmetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:15:40.670Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:11:36.204Z"
   },
   {
     "id": "f217cccfb3ca4d4e87c2",
@@ -2669,10 +2684,11 @@
     "storeUrl": "https://coeurdartichaut.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:16:24.018Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:12:22.605Z"
   },
   {
     "id": "bfcdaeb53a3ee0536f1d",
@@ -2681,10 +2697,11 @@
     "storeUrl": "https://northhome.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:16:36.096Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:13:09.154Z"
   },
   {
     "id": "c6aad1117840abeecc0c",
@@ -2693,10 +2710,11 @@
     "storeUrl": "https://thepurpleturtles.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:17:05.263Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:13:55.377Z"
   },
   {
     "id": "000e1cfa47c143c50e29",
@@ -2705,10 +2723,11 @@
     "storeUrl": "https://genlook.app",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:17:39.684Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:14:41.478Z"
   },
   {
     "id": "98dad5d353a7e8ac1dee",
@@ -2717,9 +2736,10 @@
     "storeUrl": "https://genlook.app",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-18T03:17:39.684Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-18T04:08:29.340Z"
+    "approvedAt": "2026-08-18T04:08:29.340Z",
+    "lastSentAt": "2026-08-18T05:15:27.593Z"
   }
 ]
