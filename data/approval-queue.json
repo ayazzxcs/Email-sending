@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "27688ac70fc6ad070b99",
+    "email": "info@classichome.com",
+    "storeName": "Classic Home",
+    "storeUrl": "https://www.classichome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-18T17:50:39.749Z"
+  },
+  {
+    "id": "9f663c9911128946a1cf",
+    "email": "support@ikorii.com",
+    "storeName": "Ikorii | Home Decor Store",
+    "storeUrl": "https://www.ikorii.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-18T17:50:56.790Z"
+  },
+  {
+    "id": "295dd28ca4ca28f5f9f7",
+    "email": "info@fernandlilly.ca",
+    "storeName": "Fern & Lilly Fine Gifts | Maple Ridge Gift Shop & Home Decor Boutique",
+    "storeUrl": "https://fernandlilly.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-18T17:51:17.298Z"
+  }
+]
