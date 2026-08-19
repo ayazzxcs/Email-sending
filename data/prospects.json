@@ -2832,5 +2832,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-19T10:55:11.238Z",
     "lastSentAt": "2026-08-19T11:47:32.557Z"
+  },
+  {
+    "id": "f7b231f0fcb8c07fe276",
+    "email": "sales@torquefitness.com",
+    "storeName": "Torque Fitness | Functional Training & Olympic Gym Equipment – Torque Fitness - Commercial",
+    "storeUrl": "https://commercial.torquefitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-19T17:47:53.236Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
