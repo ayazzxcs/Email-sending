@@ -2814,9 +2814,10 @@
     "storeUrl": "https://www.msffit.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-19T04:07:22.123Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-19T05:56:29.499Z"
+    "approvedAt": "2026-08-19T05:56:29.499Z",
+    "lastSentAt": "2026-08-19T09:04:40.970Z"
   }
 ]
