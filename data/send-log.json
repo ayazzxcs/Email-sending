@@ -1517,5 +1517,12 @@
     "status": "sent",
     "sentAt": "2026-08-19T09:04:40.970Z",
     "messageId": "<8ab08121-4873-e14f-9130-1f0a8544e525@quvirl.com>"
+  },
+  {
+    "prospectId": "3a5dba23c8a825030670",
+    "email": "info@antoninimodernliving.com",
+    "status": "sent",
+    "sentAt": "2026-08-19T11:47:32.557Z",
+    "messageId": "<e42422e2-9ba0-fdc6-9467-f7d7e16f2c4e@quvirl.com>"
   }
 ]
