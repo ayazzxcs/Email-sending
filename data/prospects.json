@@ -2840,9 +2840,10 @@
     "storeUrl": "https://commercial.torquefitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-19T17:47:53.236Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-19T19:05:00.000Z"
+    "approvedAt": "2026-08-19T19:05:00.000Z",
+    "lastSentAt": "2026-08-19T20:57:49.440Z"
   }
 ]

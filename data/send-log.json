@@ -1524,5 +1524,12 @@
     "status": "sent",
     "sentAt": "2026-08-19T11:47:32.557Z",
     "messageId": "<e42422e2-9ba0-fdc6-9467-f7d7e16f2c4e@quvirl.com>"
+  },
+  {
+    "prospectId": "f7b231f0fcb8c07fe276",
+    "email": "sales@torquefitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-19T20:57:49.440Z",
+    "messageId": "<dbbac912-3801-9c93-c0c4-c70d3777c2b9@quvirl.com>"
   }
 ]
