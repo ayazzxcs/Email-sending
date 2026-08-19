@@ -2806,5 +2806,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-18T21:47:35.071Z",
     "lastSentAt": "2026-08-18T22:50:38.274Z"
+  },
+  {
+    "id": "18b809ba78d83e3e6bef",
+    "email": "info@msffit.com",
+    "storeName": "Msf fit – MSFFIT",
+    "storeUrl": "https://www.msffit.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-19T04:07:22.123Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
