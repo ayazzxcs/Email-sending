@@ -2819,5 +2819,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-19T05:56:29.499Z",
     "lastSentAt": "2026-08-19T09:04:40.970Z"
+  },
+  {
+    "id": "3a5dba23c8a825030670",
+    "email": "info@antoninimodernliving.com",
+    "storeName": "Modern Furniture Store in Boca Raton. Italian Designs & Home Decor – Antonini Modern Living",
+    "storeUrl": "https://www.antoninimodernliving.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-19T09:54:29.181Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
