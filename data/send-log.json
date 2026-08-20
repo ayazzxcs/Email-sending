@@ -1531,5 +1531,12 @@
     "status": "sent",
     "sentAt": "2026-08-19T20:57:49.440Z",
     "messageId": "<dbbac912-3801-9c93-c0c4-c70d3777c2b9@quvirl.com>"
+  },
+  {
+    "prospectId": "27ff0dd7e9ac23a0fb2a",
+    "email": "hello@pepper-home.com",
+    "status": "sent",
+    "sentAt": "2026-08-20T03:18:34.821Z",
+    "messageId": "<84f56ffc-30b8-2fec-75af-25d56160c8cf@quvirl.com>"
   }
 ]

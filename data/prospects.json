@@ -2853,9 +2853,10 @@
     "storeUrl": "https://pepper-home.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-19T23:41:59.850Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-20T02:01:32.937Z"
+    "approvedAt": "2026-08-20T02:01:32.937Z",
+    "lastSentAt": "2026-08-20T03:18:34.821Z"
   }
 ]
