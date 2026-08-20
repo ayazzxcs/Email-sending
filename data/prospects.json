@@ -2866,9 +2866,10 @@
     "storeUrl": "https://thehouse15.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-20T09:02:53.265Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-20T09:59:06.407Z"
+    "approvedAt": "2026-08-20T09:59:06.407Z",
+    "lastSentAt": "2026-08-20T10:56:32.345Z"
   }
 ]
