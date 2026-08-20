@@ -2879,8 +2879,9 @@
     "storeUrl": "https://roartheme.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-20T22:45:44.591Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-20T23:47:39.898Z"
   }
 ]
