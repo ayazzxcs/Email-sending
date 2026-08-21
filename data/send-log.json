@@ -1552,5 +1552,12 @@
     "status": "sent",
     "sentAt": "2026-08-21T02:06:45.423Z",
     "messageId": "<5dc5f596-94a2-8c2f-94cf-0b53ff8bdd39@quvirl.com>"
+  },
+  {
+    "prospectId": "541a581f3a269bf91b6b",
+    "email": "contact@thedesignhousehdc.com",
+    "status": "sent",
+    "sentAt": "2026-08-21T04:12:23.264Z",
+    "messageId": "<58584752-355d-193d-2fe0-1481a0051b61@quvirl.com>"
   }
 ]
