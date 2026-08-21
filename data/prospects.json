@@ -2905,8 +2905,9 @@
     "storeUrl": "https://aonebeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-21T04:08:44.416Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-21T05:03:22.359Z"
   }
 ]
