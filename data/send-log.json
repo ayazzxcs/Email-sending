@@ -1566,5 +1566,12 @@
     "status": "sent",
     "sentAt": "2026-08-21T05:55:59.842Z",
     "messageId": "<339ef5a2-e878-73ce-30c4-9672e021ffa8@quvirl.com>"
+  },
+  {
+    "prospectId": "1f0898450ab2579c660b",
+    "email": "info@kensuifitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-21T19:45:42.310Z",
+    "messageId": "<ee4e1fbc-3188-6bd8-bf62-5b25db6481e1@quvirl.com>"
   }
 ]

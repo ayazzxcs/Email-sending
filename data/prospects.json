@@ -2918,9 +2918,10 @@
     "storeUrl": "https://kensui.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-21T17:51:55.923Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-21T19:04:20.594Z"
+    "approvedAt": "2026-08-21T19:04:20.594Z",
+    "lastSentAt": "2026-08-21T19:45:42.310Z"
   }
 ]
