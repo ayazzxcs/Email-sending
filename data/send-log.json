@@ -1559,5 +1559,12 @@
     "status": "sent",
     "sentAt": "2026-08-21T04:12:23.264Z",
     "messageId": "<58584752-355d-193d-2fe0-1481a0051b61@quvirl.com>"
+  },
+  {
+    "prospectId": "03eddfcc133b8faa21ba",
+    "email": "info@aonebeauty.com",
+    "status": "sent",
+    "sentAt": "2026-08-21T05:55:59.842Z",
+    "messageId": "<339ef5a2-e878-73ce-30c4-9672e021ffa8@quvirl.com>"
   }
 ]
