@@ -2879,9 +2879,21 @@
     "storeUrl": "https://roartheme.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-20T22:45:44.591Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-20T23:47:39.898Z"
+    "approvedAt": "2026-08-20T23:47:39.898Z",
+    "lastSentAt": "2026-08-21T02:06:45.423Z"
+  },
+  {
+    "id": "541a581f3a269bf91b6b",
+    "email": "contact@thedesignhousehdc.com",
+    "storeName": "The Design House by HDC",
+    "storeUrl": "https://thedesignhousehdc.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-21T02:02:40.106Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

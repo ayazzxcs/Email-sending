@@ -1545,5 +1545,12 @@
     "status": "sent",
     "sentAt": "2026-08-20T10:56:32.345Z",
     "messageId": "<bd7d564a-23c7-ecdb-6879-e7b1a5cc119c@quvirl.com>"
+  },
+  {
+    "prospectId": "62e2cbf268a359982e36",
+    "email": "support@roartheme.co",
+    "status": "sent",
+    "sentAt": "2026-08-21T02:06:45.423Z",
+    "messageId": "<5dc5f596-94a2-8c2f-94cf-0b53ff8bdd39@quvirl.com>"
   }
 ]
