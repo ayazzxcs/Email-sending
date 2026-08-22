@@ -2931,8 +2931,9 @@
     "storeUrl": "https://www.craftsnchisel.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-22T08:52:03.566Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-22T09:50:59.071Z"
   }
 ]
