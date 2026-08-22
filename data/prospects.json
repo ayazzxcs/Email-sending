@@ -2944,9 +2944,10 @@
     "storeUrl": "https://www.westernpassion.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-22T13:50:07.764Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-22T14:47:26.751Z"
+    "approvedAt": "2026-08-22T14:47:26.751Z",
+    "lastSentAt": "2026-08-22T15:42:31.364Z"
   }
 ]

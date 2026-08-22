@@ -1580,5 +1580,12 @@
     "status": "sent",
     "sentAt": "2026-08-22T10:47:56.860Z",
     "messageId": "<0436096d-b0c5-b5d2-1191-8efe1c52c7a8@quvirl.com>"
+  },
+  {
+    "prospectId": "10db3a5e608f3029f117",
+    "email": "info@westernpassion.com",
+    "status": "sent",
+    "sentAt": "2026-08-22T15:42:31.364Z",
+    "messageId": "<dccee8c1-a558-4375-93c0-1667d3c89384@quvirl.com>"
   }
 ]
