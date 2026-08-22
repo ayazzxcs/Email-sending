@@ -2923,5 +2923,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-21T19:04:20.594Z",
     "lastSentAt": "2026-08-21T19:45:42.310Z"
+  },
+  {
+    "id": "83f5e64bdb3c664e0fc3",
+    "email": "info@craftsnchisel.com",
+    "storeName": "Indian Home Decor Online in USA | Housewarming Gift | Crafts N Chisel",
+    "storeUrl": "https://www.craftsnchisel.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-22T08:52:03.566Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
