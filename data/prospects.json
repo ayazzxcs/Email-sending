@@ -2949,5 +2949,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-22T14:47:26.751Z",
     "lastSentAt": "2026-08-22T15:42:31.364Z"
+  },
+  {
+    "id": "21e20409677c6bb13ddd",
+    "email": "info@vintagehomedecorstore.com",
+    "storeName": "Vintage Home Decor for Art, Antiques, & Decor",
+    "storeUrl": "https://vintagehomedecorstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-23T20:43:36.528Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
