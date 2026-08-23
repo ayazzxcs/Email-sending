@@ -1587,5 +1587,12 @@
     "status": "sent",
     "sentAt": "2026-08-22T15:42:31.364Z",
     "messageId": "<dccee8c1-a558-4375-93c0-1667d3c89384@quvirl.com>"
+  },
+  {
+    "prospectId": "21e20409677c6bb13ddd",
+    "email": "info@vintagehomedecorstore.com",
+    "status": "sent",
+    "sentAt": "2026-08-23T22:46:12.257Z",
+    "messageId": "<ee5df413-533c-fb21-b078-05af7c78b152@quvirl.com>"
   }
 ]
