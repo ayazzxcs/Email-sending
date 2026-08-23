@@ -2957,8 +2957,9 @@
     "storeUrl": "https://vintagehomedecorstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-23T20:43:36.528Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-23T21:46:02.883Z"
   }
 ]
