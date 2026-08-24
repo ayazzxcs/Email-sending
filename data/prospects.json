@@ -2983,9 +2983,10 @@
     "storeUrl": "https://pearlbeautycosmetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-24T13:17:49.853Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-24T13:24:49.327Z"
+    "approvedAt": "2026-08-24T13:24:49.327Z",
+    "lastSentAt": "2026-08-24T14:11:19.667Z"
   }
 ]

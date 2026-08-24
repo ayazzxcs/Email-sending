@@ -1601,5 +1601,12 @@
     "status": "sent",
     "sentAt": "2026-08-24T04:17:00.950Z",
     "messageId": "<37feefec-9511-2a52-99ce-b8d78191309b@quvirl.com>"
+  },
+  {
+    "prospectId": "d7c92d3dfcd7895bfbe4",
+    "email": "info@pearlbeautycosmetics.com",
+    "status": "sent",
+    "sentAt": "2026-08-24T14:11:19.667Z",
+    "messageId": "<c5178138-6697-7d7f-ff14-0711c4805fd3@quvirl.com>"
   }
 ]
