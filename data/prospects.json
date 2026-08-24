@@ -2970,9 +2970,10 @@
     "storeUrl": "https://synergeefitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-24T03:26:13.031Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-24T03:27:20.840Z"
+    "approvedAt": "2026-08-24T03:27:20.840Z",
+    "lastSentAt": "2026-08-24T04:17:00.950Z"
   }
 ]

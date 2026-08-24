@@ -1594,5 +1594,12 @@
     "status": "sent",
     "sentAt": "2026-08-23T22:46:12.257Z",
     "messageId": "<ee5df413-533c-fb21-b078-05af7c78b152@quvirl.com>"
+  },
+  {
+    "prospectId": "8c6427771f00e2372f59",
+    "email": "hello@synergeefitness.com",
+    "status": "sent",
+    "sentAt": "2026-08-24T04:17:00.950Z",
+    "messageId": "<37feefec-9511-2a52-99ce-b8d78191309b@quvirl.com>"
   }
 ]
