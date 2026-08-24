@@ -2975,5 +2975,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-24T03:27:20.840Z",
     "lastSentAt": "2026-08-24T04:17:00.950Z"
+  },
+  {
+    "id": "d7c92d3dfcd7895bfbe4",
+    "email": "info@pearlbeautycosmetics.com",
+    "storeName": "Pearl Beauty Cosmetics | Vegan, Cruelty-Free and Clean Makeup",
+    "storeUrl": "https://pearlbeautycosmetics.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-24T13:17:49.853Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
