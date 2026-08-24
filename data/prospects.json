@@ -2962,5 +2962,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-23T21:46:02.883Z",
     "lastSentAt": "2026-08-23T22:46:12.257Z"
+  },
+  {
+    "id": "8c6427771f00e2372f59",
+    "email": "hello@synergeefitness.com",
+    "storeName": "Synergee Fitness USA | Strength and Conditioning Training Equipment",
+    "storeUrl": "https://synergeefitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-24T03:26:13.031Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
