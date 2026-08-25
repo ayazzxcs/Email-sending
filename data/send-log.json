@@ -1615,5 +1615,12 @@
     "status": "sent",
     "sentAt": "2026-08-25T19:54:15.013Z",
     "messageId": "<31bfe6fb-d289-4466-30c5-07360a879e11@quvirl.com>"
+  },
+  {
+    "prospectId": "37a061289393cef4d7ca",
+    "email": "hello@blendcommerce.com",
+    "status": "sent",
+    "sentAt": "2026-08-25T23:46:54.716Z",
+    "messageId": "<f738054f-83c0-44bc-fa79-5ca08905ab8d@quvirl.com>"
   }
 ]

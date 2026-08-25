@@ -1,1 +1,50 @@
-[]
+[
+  {
+    "id": "1eb0807ca6c7748cff8d",
+    "email": "info@zbeautystore.com",
+    "storeName": "Belle Bio Stemcell Serum – Z Beauty Store",
+    "storeUrl": "https://zbeautystore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-25T23:42:41.582Z"
+  },
+  {
+    "id": "ed8a1d47fe344c81c333",
+    "email": "info@mysticbeautysa.com",
+    "storeName": "Mystic Beauty: The International Makeup Beauty and Handbag Store – Mystic Beauty Online Beauty Store",
+    "storeUrl": "https://www.mysticbeautysa.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-25T23:42:54.902Z"
+  },
+  {
+    "id": "2ea6d403f63b4fde30d8",
+    "email": "sales@mysticbeautysa.com",
+    "storeName": "Mystic Beauty: The International Makeup Beauty and Handbag Store – Mystic Beauty Online Beauty Store",
+    "storeUrl": "https://www.mysticbeautysa.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-25T23:42:54.902Z"
+  },
+  {
+    "id": "c2f5ae99bd55b4400866",
+    "email": "info@mysticbeautsa.com",
+    "storeName": "Mystic Beauty: The International Makeup Beauty and Handbag Store – Mystic Beauty Online Beauty Store",
+    "storeUrl": "https://www.mysticbeautysa.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-25T23:42:54.902Z"
+  },
+  {
+    "id": "a00db1f986a0a4af92bc",
+    "email": "info@shoplabellevie.ca",
+    "storeName": "La Belle Vie Home Goods Cloverdale – La Belle Vie Home Decor",
+    "storeUrl": "https://shoplabellevie.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-25T23:43:05.700Z"
+  },
+  {
+    "id": "17e5eb4d0373b84ca2e0",
+    "email": "support@vulcanfitness.com.au",
+    "storeName": "Australia’s Premium Strength and Fitness Gear",
+    "storeUrl": "https://vulcanfitness.com.au",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-25T23:46:22.653Z"
+  }
+]
