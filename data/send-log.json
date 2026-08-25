@@ -1608,5 +1608,12 @@
     "status": "sent",
     "sentAt": "2026-08-24T14:11:19.667Z",
     "messageId": "<c5178138-6697-7d7f-ff14-0711c4805fd3@quvirl.com>"
+  },
+  {
+    "prospectId": "46f428c50fcf45366885",
+    "email": "support@thebeautystore.zendesk.com",
+    "status": "sent",
+    "sentAt": "2026-08-25T19:54:15.013Z",
+    "messageId": "<31bfe6fb-d289-4466-30c5-07360a879e11@quvirl.com>"
   }
 ]
