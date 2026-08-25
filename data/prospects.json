@@ -2996,8 +2996,9 @@
     "storeUrl": "https://us.thebeautystore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T17:49:22.585Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-25T19:05:55.379Z"
   }
 ]
