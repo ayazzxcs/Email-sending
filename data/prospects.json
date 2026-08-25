@@ -3009,8 +3009,9 @@
     "storeUrl": "https://blendcommerce.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T21:47:39.307Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-25T22:53:56.053Z"
   }
 ]
