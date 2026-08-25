@@ -3001,5 +3001,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-25T19:05:55.379Z",
     "lastSentAt": "2026-08-25T19:54:15.013Z"
+  },
+  {
+    "id": "37a061289393cef4d7ca",
+    "email": "hello@blendcommerce.com",
+    "storeName": "Top Shopify CRO Agency | Conversion Rate Optimization",
+    "storeUrl": "https://blendcommerce.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-25T21:47:39.307Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
