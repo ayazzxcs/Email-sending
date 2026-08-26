@@ -1664,5 +1664,19 @@
     "status": "sent",
     "sentAt": "2026-08-26T03:27:19.305Z",
     "messageId": "<8720e631-f985-345c-23f0-54e500e3be1e@quvirl.com>"
+  },
+  {
+    "prospectId": "060fb23b1559b2f083c8",
+    "email": "info@devora.us",
+    "status": "sent",
+    "sentAt": "2026-08-26T23:37:38.157Z",
+    "messageId": "<14d86978-b37a-cb47-35d1-130d9ecc773c@quvirl.com>"
+  },
+  {
+    "prospectId": "235b64756be42bdc6853",
+    "email": "hello@devora.us",
+    "status": "sent",
+    "sentAt": "2026-08-26T23:38:23.779Z",
+    "messageId": "<dd6f5bbc-b0e1-4fec-2f17-e606e8e0b808@quvirl.com>"
   }
 ]
