@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "060fb23b1559b2f083c8",
+    "email": "info@devora.us",
+    "storeName": "De' Vora- a unique pet shop offering essentials and innovative product – De' Vora Pet Products",
+    "storeUrl": "https://devora.us",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-26T19:20:56.715Z"
+  },
+  {
+    "id": "235b64756be42bdc6853",
+    "email": "hello@devora.us",
+    "storeName": "De' Vora- a unique pet shop offering essentials and innovative product – De' Vora Pet Products",
+    "storeUrl": "https://devora.us",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-26T19:20:56.715Z"
+  }
+]
