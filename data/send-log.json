@@ -1622,5 +1622,47 @@
     "status": "sent",
     "sentAt": "2026-08-25T23:46:54.716Z",
     "messageId": "<f738054f-83c0-44bc-fa79-5ca08905ab8d@quvirl.com>"
+  },
+  {
+    "prospectId": "1eb0807ca6c7748cff8d",
+    "email": "info@zbeautystore.com",
+    "status": "sent",
+    "sentAt": "2026-08-26T03:23:30.911Z",
+    "messageId": "<d0079c5c-2151-45ea-3f59-66834b7e3406@quvirl.com>"
+  },
+  {
+    "prospectId": "ed8a1d47fe344c81c333",
+    "email": "info@mysticbeautysa.com",
+    "status": "sent",
+    "sentAt": "2026-08-26T03:24:16.615Z",
+    "messageId": "<b02e567f-7361-a5e7-bcd7-77a0dd1f69e8@quvirl.com>"
+  },
+  {
+    "prospectId": "2ea6d403f63b4fde30d8",
+    "email": "sales@mysticbeautysa.com",
+    "status": "sent",
+    "sentAt": "2026-08-26T03:25:02.268Z",
+    "messageId": "<c63ac532-d1b0-ad9a-361d-8a575ed8112b@quvirl.com>"
+  },
+  {
+    "prospectId": "c2f5ae99bd55b4400866",
+    "email": "info@mysticbeautsa.com",
+    "status": "sent",
+    "sentAt": "2026-08-26T03:25:47.955Z",
+    "messageId": "<4bf47a46-8a96-6fbf-33c2-b59716586c03@quvirl.com>"
+  },
+  {
+    "prospectId": "a00db1f986a0a4af92bc",
+    "email": "info@shoplabellevie.ca",
+    "status": "sent",
+    "sentAt": "2026-08-26T03:26:33.713Z",
+    "messageId": "<fa40179f-67a0-2f60-0629-316a1cf419ac@quvirl.com>"
+  },
+  {
+    "prospectId": "17e5eb4d0373b84ca2e0",
+    "email": "support@vulcanfitness.com.au",
+    "status": "sent",
+    "sentAt": "2026-08-26T03:27:19.305Z",
+    "messageId": "<8720e631-f985-345c-23f0-54e500e3be1e@quvirl.com>"
   }
 ]

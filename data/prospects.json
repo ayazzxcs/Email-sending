@@ -3022,10 +3022,11 @@
     "storeUrl": "https://zbeautystore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T23:42:41.582Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-26T02:02:08.234Z"
+    "approvedAt": "2026-08-26T02:02:08.234Z",
+    "lastSentAt": "2026-08-26T03:23:30.911Z"
   },
   {
     "id": "ed8a1d47fe344c81c333",
@@ -3034,10 +3035,11 @@
     "storeUrl": "https://www.mysticbeautysa.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T23:42:54.902Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-26T02:02:08.234Z"
+    "approvedAt": "2026-08-26T02:02:08.234Z",
+    "lastSentAt": "2026-08-26T03:24:16.615Z"
   },
   {
     "id": "2ea6d403f63b4fde30d8",
@@ -3046,10 +3048,11 @@
     "storeUrl": "https://www.mysticbeautysa.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T23:42:54.902Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-26T02:02:08.234Z"
+    "approvedAt": "2026-08-26T02:02:08.234Z",
+    "lastSentAt": "2026-08-26T03:25:02.268Z"
   },
   {
     "id": "c2f5ae99bd55b4400866",
@@ -3058,10 +3061,11 @@
     "storeUrl": "https://www.mysticbeautysa.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T23:42:54.902Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-26T02:02:08.234Z"
+    "approvedAt": "2026-08-26T02:02:08.234Z",
+    "lastSentAt": "2026-08-26T03:25:47.955Z"
   },
   {
     "id": "a00db1f986a0a4af92bc",
@@ -3070,10 +3074,11 @@
     "storeUrl": "https://shoplabellevie.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T23:43:05.700Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-26T02:02:08.234Z"
+    "approvedAt": "2026-08-26T02:02:08.234Z",
+    "lastSentAt": "2026-08-26T03:26:33.713Z"
   },
   {
     "id": "17e5eb4d0373b84ca2e0",
@@ -3082,9 +3087,10 @@
     "storeUrl": "https://vulcanfitness.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-25T23:46:22.653Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-26T02:02:08.234Z"
+    "approvedAt": "2026-08-26T02:02:08.234Z",
+    "lastSentAt": "2026-08-26T03:27:19.305Z"
   }
 ]
