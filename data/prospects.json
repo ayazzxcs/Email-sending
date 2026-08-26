@@ -3100,9 +3100,10 @@
     "storeUrl": "https://devora.us",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-26T19:20:56.715Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-26T20:12:47.003Z"
   },
   {
     "id": "235b64756be42bdc6853",
@@ -3111,8 +3112,9 @@
     "storeUrl": "https://devora.us",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-26T19:20:56.715Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-26T20:12:47.003Z"
   }
 ]
