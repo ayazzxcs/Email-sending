@@ -1678,5 +1678,19 @@
     "status": "sent",
     "sentAt": "2026-08-26T23:38:23.779Z",
     "messageId": "<dd6f5bbc-b0e1-4fec-2f17-e606e8e0b808@quvirl.com>"
+  },
+  {
+    "prospectId": "f8453f92eb83b3266fea",
+    "email": "hello@shruseternity.com",
+    "status": "sent",
+    "sentAt": "2026-08-29T21:51:19.831Z",
+    "messageId": "<693da4a3-eecb-f13a-f051-235ed91136a3@quvirl.com>"
+  },
+  {
+    "prospectId": "aecdd1b89ab4f49c1b30",
+    "email": "hello@ikyem.com",
+    "status": "sent",
+    "sentAt": "2026-08-29T21:52:05.730Z",
+    "messageId": "<7bbdcfb1-f617-6050-8e76-c2534761eb14@quvirl.com>"
   }
 ]

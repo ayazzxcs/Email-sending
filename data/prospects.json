@@ -3126,10 +3126,11 @@
     "storeUrl": "https://www.ikyem.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-29T18:32:59.999Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-29T18:39:12.789Z"
+    "approvedAt": "2026-08-29T18:39:12.789Z",
+    "lastSentAt": "2026-08-29T21:51:19.831Z"
   },
   {
     "id": "aecdd1b89ab4f49c1b30",
@@ -3138,9 +3139,10 @@
     "storeUrl": "https://www.ikyem.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-29T18:32:59.999Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-29T18:39:12.789Z"
+    "approvedAt": "2026-08-29T18:39:12.789Z",
+    "lastSentAt": "2026-08-29T21:52:05.730Z"
   }
 ]
