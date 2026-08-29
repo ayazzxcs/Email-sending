@@ -3118,5 +3118,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-26T20:12:47.003Z",
     "lastSentAt": "2026-08-26T23:38:23.779Z"
+  },
+  {
+    "id": "f8453f92eb83b3266fea",
+    "email": "hello@shruseternity.com",
+    "storeName": "Home Decor | Handicrafts | Home & Living | Pooja Idols | Gifts | Bags – Ikyem",
+    "storeUrl": "https://www.ikyem.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-29T18:32:59.999Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "aecdd1b89ab4f49c1b30",
+    "email": "hello@ikyem.com",
+    "storeName": "Home Decor | Handicrafts | Home & Living | Pooja Idols | Gifts | Bags – Ikyem",
+    "storeUrl": "https://www.ikyem.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-29T18:32:59.999Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
