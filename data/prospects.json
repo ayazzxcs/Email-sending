@@ -3204,9 +3204,10 @@
     "storeUrl": "https://olson-house.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-30T21:08:56.675Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-30T21:14:14.285Z"
   },
   {
     "id": "40571b5c837b59cc332d",
@@ -3215,8 +3216,9 @@
     "storeUrl": "https://procomly.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-30T21:11:26.659Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-30T21:14:14.285Z"
   }
 ]
