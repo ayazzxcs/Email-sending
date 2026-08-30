@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "f8753a3618fcefc4c33b",
+    "email": "info@olson-house.com",
+    "storeName": "Olson House - A Scandinavian Home Decor Store & Interior Design Studio",
+    "storeUrl": "https://olson-house.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-30T21:08:56.675Z"
+  },
+  {
+    "id": "40571b5c837b59cc332d",
+    "email": "support@procomly.com",
+    "storeName": "Prebuilt Shopify Store | Prebuilt Shopify Dropshipping Store – Procomly",
+    "storeUrl": "https://procomly.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-30T21:11:26.659Z"
+  }
+]
