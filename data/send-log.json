@@ -1692,5 +1692,33 @@
     "status": "sent",
     "sentAt": "2026-08-29T21:52:05.730Z",
     "messageId": "<7bbdcfb1-f617-6050-8e76-c2534761eb14@quvirl.com>"
+  },
+  {
+    "prospectId": "3bfa2242b38a00485325",
+    "email": "info@thenorthfaceonline.co.za",
+    "status": "sent",
+    "sentAt": "2026-08-30T12:59:40.969Z",
+    "messageId": "<628d3fdf-1f1c-6792-0006-f88f7185f9a8@quvirl.com>"
+  },
+  {
+    "prospectId": "cf8b7d30a1d80183571d",
+    "email": "support@milehighthemes.com",
+    "status": "sent",
+    "sentAt": "2026-08-30T13:00:26.717Z",
+    "messageId": "<e78c5897-405b-0083-47e3-767ac6680b54@quvirl.com>"
+  },
+  {
+    "prospectId": "06d49212e78ffc8e1cb7",
+    "email": "info@kencooutfitters.com",
+    "status": "sent",
+    "sentAt": "2026-08-30T13:01:12.498Z",
+    "messageId": "<0a63bdd8-18ea-0ce9-cbdb-27e60f70fa0c@quvirl.com>"
+  },
+  {
+    "prospectId": "84114103d0cb9cefe3db",
+    "email": "support@kencooutfitters.com",
+    "status": "sent",
+    "sentAt": "2026-08-30T13:01:58.128Z",
+    "messageId": "<04e86c9f-d191-97ce-b730-b649e8143cf0@quvirl.com>"
   }
 ]
