@@ -1720,5 +1720,19 @@
     "status": "sent",
     "sentAt": "2026-08-30T13:01:58.128Z",
     "messageId": "<04e86c9f-d191-97ce-b730-b649e8143cf0@quvirl.com>"
+  },
+  {
+    "prospectId": "f8753a3618fcefc4c33b",
+    "email": "info@olson-house.com",
+    "status": "sent",
+    "sentAt": "2026-08-30T23:36:21.729Z",
+    "messageId": "<c39add99-f9ef-b79f-d3ad-58ccee8fc41e@quvirl.com>"
+  },
+  {
+    "prospectId": "40571b5c837b59cc332d",
+    "email": "support@procomly.com",
+    "status": "sent",
+    "sentAt": "2026-08-30T23:37:07.446Z",
+    "messageId": "<552f250a-2231-a8b0-60c5-167dba9b2ba3@quvirl.com>"
   }
 ]
