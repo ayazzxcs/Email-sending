@@ -3152,9 +3152,10 @@
     "storeUrl": "https://thenorthface.co.za",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-30T06:47:02.783Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-30T06:48:05.447Z"
   },
   {
     "id": "cf8b7d30a1d80183571d",
@@ -3163,9 +3164,10 @@
     "storeUrl": "https://milehighthemes.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-30T06:47:10.562Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-30T06:48:05.447Z"
   },
   {
     "id": "06d49212e78ffc8e1cb7",
@@ -3174,9 +3176,10 @@
     "storeUrl": "https://kencooutfitters.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-30T06:47:25.078Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-30T06:48:05.447Z"
   },
   {
     "id": "84114103d0cb9cefe3db",
@@ -3185,8 +3188,9 @@
     "storeUrl": "https://kencooutfitters.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-30T06:47:25.078Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-30T06:48:05.447Z"
   }
 ]
