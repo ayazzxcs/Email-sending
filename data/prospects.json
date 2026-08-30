@@ -3144,5 +3144,49 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-29T18:39:12.789Z",
     "lastSentAt": "2026-08-29T21:52:05.730Z"
+  },
+  {
+    "id": "3bfa2242b38a00485325",
+    "email": "info@thenorthfaceonline.co.za",
+    "storeName": "The North Face | Outdoor Clothing, Backpacks & Shoes – THE NORTH FACE",
+    "storeUrl": "https://thenorthface.co.za",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-30T06:47:02.783Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "cf8b7d30a1d80183571d",
+    "email": "support@milehighthemes.com",
+    "storeName": "Premium Responsive Shopify Themes and Custom Design - Mile High Themes",
+    "storeUrl": "https://milehighthemes.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-30T06:47:10.562Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "06d49212e78ffc8e1cb7",
+    "email": "info@kencooutfitters.com",
+    "storeName": "Kenco Outfitters | Outdoor Gear, Footwear, and Clothing | Kingston NY",
+    "storeUrl": "https://kencooutfitters.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-30T06:47:25.078Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "84114103d0cb9cefe3db",
+    "email": "support@kencooutfitters.com",
+    "storeName": "Kenco Outfitters | Outdoor Gear, Footwear, and Clothing | Kingston NY",
+    "storeUrl": "https://kencooutfitters.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-30T06:47:25.078Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
