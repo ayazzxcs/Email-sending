@@ -3230,9 +3230,10 @@
     "storeUrl": "https://omnise.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-31T13:52:30.989Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-31T14:05:48.323Z"
   },
   {
     "id": "07757e50ba3593672ccb",
@@ -3241,8 +3242,9 @@
     "storeUrl": "https://omnise.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-31T13:52:30.989Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-08-31T14:05:48.323Z"
   }
 ]
