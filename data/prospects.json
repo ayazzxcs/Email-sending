@@ -3230,10 +3230,11 @@
     "storeUrl": "https://omnise.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-31T13:52:30.989Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-31T14:05:48.323Z"
+    "approvedAt": "2026-08-31T14:05:48.323Z",
+    "lastSentAt": "2026-08-31T20:11:27.887Z"
   },
   {
     "id": "07757e50ba3593672ccb",
@@ -3242,9 +3243,32 @@
     "storeUrl": "https://omnise.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-31T13:52:30.989Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-31T14:05:48.323Z"
+    "approvedAt": "2026-08-31T14:05:48.323Z",
+    "lastSentAt": "2026-08-31T20:12:13.518Z"
+  },
+  {
+    "id": "724c3ed0342a92d006f9",
+    "email": "support@theskinfit.com",
+    "storeName": "Premium Skincare, Cosmetics & Beauty Store - TheSkinFit",
+    "storeUrl": "https://theskinfit.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-31T20:06:44.459Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "274c722a29678420f465",
+    "email": "business@theskinfit.com",
+    "storeName": "Premium Skincare, Cosmetics & Beauty Store - TheSkinFit",
+    "storeUrl": "https://theskinfit.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-08-31T20:06:44.459Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

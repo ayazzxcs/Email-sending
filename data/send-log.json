@@ -1734,5 +1734,19 @@
     "status": "sent",
     "sentAt": "2026-08-30T23:37:07.446Z",
     "messageId": "<552f250a-2231-a8b0-60c5-167dba9b2ba3@quvirl.com>"
+  },
+  {
+    "prospectId": "8af07a0c85e750c88979",
+    "email": "support@omnise.com",
+    "status": "sent",
+    "sentAt": "2026-08-31T20:11:27.887Z",
+    "messageId": "<362ce2d1-0649-aef7-42e1-c511da52eed0@quvirl.com>"
+  },
+  {
+    "prospectId": "07757e50ba3593672ccb",
+    "email": "contact@omnise.com",
+    "status": "sent",
+    "sentAt": "2026-08-31T20:12:13.518Z",
+    "messageId": "<1a1e56e9-1e60-1c13-dcfe-1d7a4cd44950@quvirl.com>"
   }
 ]
