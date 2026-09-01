@@ -1748,5 +1748,19 @@
     "status": "sent",
     "sentAt": "2026-08-31T20:12:13.518Z",
     "messageId": "<1a1e56e9-1e60-1c13-dcfe-1d7a4cd44950@quvirl.com>"
+  },
+  {
+    "prospectId": "724c3ed0342a92d006f9",
+    "email": "support@theskinfit.com",
+    "status": "sent",
+    "sentAt": "2026-09-01T05:13:35.709Z",
+    "messageId": "<02cfcf7e-f4eb-603d-f7f0-45e251630db6@quvirl.com>"
+  },
+  {
+    "prospectId": "274c722a29678420f465",
+    "email": "business@theskinfit.com",
+    "status": "sent",
+    "sentAt": "2026-09-01T05:14:21.617Z",
+    "messageId": "<1da1aef5-0659-d4b3-a6a5-a8d92e9bdd12@quvirl.com>"
   }
 ]

@@ -3256,10 +3256,11 @@
     "storeUrl": "https://theskinfit.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-31T20:06:44.459Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-31T23:58:11.530Z"
+    "approvedAt": "2026-08-31T23:58:11.530Z",
+    "lastSentAt": "2026-09-01T05:13:35.709Z"
   },
   {
     "id": "274c722a29678420f465",
@@ -3268,9 +3269,10 @@
     "storeUrl": "https://theskinfit.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-08-31T20:06:44.459Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-08-31T23:58:11.530Z"
+    "approvedAt": "2026-08-31T23:58:11.530Z",
+    "lastSentAt": "2026-09-01T05:14:21.617Z"
   }
 ]
