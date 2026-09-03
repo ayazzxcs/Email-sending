@@ -1797,5 +1797,12 @@
     "status": "sent",
     "sentAt": "2026-09-03T10:01:15.141Z",
     "messageId": "<817d332f-a11e-9a75-ef66-23275e796c96@quvirl.com>"
+  },
+  {
+    "prospectId": "8593699605a3a8ca673f",
+    "email": "support@zahrastores.pk",
+    "status": "sent",
+    "sentAt": "2026-09-03T21:51:09.796Z",
+    "messageId": "<92d056b4-f912-3d40-4f8a-d36aaf9b2c3c@quvirl.com>"
   }
 ]
