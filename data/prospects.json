@@ -3347,8 +3347,9 @@
     "storeUrl": "https://zahrastores.pk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-03T18:46:22.149Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-03T19:56:27.703Z"
   }
 ]
