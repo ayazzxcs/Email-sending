@@ -3339,5 +3339,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-03T05:54:43.960Z",
     "lastSentAt": "2026-09-03T10:01:15.141Z"
+  },
+  {
+    "id": "8593699605a3a8ca673f",
+    "email": "support@zahrastores.pk",
+    "storeName": "Zahra Stores",
+    "storeUrl": "https://zahrastores.pk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-03T18:46:22.149Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
