@@ -3282,10 +3282,11 @@
     "storeUrl": "https://www.l-objet.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-03T00:20:49.267Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-03T05:54:43.959Z"
+    "approvedAt": "2026-09-03T05:54:43.959Z",
+    "lastSentAt": "2026-09-03T09:58:09.473Z"
   },
   {
     "id": "06f76a5f056fcecf2fc6",
@@ -3294,10 +3295,11 @@
     "storeUrl": "https://www.recoveryforathletes.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-03T00:24:27.441Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-03T05:54:43.959Z"
+    "approvedAt": "2026-09-03T05:54:43.959Z",
+    "lastSentAt": "2026-09-03T09:58:55.683Z"
   },
   {
     "id": "5f43417d910bd0c2c931",
@@ -3306,10 +3308,11 @@
     "storeUrl": "https://www.customily.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-03T04:40:13.413Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-03T05:54:43.959Z"
+    "approvedAt": "2026-09-03T05:54:43.959Z",
+    "lastSentAt": "2026-09-03T09:59:42.045Z"
   },
   {
     "id": "e654e12cac5b5f1ae1db",
@@ -3318,10 +3321,11 @@
     "storeUrl": "https://www.customily.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-03T04:40:13.413Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-03T05:54:43.959Z"
+    "approvedAt": "2026-09-03T05:54:43.959Z",
+    "lastSentAt": "2026-09-03T10:00:28.538Z"
   },
   {
     "id": "82c4b8ff6fd9f313763e",
@@ -3330,9 +3334,10 @@
     "storeUrl": "https://www.fedfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-03T04:43:28.515Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-03T05:54:43.960Z"
+    "approvedAt": "2026-09-03T05:54:43.960Z",
+    "lastSentAt": "2026-09-03T10:01:15.141Z"
   }
 ]
