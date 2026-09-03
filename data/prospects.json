@@ -3274,5 +3274,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-08-31T23:58:11.530Z",
     "lastSentAt": "2026-09-01T05:14:21.617Z"
+  },
+  {
+    "id": "bb59148f287343606a39",
+    "email": "support@l-objet.com",
+    "storeName": "Luxury Home Décor and Fragrance | L'OBJET",
+    "storeUrl": "https://www.l-objet.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-03T00:20:49.267Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "06f76a5f056fcecf2fc6",
+    "email": "sales@recoveryforathletes.com",
+    "storeName": "Sports Recovery and Home Fitness Equipment — Recovery For Athletes",
+    "storeUrl": "https://www.recoveryforathletes.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-03T00:24:27.441Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
