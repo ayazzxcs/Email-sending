@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "e41d873eafa61cd6eb1e",
+    "email": "info@company.com",
+    "storeName": "Seller Directories - Curated Lists of eCommerce Seller Prospects",
+    "storeUrl": "https://sellerdirectories.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-05T18:18:54.741Z"
+  },
+  {
+    "id": "4a908e9026e6655130ac",
+    "email": "info@sellerdirectories.com",
+    "storeName": "Seller Directories - Curated Lists of eCommerce Seller Prospects",
+    "storeUrl": "https://sellerdirectories.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-05T18:18:54.741Z"
+  }
+]
