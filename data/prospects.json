@@ -3352,5 +3352,38 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-03T19:56:27.703Z",
     "lastSentAt": "2026-09-03T21:51:09.796Z"
+  },
+  {
+    "id": "db33cae66dd97d6b0e04",
+    "email": "hello@sequenzy.com",
+    "storeName": "Email Marketing Software for SaaS & Ecommerce | Sequenzy",
+    "storeUrl": "https://www.sequenzy.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-05T04:27:57.406Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "2f7fc71dc206338e94c7",
+    "email": "support@sequenzy.com",
+    "storeName": "Email Marketing Software for SaaS & Ecommerce | Sequenzy",
+    "storeUrl": "https://www.sequenzy.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-05T04:27:57.406Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "689fa5612a3917c67c87",
+    "email": "support@themetechmount.com",
+    "storeName": "ThemetechMount | Premium & Free WordPress Themes, Plugins & Templates",
+    "storeUrl": "https://themetechmount.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-05T04:33:23.603Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
