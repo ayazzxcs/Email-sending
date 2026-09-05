@@ -1825,5 +1825,19 @@
     "status": "sent",
     "sentAt": "2026-09-05T09:12:50.709Z",
     "messageId": "<b24a37b4-9b0f-70d5-973e-afedb7381c16@quvirl.com>"
+  },
+  {
+    "prospectId": "e41d873eafa61cd6eb1e",
+    "email": "info@company.com",
+    "status": "sent",
+    "sentAt": "2026-09-05T20:36:41.957Z",
+    "messageId": "<d80d3e9e-7568-39ac-37fc-046e315be59c@quvirl.com>"
+  },
+  {
+    "prospectId": "4a908e9026e6655130ac",
+    "email": "info@sellerdirectories.com",
+    "status": "sent",
+    "sentAt": "2026-09-05T20:37:27.716Z",
+    "messageId": "<1d16da11-e782-186f-8eb6-2c5c6ed2c663@quvirl.com>"
   }
 ]
