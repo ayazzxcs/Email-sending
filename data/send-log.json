@@ -1804,5 +1804,26 @@
     "status": "sent",
     "sentAt": "2026-09-03T21:51:09.796Z",
     "messageId": "<92d056b4-f912-3d40-4f8a-d36aaf9b2c3c@quvirl.com>"
+  },
+  {
+    "prospectId": "db33cae66dd97d6b0e04",
+    "email": "hello@sequenzy.com",
+    "status": "sent",
+    "sentAt": "2026-09-05T09:11:18.568Z",
+    "messageId": "<23f0a0a1-67dc-c4c2-191e-bf2d1df242e7@quvirl.com>"
+  },
+  {
+    "prospectId": "2f7fc71dc206338e94c7",
+    "email": "support@sequenzy.com",
+    "status": "sent",
+    "sentAt": "2026-09-05T09:12:04.404Z",
+    "messageId": "<cae81df6-cfbd-345c-10c4-3dac884dd6f4@quvirl.com>"
+  },
+  {
+    "prospectId": "689fa5612a3917c67c87",
+    "email": "support@themetechmount.com",
+    "status": "sent",
+    "sentAt": "2026-09-05T09:12:50.709Z",
+    "messageId": "<b24a37b4-9b0f-70d5-973e-afedb7381c16@quvirl.com>"
   }
 ]
