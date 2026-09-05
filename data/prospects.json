@@ -3360,9 +3360,10 @@
     "storeUrl": "https://www.sequenzy.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-05T04:27:57.406Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-05T05:51:10.566Z"
   },
   {
     "id": "2f7fc71dc206338e94c7",
@@ -3371,9 +3372,10 @@
     "storeUrl": "https://www.sequenzy.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-05T04:27:57.406Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-05T05:51:10.566Z"
   },
   {
     "id": "689fa5612a3917c67c87",
@@ -3382,8 +3384,9 @@
     "storeUrl": "https://themetechmount.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-05T04:33:23.603Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-05T05:51:10.566Z"
   }
 ]
