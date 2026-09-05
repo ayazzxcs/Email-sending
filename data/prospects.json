@@ -3399,9 +3399,10 @@
     "storeUrl": "https://sellerdirectories.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-05T18:18:54.741Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-05T19:06:49.224Z"
   },
   {
     "id": "4a908e9026e6655130ac",
@@ -3410,8 +3411,9 @@
     "storeUrl": "https://sellerdirectories.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-05T18:18:54.741Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-05T19:06:49.224Z"
   }
 ]
