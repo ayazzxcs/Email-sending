@@ -3425,9 +3425,10 @@
     "storeUrl": "https://teamrhino.ae",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-07T00:02:21.163Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-07T04:54:38.415Z"
+    "approvedAt": "2026-09-07T04:54:38.415Z",
+    "lastSentAt": "2026-09-07T10:18:13.214Z"
   }
 ]
