@@ -3441,5 +3441,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "48c1945c682e8eeee1b4",
+    "email": "contact@whomecollection.com",
+    "storeName": "W Home Collection bestsellers of home decor",
+    "storeUrl": "https://whomecollection.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-08T18:46:31.126Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
