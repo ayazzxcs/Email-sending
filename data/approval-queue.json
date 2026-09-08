@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "bd3a5cbb4d811f6a33de",
+    "email": "hello@incredpets.com",
+    "storeName": "Incredible Pets",
+    "storeUrl": "https://incredpets.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-08T15:13:42.828Z"
+  }
+]
