@@ -3438,9 +3438,10 @@
     "storeUrl": "https://incredpets.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-08T15:13:42.828Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-08T22:01:05.186Z"
   },
   {
     "id": "48c1945c682e8eeee1b4",
@@ -3449,8 +3450,9 @@
     "storeUrl": "https://whomecollection.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-08T18:46:31.126Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-08T22:01:05.186Z"
   }
 ]
