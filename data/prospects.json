@@ -3464,8 +3464,9 @@
     "storeUrl": "https://ornatehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-09T00:20:08.237Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-09T06:04:53.878Z"
   }
 ]
