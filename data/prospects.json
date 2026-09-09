@@ -3438,10 +3438,11 @@
     "storeUrl": "https://incredpets.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-08T15:13:42.828Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-08T22:01:05.186Z"
+    "approvedAt": "2026-09-08T22:01:05.186Z",
+    "lastSentAt": "2026-09-09T00:23:04.134Z"
   },
   {
     "id": "48c1945c682e8eeee1b4",
@@ -3450,9 +3451,21 @@
     "storeUrl": "https://whomecollection.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-08T18:46:31.126Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-08T22:01:05.186Z"
+    "approvedAt": "2026-09-08T22:01:05.186Z",
+    "lastSentAt": "2026-09-09T00:23:49.974Z"
+  },
+  {
+    "id": "bae50f3c26bfdadde4a2",
+    "email": "support@ornatehome.com",
+    "storeName": "Furniture, Mattresses, Rugs & Home Decor | Ornate Home",
+    "storeUrl": "https://ornatehome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-09T00:20:08.237Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
