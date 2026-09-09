@@ -1867,5 +1867,12 @@
     "status": "sent",
     "sentAt": "2026-09-09T09:46:23.609Z",
     "messageId": "<e35a640c-0222-e424-79ea-44c1fff4ef42@quvirl.com>"
+  },
+  {
+    "prospectId": "e2504d233bc588aafe3d",
+    "email": "hello@houseplant.com",
+    "status": "sent",
+    "sentAt": "2026-09-09T21:50:00.566Z",
+    "messageId": "<06fd35bd-ee61-c8aa-c0be-a2a30db98838@quvirl.com>"
   }
 ]

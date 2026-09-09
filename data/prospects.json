@@ -3477,9 +3477,10 @@
     "storeUrl": "https://www.houseplant.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-09T18:42:14.859Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-09T19:51:15.244Z"
+    "approvedAt": "2026-09-09T19:51:15.244Z",
+    "lastSentAt": "2026-09-09T21:50:00.566Z"
   }
 ]
