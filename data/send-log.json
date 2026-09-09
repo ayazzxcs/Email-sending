@@ -1860,5 +1860,12 @@
     "status": "sent",
     "sentAt": "2026-09-09T00:23:49.974Z",
     "messageId": "<d0e452eb-d114-24e1-f574-8eeac203a1a8@quvirl.com>"
+  },
+  {
+    "prospectId": "bae50f3c26bfdadde4a2",
+    "email": "support@ornatehome.com",
+    "status": "sent",
+    "sentAt": "2026-09-09T09:46:23.609Z",
+    "messageId": "<e35a640c-0222-e424-79ea-44c1fff4ef42@quvirl.com>"
   }
 ]
