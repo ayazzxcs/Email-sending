@@ -1888,5 +1888,12 @@
     "status": "sent",
     "sentAt": "2026-09-10T04:52:35.890Z",
     "messageId": "<0e2e8911-f179-4961-3286-94d4f16cbdcc@quvirl.com>"
+  },
+  {
+    "prospectId": "f6cfae15f79d3b094a06",
+    "email": "support@petstoregobal.com",
+    "status": "sent",
+    "sentAt": "2026-09-10T21:47:08.843Z",
+    "messageId": "<17f2e2d7-8ecb-a487-a064-8ae4b1afc440@quvirl.com>"
   }
 ]

@@ -3516,9 +3516,10 @@
     "storeUrl": "https://petstoreglobal.store",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-10T18:30:40.006Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-10T19:49:21.952Z"
+    "approvedAt": "2026-09-10T19:49:21.952Z",
+    "lastSentAt": "2026-09-10T21:47:08.843Z"
   }
 ]
