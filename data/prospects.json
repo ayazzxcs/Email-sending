@@ -3490,10 +3490,11 @@
     "storeUrl": "https://gentlepetstore.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-10T00:16:05.803Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-10T01:10:26.769Z"
+    "approvedAt": "2026-09-10T01:10:26.769Z",
+    "lastSentAt": "2026-09-10T04:51:50.222Z"
   },
   {
     "id": "1008ce706b4c2b72ec88",
@@ -3502,9 +3503,10 @@
     "storeUrl": "https://layoutkart.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-10T00:19:49.954Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-10T01:10:26.769Z"
+    "approvedAt": "2026-09-10T01:10:26.769Z",
+    "lastSentAt": "2026-09-10T04:52:35.890Z"
   }
 ]

@@ -1874,5 +1874,19 @@
     "status": "sent",
     "sentAt": "2026-09-09T21:50:00.566Z",
     "messageId": "<06fd35bd-ee61-c8aa-c0be-a2a30db98838@quvirl.com>"
+  },
+  {
+    "prospectId": "f9cb53f41b2c6566f00b",
+    "email": "hello@gentlepetstore.co",
+    "status": "sent",
+    "sentAt": "2026-09-10T04:51:50.222Z",
+    "messageId": "<aef0c50b-3b1e-30ec-78af-fa9509dbc7cb@quvirl.com>"
+  },
+  {
+    "prospectId": "1008ce706b4c2b72ec88",
+    "email": "support@layoutkart.com",
+    "status": "sent",
+    "sentAt": "2026-09-10T04:52:35.890Z",
+    "messageId": "<0e2e8911-f179-4961-3286-94d4f16cbdcc@quvirl.com>"
   }
 ]
