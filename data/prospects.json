@@ -3508,5 +3508,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-10T01:10:26.769Z",
     "lastSentAt": "2026-09-10T04:52:35.890Z"
+  },
+  {
+    "id": "f6cfae15f79d3b094a06",
+    "email": "support@petstoregobal.com",
+    "storeName": "Pet Store Global",
+    "storeUrl": "https://petstoreglobal.store",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-10T18:30:40.006Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
