@@ -3534,5 +3534,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-11T01:12:06.158Z",
     "lastSentAt": "2026-09-11T04:48:24.765Z"
+  },
+  {
+    "id": "3e8e16e3257d21863c00",
+    "email": "support@boostertheme.com",
+    "storeName": "Booster Theme | Best Converting Shopify Theme",
+    "storeUrl": "https://boostertheme.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-11T09:43:11.111Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
