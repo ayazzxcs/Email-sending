@@ -1895,5 +1895,12 @@
     "status": "sent",
     "sentAt": "2026-09-10T21:47:08.843Z",
     "messageId": "<17f2e2d7-8ecb-a487-a064-8ae4b1afc440@quvirl.com>"
+  },
+  {
+    "prospectId": "3334d6739ff86a242be1",
+    "email": "info@boombeauty.com",
+    "status": "sent",
+    "sentAt": "2026-09-11T04:48:24.765Z",
+    "messageId": "<53b82689-97fe-9105-2c37-8c8866703bf7@quvirl.com>"
   }
 ]
