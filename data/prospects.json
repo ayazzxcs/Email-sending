@@ -3555,9 +3555,10 @@
     "storeUrl": "https://bcool.ie",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-11T14:34:33.747Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-11T16:35:57.953Z"
+    "approvedAt": "2026-09-11T16:35:57.953Z",
+    "lastSentAt": "2026-09-11T18:42:09.569Z"
   }
 ]

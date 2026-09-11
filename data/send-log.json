@@ -1909,5 +1909,12 @@
     "status": "sent",
     "sentAt": "2026-09-11T14:35:59.216Z",
     "messageId": "<24c4aa85-f028-4502-0f37-15b24473de36@quvirl.com>"
+  },
+  {
+    "prospectId": "9f103732015b4b7c6ee5",
+    "email": "info@bcool.ie",
+    "status": "sent",
+    "sentAt": "2026-09-11T18:42:09.569Z",
+    "messageId": "<0386329d-b424-c53b-9f98-62d5bd4d2f9b@quvirl.com>"
   }
 ]
