@@ -1902,5 +1902,12 @@
     "status": "sent",
     "sentAt": "2026-09-11T04:48:24.765Z",
     "messageId": "<53b82689-97fe-9105-2c37-8c8866703bf7@quvirl.com>"
+  },
+  {
+    "prospectId": "3e8e16e3257d21863c00",
+    "email": "support@boostertheme.com",
+    "status": "sent",
+    "sentAt": "2026-09-11T14:35:59.216Z",
+    "messageId": "<24c4aa85-f028-4502-0f37-15b24473de36@quvirl.com>"
   }
 ]
