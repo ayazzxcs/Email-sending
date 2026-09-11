@@ -3529,8 +3529,9 @@
     "storeUrl": "https://boombeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-11T00:14:16.885Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-11T01:12:06.158Z"
   }
 ]
