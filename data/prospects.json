@@ -3542,8 +3542,9 @@
     "storeUrl": "https://boostertheme.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-11T09:43:11.111Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-11T11:32:16.132Z"
   }
 ]
