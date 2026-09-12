@@ -3571,5 +3571,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "92fbe0dab89a516542f0",
+    "email": "hello@southernpalmsdecor.com",
+    "storeName": "Southern Palms Furniture Decor and Interior Design Orange Beach AL",
+    "storeUrl": "https://southernpalmsdecor.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-12T10:51:25.519Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
