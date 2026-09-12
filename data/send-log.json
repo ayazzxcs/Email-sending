@@ -1916,5 +1916,19 @@
     "status": "sent",
     "sentAt": "2026-09-11T18:42:09.569Z",
     "messageId": "<0386329d-b424-c53b-9f98-62d5bd4d2f9b@quvirl.com>"
+  },
+  {
+    "prospectId": "1c145fe025c7eda44169",
+    "email": "info@huraapps.com",
+    "status": "sent",
+    "sentAt": "2026-09-12T14:16:37.062Z",
+    "messageId": "<293b9cad-bc24-d328-3421-01b51605e3ae@quvirl.com>"
+  },
+  {
+    "prospectId": "92fbe0dab89a516542f0",
+    "email": "hello@southernpalmsdecor.com",
+    "status": "sent",
+    "sentAt": "2026-09-12T14:17:23.276Z",
+    "messageId": "<c317bba6-7577-2742-d441-11f408102720@quvirl.com>"
   }
 ]

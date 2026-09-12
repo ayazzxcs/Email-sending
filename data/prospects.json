@@ -3568,10 +3568,11 @@
     "storeUrl": "https://www.huratips.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-12T05:55:14.382Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-12T10:57:08.364Z"
+    "approvedAt": "2026-09-12T10:57:08.364Z",
+    "lastSentAt": "2026-09-12T14:16:37.062Z"
   },
   {
     "id": "92fbe0dab89a516542f0",
@@ -3580,9 +3581,10 @@
     "storeUrl": "https://southernpalmsdecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-12T10:51:25.519Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-12T10:57:08.364Z"
+    "approvedAt": "2026-09-12T10:57:08.364Z",
+    "lastSentAt": "2026-09-12T14:17:23.276Z"
   }
 ]
