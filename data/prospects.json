@@ -3560,5 +3560,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-11T16:35:57.953Z",
     "lastSentAt": "2026-09-11T18:42:09.569Z"
+  },
+  {
+    "id": "1c145fe025c7eda44169",
+    "email": "info@huraapps.com",
+    "storeName": "Hura Tips - Sharing knowledge about Shopify, Business online, Marketing online and Programming",
+    "storeUrl": "https://www.huratips.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-12T05:55:14.382Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
