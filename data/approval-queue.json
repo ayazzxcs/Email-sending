@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "144063247d5e8bde05d2",
+    "email": "hello@shannanbowerhome.com",
+    "storeName": "Home Décor & Gifts in Fort Worth TX – Shannan Bower Home",
+    "storeUrl": "https://www.shannanbowerhome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-12T22:21:41.451Z"
+  },
+  {
+    "id": "564e3cc5ee528fd57065",
+    "email": "support@ecombe.com",
+    "storeName": "Ecombe - Easy Page Builder for Shopify",
+    "storeUrl": "https://ecombe.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-12T22:25:55.521Z"
+  },
+  {
+    "id": "e9c2b313c5a2743ca38f",
+    "email": "contact@ecombe.com",
+    "storeName": "Ecombe - Easy Page Builder for Shopify",
+    "storeUrl": "https://ecombe.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-12T22:25:55.521Z"
+  }
+]
