@@ -3594,10 +3594,11 @@
     "storeUrl": "https://www.shannanbowerhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-12T22:21:41.451Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-13T01:08:58.274Z"
+    "approvedAt": "2026-09-13T01:08:58.274Z",
+    "lastSentAt": "2026-09-13T04:54:38.635Z"
   },
   {
     "id": "564e3cc5ee528fd57065",
@@ -3606,10 +3607,11 @@
     "storeUrl": "https://ecombe.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-12T22:25:55.521Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-13T01:08:58.275Z"
+    "approvedAt": "2026-09-13T01:08:58.275Z",
+    "lastSentAt": "2026-09-13T04:55:24.359Z"
   },
   {
     "id": "e9c2b313c5a2743ca38f",
@@ -3618,10 +3620,11 @@
     "storeUrl": "https://ecombe.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-12T22:25:55.521Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-13T01:08:58.275Z"
+    "approvedAt": "2026-09-13T01:08:58.275Z",
+    "lastSentAt": "2026-09-13T04:56:10.061Z"
   },
   {
     "id": "b577a58cc8b291b46ed9",
@@ -3630,9 +3633,10 @@
     "storeUrl": "https://ambermarieandcompany.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-13T00:08:07.161Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-13T01:08:58.275Z"
+    "approvedAt": "2026-09-13T01:08:58.275Z",
+    "lastSentAt": "2026-09-13T04:56:55.651Z"
   }
 ]
