@@ -3619,5 +3619,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "b577a58cc8b291b46ed9",
+    "email": "contact@ambermarieco.com",
+    "storeName": "Women’s Boutique, Home Decor, Gifts & Seasonal| Amber Marie & Company – Amber Marie and Company",
+    "storeUrl": "https://ambermarieandcompany.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-13T00:08:07.161Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
