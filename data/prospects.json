@@ -3651,5 +3651,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-14T06:27:15.972Z",
     "lastSentAt": "2026-09-14T13:02:49.756Z"
+  },
+  {
+    "id": "e581fdf09d59e977058c",
+    "email": "support@multivariants.com",
+    "storeName": "MultiVariants – One-Click Bulk Add to Cart for Shopify Variants",
+    "storeUrl": "https://multivariants.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-14T18:45:05.921Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
