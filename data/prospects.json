@@ -3638,5 +3638,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-13T01:08:58.275Z",
     "lastSentAt": "2026-09-13T04:56:55.651Z"
+  },
+  {
+    "id": "74f835193e2a664240a0",
+    "email": "info@simplso.com",
+    "storeName": "SimplSo | Shopify Plus Agency | Web Design & Development",
+    "storeUrl": "https://www.simplso.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-14T06:20:56.707Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
