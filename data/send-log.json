@@ -1958,5 +1958,12 @@
     "status": "sent",
     "sentAt": "2026-09-13T04:56:55.651Z",
     "messageId": "<42cbf3bc-b1cc-1cf1-499c-61be9bdc7a4c@quvirl.com>"
+  },
+  {
+    "prospectId": "74f835193e2a664240a0",
+    "email": "info@simplso.com",
+    "status": "sent",
+    "sentAt": "2026-09-14T13:02:49.756Z",
+    "messageId": "<2223d4db-3eb8-c615-dde1-8457d05e42af@quvirl.com>"
   }
 ]
