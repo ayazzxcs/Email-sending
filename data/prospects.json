@@ -3646,8 +3646,9 @@
     "storeUrl": "https://www.simplso.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-14T06:20:56.707Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-14T06:27:15.972Z"
   }
 ]
