@@ -3659,8 +3659,9 @@
     "storeUrl": "https://multivariants.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-14T18:45:05.921Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-14T23:12:37.746Z"
   }
 ]
