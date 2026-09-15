@@ -3672,10 +3672,11 @@
     "storeUrl": "https://wrenandwild.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:49:35.796Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-15T18:20:06.487Z"
+    "approvedAt": "2026-09-15T18:20:06.487Z",
+    "lastSentAt": "2026-09-15T21:29:58.808Z"
   },
   {
     "id": "2b55332ede34188870a0",
@@ -3684,10 +3685,11 @@
     "storeUrl": "https://gymconcepts.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:52:35.328Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-15T18:20:06.488Z"
+    "approvedAt": "2026-09-15T18:20:06.488Z",
+    "lastSentAt": "2026-09-15T21:30:45.070Z"
   },
   {
     "id": "8af4e86894d38e31b3bb",
@@ -3696,10 +3698,11 @@
     "storeUrl": "https://hillfitnessuk.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:52:57.102Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-15T18:20:06.488Z"
+    "approvedAt": "2026-09-15T18:20:06.488Z",
+    "lastSentAt": "2026-09-15T21:31:31.157Z"
   },
   {
     "id": "12ea11135f4364cf11de",
@@ -3708,10 +3711,11 @@
     "storeUrl": "https://www.mcsport.ie",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:53:19.456Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-15T18:20:06.488Z"
+    "approvedAt": "2026-09-15T18:20:06.488Z",
+    "lastSentAt": "2026-09-15T21:32:17.587Z"
   },
   {
     "id": "5972140563b506df2bf1",
@@ -3720,9 +3724,10 @@
     "storeUrl": "https://macarthurfitnessequipment.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T13:41:00.823Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-15T18:20:06.488Z"
+    "approvedAt": "2026-09-15T18:20:06.488Z",
+    "lastSentAt": "2026-09-15T21:33:03.948Z"
   }
 ]
