@@ -3672,9 +3672,10 @@
     "storeUrl": "https://wrenandwild.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:49:35.796Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-15T18:20:06.487Z"
   },
   {
     "id": "2b55332ede34188870a0",
@@ -3683,9 +3684,10 @@
     "storeUrl": "https://gymconcepts.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:52:35.328Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-15T18:20:06.488Z"
   },
   {
     "id": "8af4e86894d38e31b3bb",
@@ -3694,9 +3696,10 @@
     "storeUrl": "https://hillfitnessuk.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:52:57.102Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-15T18:20:06.488Z"
   },
   {
     "id": "12ea11135f4364cf11de",
@@ -3705,9 +3708,10 @@
     "storeUrl": "https://www.mcsport.ie",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T07:53:19.456Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-15T18:20:06.488Z"
   },
   {
     "id": "5972140563b506df2bf1",
@@ -3716,8 +3720,9 @@
     "storeUrl": "https://macarthurfitnessequipment.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-15T13:41:00.823Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-15T18:20:06.488Z"
   }
 ]
