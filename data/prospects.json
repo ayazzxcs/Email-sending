@@ -3708,5 +3708,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "5972140563b506df2bf1",
+    "email": "hello@macarthurfitnessequipment.com.au",
+    "storeName": "Gym & Fitness Equipment Sydney | Home Gym Equipment |Macarthur Fitness",
+    "storeUrl": "https://macarthurfitnessequipment.com.au",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-15T13:41:00.823Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
