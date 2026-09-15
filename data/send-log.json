@@ -1965,5 +1965,12 @@
     "status": "sent",
     "sentAt": "2026-09-14T13:02:49.756Z",
     "messageId": "<2223d4db-3eb8-c615-dde1-8457d05e42af@quvirl.com>"
+  },
+  {
+    "prospectId": "e581fdf09d59e977058c",
+    "email": "support@multivariants.com",
+    "status": "sent",
+    "sentAt": "2026-09-15T01:37:41.521Z",
+    "messageId": "<6cb6db49-d0e1-3cb6-7975-8bfb19105dfd@quvirl.com>"
   }
 ]
