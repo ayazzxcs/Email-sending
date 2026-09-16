@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "d28adb0db5f4b0cfa958",
+    "email": "info@pawsnatural.ca",
+    "storeName": "Pet Store Nearby | PawsNatural Pet Store",
+    "storeUrl": "https://pawsnatural.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-16T06:03:15.052Z"
+  },
+  {
+    "id": "ebe11709ece27a1a45e9",
+    "email": "info@vintllc.com",
+    "storeName": "PetCentral | Premium Pet Food & Supplies UAE | Dubai Online Pet Store – PetCentral UAE",
+    "storeUrl": "https://www.petcentral.ae",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-16T06:03:20.557Z"
+  },
+  {
+    "id": "5a43f1c45779c9ed5857",
+    "email": "marketing@petcentral.ae",
+    "storeName": "PetCentral | Premium Pet Food & Supplies UAE | Dubai Online Pet Store – PetCentral UAE",
+    "storeUrl": "https://www.petcentral.ae",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-16T06:03:20.557Z"
+  },
+  {
+    "id": "ed637b2a2d9dbac7f12e",
+    "email": "info@nestasia.in",
+    "storeName": "Modern Home Decor by Nestasia - India's Most Loved Lifestyle Store",
+    "storeUrl": "https://nestasia.in",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-16T06:06:53.252Z"
+  }
+]
