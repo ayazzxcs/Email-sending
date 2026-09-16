@@ -2007,5 +2007,33 @@
     "status": "sent",
     "sentAt": "2026-09-15T21:33:03.948Z",
     "messageId": "<145e93a9-3c51-e231-364b-34b53d06670f@quvirl.com>"
+  },
+  {
+    "prospectId": "d28adb0db5f4b0cfa958",
+    "email": "info@pawsnatural.ca",
+    "status": "sent",
+    "sentAt": "2026-09-16T17:04:48.060Z",
+    "messageId": "<41fd493c-e10d-e198-4e42-3c98059b123b@quvirl.com>"
+  },
+  {
+    "prospectId": "ebe11709ece27a1a45e9",
+    "email": "info@vintllc.com",
+    "status": "sent",
+    "sentAt": "2026-09-16T17:05:33.793Z",
+    "messageId": "<3de79816-7385-a716-f055-19dda1ba151c@quvirl.com>"
+  },
+  {
+    "prospectId": "5a43f1c45779c9ed5857",
+    "email": "marketing@petcentral.ae",
+    "status": "sent",
+    "sentAt": "2026-09-16T17:06:19.473Z",
+    "messageId": "<d550b1a5-237d-791c-1aec-c1ab5fdd1d98@quvirl.com>"
+  },
+  {
+    "prospectId": "ed637b2a2d9dbac7f12e",
+    "email": "info@nestasia.in",
+    "status": "sent",
+    "sentAt": "2026-09-16T17:07:07.344Z",
+    "messageId": "<80f4bbd0-4842-8c53-b2b2-030eddfc7e18@quvirl.com>"
   }
 ]

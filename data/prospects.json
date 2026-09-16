@@ -3737,10 +3737,11 @@
     "storeUrl": "https://pawsnatural.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-16T06:03:15.052Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-16T11:48:10.227Z"
+    "approvedAt": "2026-09-16T11:48:10.227Z",
+    "lastSentAt": "2026-09-16T17:04:48.060Z"
   },
   {
     "id": "ebe11709ece27a1a45e9",
@@ -3749,10 +3750,11 @@
     "storeUrl": "https://www.petcentral.ae",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-16T06:03:20.557Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-16T11:48:10.228Z"
+    "approvedAt": "2026-09-16T11:48:10.228Z",
+    "lastSentAt": "2026-09-16T17:05:33.793Z"
   },
   {
     "id": "5a43f1c45779c9ed5857",
@@ -3761,10 +3763,11 @@
     "storeUrl": "https://www.petcentral.ae",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-16T06:03:20.557Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-16T11:48:10.228Z"
+    "approvedAt": "2026-09-16T11:48:10.228Z",
+    "lastSentAt": "2026-09-16T17:06:19.473Z"
   },
   {
     "id": "ed637b2a2d9dbac7f12e",
@@ -3773,9 +3776,10 @@
     "storeUrl": "https://nestasia.in",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-16T06:06:53.252Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-16T11:48:10.228Z"
+    "approvedAt": "2026-09-16T11:48:10.228Z",
+    "lastSentAt": "2026-09-16T17:07:07.344Z"
   }
 ]
