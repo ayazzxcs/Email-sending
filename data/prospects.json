@@ -3792,5 +3792,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "c016dd3da2efab6ac75b",
+    "email": "hello@themoultymally.co.uk",
+    "storeName": "The Moulty Mally Pet Store",
+    "storeUrl": "https://themoultymally.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-16T22:58:38.720Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
