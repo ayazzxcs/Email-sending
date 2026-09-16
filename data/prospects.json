@@ -3781,5 +3781,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-16T11:48:10.228Z",
     "lastSentAt": "2026-09-16T17:07:07.344Z"
+  },
+  {
+    "id": "f2ad64fcb37b639c9648",
+    "email": "info@brother-mart.com",
+    "storeName": "Best Electronics & Gadgets Store in Nepal – Brother-mart",
+    "storeUrl": "https://brother-mart.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-16T20:15:47.168Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
