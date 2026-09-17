@@ -3815,9 +3815,10 @@
     "storeUrl": "https://yvesrocherusa.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T07:44:09.741Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-17T22:16:20.060Z"
   },
   {
     "id": "be8c4b537513790b35c3",
@@ -3826,9 +3827,10 @@
     "storeUrl": "https://www.vetnpetdirect.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T13:29:10.009Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-17T22:16:20.060Z"
   },
   {
     "id": "517bff2ba04feb61dd91",
@@ -3837,9 +3839,10 @@
     "storeUrl": "https://vivapetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T13:29:48.344Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-17T22:16:20.060Z"
   },
   {
     "id": "60140f952aa25b820301",
@@ -3848,9 +3851,10 @@
     "storeUrl": "https://vivapetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T13:29:48.344Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-17T22:16:20.060Z"
   },
   {
     "id": "391c640cdbeea4858797",
@@ -3859,8 +3863,9 @@
     "storeUrl": "https://rabyana.in",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T18:18:37.805Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-17T22:16:20.060Z"
   }
 ]
