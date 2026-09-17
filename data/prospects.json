@@ -3789,10 +3789,11 @@
     "storeUrl": "https://brother-mart.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-16T20:15:47.168Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-17T01:34:43.257Z"
+    "approvedAt": "2026-09-17T01:34:43.257Z",
+    "lastSentAt": "2026-09-17T07:49:17.749Z"
   },
   {
     "id": "c016dd3da2efab6ac75b",
@@ -3801,9 +3802,21 @@
     "storeUrl": "https://themoultymally.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-16T22:58:38.720Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-17T01:34:43.258Z"
+    "approvedAt": "2026-09-17T01:34:43.258Z",
+    "lastSentAt": "2026-09-17T07:50:04.310Z"
+  },
+  {
+    "id": "a04d5cc8233cf76581bf",
+    "email": "info@yvesrocher.us",
+    "storeName": "Yves Rocher: Natural Beauty Products",
+    "storeUrl": "https://yvesrocherusa.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-17T07:44:09.741Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
