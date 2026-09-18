@@ -3872,5 +3872,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-17T22:16:20.060Z",
     "lastSentAt": "2026-09-18T00:22:03.086Z"
+  },
+  {
+    "id": "7ef6d3af495548757dfc",
+    "email": "support@evofitnessshop.com",
+    "storeName": "EVO Fitness – Best Boxing Gloves, MMA & Gym Accessories UK",
+    "storeUrl": "https://evofitnessshop.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-18T14:40:04.104Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
