@@ -3880,9 +3880,10 @@
     "storeUrl": "https://evofitnessshop.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-18T14:40:04.104Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-18T16:32:30.276Z"
+    "approvedAt": "2026-09-18T16:32:30.276Z",
+    "lastSentAt": "2026-09-18T18:36:29.429Z"
   }
 ]

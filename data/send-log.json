@@ -2084,5 +2084,12 @@
     "status": "sent",
     "sentAt": "2026-09-18T00:22:03.086Z",
     "messageId": "<461c04ef-ff42-6932-69b1-4c4e4e1c5472@quvirl.com>"
+  },
+  {
+    "prospectId": "7ef6d3af495548757dfc",
+    "email": "support@evofitnessshop.com",
+    "status": "sent",
+    "sentAt": "2026-09-18T18:36:29.429Z",
+    "messageId": "<bad9f634-dabe-0919-84a1-82590c67c79c@quvirl.com>"
   }
 ]
