@@ -2049,5 +2049,40 @@
     "status": "sent",
     "sentAt": "2026-09-17T07:50:04.310Z",
     "messageId": "<a0e1ee58-7330-862a-3f48-e0f1449edaec@quvirl.com>"
+  },
+  {
+    "prospectId": "a04d5cc8233cf76581bf",
+    "email": "info@yvesrocher.us",
+    "status": "sent",
+    "sentAt": "2026-09-18T00:18:58.080Z",
+    "messageId": "<88c1f5d1-9540-745c-792e-e7d6305f5cba@quvirl.com>"
+  },
+  {
+    "prospectId": "be8c4b537513790b35c3",
+    "email": "support@vetnpetdirect.com.au",
+    "status": "sent",
+    "sentAt": "2026-09-18T00:19:44.315Z",
+    "messageId": "<c9170a22-0bae-5efc-5ce7-61bf20c433c0@quvirl.com>"
+  },
+  {
+    "prospectId": "517bff2ba04feb61dd91",
+    "email": "info@vivapetsupply.com",
+    "status": "sent",
+    "sentAt": "2026-09-18T00:20:30.798Z",
+    "messageId": "<5f61c05a-debc-8dcb-3dda-0b3e83b6f1c4@quvirl.com>"
+  },
+  {
+    "prospectId": "60140f952aa25b820301",
+    "email": "sales@vivapetsupply.com",
+    "status": "sent",
+    "sentAt": "2026-09-18T00:21:16.866Z",
+    "messageId": "<f4fd03ee-fea5-b996-ef64-f8828491b8e2@quvirl.com>"
+  },
+  {
+    "prospectId": "391c640cdbeea4858797",
+    "email": "info@rabyana.in",
+    "status": "sent",
+    "sentAt": "2026-09-18T00:22:03.086Z",
+    "messageId": "<461c04ef-ff42-6932-69b1-4c4e4e1c5472@quvirl.com>"
   }
 ]

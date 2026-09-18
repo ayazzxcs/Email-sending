@@ -3815,10 +3815,11 @@
     "storeUrl": "https://yvesrocherusa.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T07:44:09.741Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-17T22:16:20.060Z"
+    "approvedAt": "2026-09-17T22:16:20.060Z",
+    "lastSentAt": "2026-09-18T00:18:58.080Z"
   },
   {
     "id": "be8c4b537513790b35c3",
@@ -3827,10 +3828,11 @@
     "storeUrl": "https://www.vetnpetdirect.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T13:29:10.009Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-17T22:16:20.060Z"
+    "approvedAt": "2026-09-17T22:16:20.060Z",
+    "lastSentAt": "2026-09-18T00:19:44.315Z"
   },
   {
     "id": "517bff2ba04feb61dd91",
@@ -3839,10 +3841,11 @@
     "storeUrl": "https://vivapetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T13:29:48.344Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-17T22:16:20.060Z"
+    "approvedAt": "2026-09-17T22:16:20.060Z",
+    "lastSentAt": "2026-09-18T00:20:30.798Z"
   },
   {
     "id": "60140f952aa25b820301",
@@ -3851,10 +3854,11 @@
     "storeUrl": "https://vivapetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T13:29:48.344Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-17T22:16:20.060Z"
+    "approvedAt": "2026-09-17T22:16:20.060Z",
+    "lastSentAt": "2026-09-18T00:21:16.866Z"
   },
   {
     "id": "391c640cdbeea4858797",
@@ -3863,9 +3867,10 @@
     "storeUrl": "https://rabyana.in",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-17T18:18:37.805Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-17T22:16:20.060Z"
+    "approvedAt": "2026-09-17T22:16:20.060Z",
+    "lastSentAt": "2026-09-18T00:22:03.086Z"
   }
 ]
