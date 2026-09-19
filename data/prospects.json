@@ -3893,9 +3893,10 @@
     "storeUrl": "https://neat.digital",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-19T11:05:18.185Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-19T11:10:59.502Z"
+    "approvedAt": "2026-09-19T11:10:59.502Z",
+    "lastSentAt": "2026-09-19T14:34:59.273Z"
   }
 ]
