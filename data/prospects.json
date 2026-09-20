@@ -3919,9 +3919,43 @@
     "storeUrl": "https://seldens.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-20T11:33:25.501Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-20T12:28:40.805Z"
+    "approvedAt": "2026-09-20T12:28:40.805Z",
+    "lastSentAt": "2026-09-20T16:16:48.855Z"
+  },
+  {
+    "id": "f379ca9ccdc8a54e85f8",
+    "email": "sales@petsupply.co.nz",
+    "storeName": "Shop Quality Pet Food, Flea Treatments & Essentials in NZ – Pet Supply",
+    "storeUrl": "https://petsupply.co.nz",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-20T16:08:15.582Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "5ab0f6003d56e8624393",
+    "email": "info@rocklandbeautysupply.ca",
+    "storeName": "Beauty Supply Store in Rockland, ON | Hair, Wigs & Skincare – Rockland Beauty Supply",
+    "storeUrl": "https://www.rocklandbeautysupply.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-20T16:10:59.557Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "d4e7f421b837302cb20f",
+    "email": "sales@pullumsports.com",
+    "storeName": "Best Gym Equipment Manufacturer UK | Pullum Sports",
+    "storeUrl": "https://www.pullumsports.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-20T16:16:29.062Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

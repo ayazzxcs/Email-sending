@@ -2105,5 +2105,12 @@
     "status": "sent",
     "sentAt": "2026-09-20T11:37:52.963Z",
     "messageId": "<f2d3b41a-b6dd-af04-d988-33e5ca424955@quvirl.com>"
+  },
+  {
+    "prospectId": "14130d4ce467d363ca28",
+    "email": "hello@seldens.com",
+    "status": "sent",
+    "sentAt": "2026-09-20T16:16:48.855Z",
+    "messageId": "<7d2bb553-7a85-a56e-af41-2d129276f0c8@quvirl.com>"
   }
 ]
