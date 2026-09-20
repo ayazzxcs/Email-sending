@@ -2112,5 +2112,26 @@
     "status": "sent",
     "sentAt": "2026-09-20T16:16:48.855Z",
     "messageId": "<7d2bb553-7a85-a56e-af41-2d129276f0c8@quvirl.com>"
+  },
+  {
+    "prospectId": "f379ca9ccdc8a54e85f8",
+    "email": "sales@petsupply.co.nz",
+    "status": "sent",
+    "sentAt": "2026-09-20T18:57:38.526Z",
+    "messageId": "<8680ea2a-e489-bd56-e9aa-bacad5bab73b@quvirl.com>"
+  },
+  {
+    "prospectId": "5ab0f6003d56e8624393",
+    "email": "info@rocklandbeautysupply.ca",
+    "status": "sent",
+    "sentAt": "2026-09-20T18:58:25.054Z",
+    "messageId": "<acca77e1-a5aa-c2cd-a29e-b44baa1c0bab@quvirl.com>"
+  },
+  {
+    "prospectId": "d4e7f421b837302cb20f",
+    "email": "sales@pullumsports.com",
+    "status": "sent",
+    "sentAt": "2026-09-20T18:59:11.418Z",
+    "messageId": "<fdf2a72b-8ced-664a-1c5d-71376ce30c40@quvirl.com>"
   }
 ]

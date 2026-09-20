@@ -3932,10 +3932,11 @@
     "storeUrl": "https://petsupply.co.nz",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-20T16:08:15.582Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-20T16:52:34.841Z"
+    "approvedAt": "2026-09-20T16:52:34.841Z",
+    "lastSentAt": "2026-09-20T18:57:38.526Z"
   },
   {
     "id": "5ab0f6003d56e8624393",
@@ -3944,10 +3945,11 @@
     "storeUrl": "https://www.rocklandbeautysupply.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-20T16:10:59.557Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-20T16:52:34.842Z"
+    "approvedAt": "2026-09-20T16:52:34.842Z",
+    "lastSentAt": "2026-09-20T18:58:25.054Z"
   },
   {
     "id": "d4e7f421b837302cb20f",
@@ -3956,9 +3958,10 @@
     "storeUrl": "https://www.pullumsports.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-20T16:16:29.062Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-20T16:52:34.842Z"
+    "approvedAt": "2026-09-20T16:52:34.842Z",
+    "lastSentAt": "2026-09-20T18:59:11.418Z"
   }
 ]
