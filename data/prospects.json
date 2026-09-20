@@ -3906,9 +3906,21 @@
     "storeUrl": "https://modernnomadhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-20T06:21:50.672Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-20T06:27:15.330Z"
+    "approvedAt": "2026-09-20T06:27:15.330Z",
+    "lastSentAt": "2026-09-20T11:37:52.963Z"
+  },
+  {
+    "id": "14130d4ce467d363ca28",
+    "email": "hello@seldens.com",
+    "storeName": "Seldens Designer Home Furnishings",
+    "storeUrl": "https://seldens.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-20T11:33:25.501Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
