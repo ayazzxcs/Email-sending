@@ -3963,5 +3963,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-20T16:52:34.842Z",
     "lastSentAt": "2026-09-20T18:59:11.418Z"
+  },
+  {
+    "id": "ad694e0038f420093c0b",
+    "email": "support@dropshipbeauty.app",
+    "storeName": "Dropship Beauty - Hair & Beauty Dropshipping for Shopify",
+    "storeUrl": "https://www.dropshipbeauty.app",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-21T00:21:27.687Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
