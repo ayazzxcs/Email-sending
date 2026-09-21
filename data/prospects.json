@@ -3984,9 +3984,32 @@
     "storeUrl": "https://www.whitemountainpuzzles.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-21T10:45:49.076Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-21T14:19:09.853Z"
+    "approvedAt": "2026-09-21T14:19:09.853Z",
+    "lastSentAt": "2026-09-21T17:13:14.386Z"
+  },
+  {
+    "id": "12efc3202dd170ce54f7",
+    "email": "hello@edgebeautypro.com",
+    "storeName": "Edge Beauty Pro | Official Noemi USA",
+    "storeUrl": "https://edgebeautypro.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-21T17:08:45.699Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "b7c8d84a7a80ee7774dd",
+    "email": "hello@layoutkart.com",
+    "storeName": "100+ Shopify, WordPress & Landing Pages Designed | LayoutKart",
+    "storeUrl": "https://layoutkart.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-21T17:10:15.342Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

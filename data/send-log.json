@@ -2140,5 +2140,12 @@
     "status": "sent",
     "sentAt": "2026-09-21T05:10:27.195Z",
     "messageId": "<1c52d183-0c81-3eee-c02d-165223bfb97d@quvirl.com>"
+  },
+  {
+    "prospectId": "26aeeda8973be8aa6ef9",
+    "email": "info@whitemountainpuzzles.com",
+    "status": "sent",
+    "sentAt": "2026-09-21T17:13:14.386Z",
+    "messageId": "<972cbc5e-55ec-e909-8f84-b697dc05abbc@quvirl.com>"
   }
 ]
