@@ -3984,8 +3984,9 @@
     "storeUrl": "https://www.whitemountainpuzzles.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-21T10:45:49.076Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-21T14:19:09.853Z"
   }
 ]
