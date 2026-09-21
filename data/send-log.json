@@ -2147,5 +2147,19 @@
     "status": "sent",
     "sentAt": "2026-09-21T17:13:14.386Z",
     "messageId": "<972cbc5e-55ec-e909-8f84-b697dc05abbc@quvirl.com>"
+  },
+  {
+    "prospectId": "12efc3202dd170ce54f7",
+    "email": "hello@edgebeautypro.com",
+    "status": "sent",
+    "sentAt": "2026-09-21T21:13:26.533Z",
+    "messageId": "<bbf39232-90dc-1954-4d17-575bcb39c363@quvirl.com>"
+  },
+  {
+    "prospectId": "b7c8d84a7a80ee7774dd",
+    "email": "hello@layoutkart.com",
+    "status": "sent",
+    "sentAt": "2026-09-21T21:14:12.246Z",
+    "messageId": "<1e819b0a-01ff-90a3-5eb8-de1b5df19888@quvirl.com>"
   }
 ]

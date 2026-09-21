@@ -3997,10 +3997,11 @@
     "storeUrl": "https://edgebeautypro.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-21T17:08:45.699Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-21T19:36:40.300Z"
+    "approvedAt": "2026-09-21T19:36:40.300Z",
+    "lastSentAt": "2026-09-21T21:13:26.533Z"
   },
   {
     "id": "b7c8d84a7a80ee7774dd",
@@ -4009,9 +4010,10 @@
     "storeUrl": "https://layoutkart.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-21T17:10:15.342Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-21T19:36:40.300Z"
+    "approvedAt": "2026-09-21T19:36:40.300Z",
+    "lastSentAt": "2026-09-21T21:14:12.246Z"
   }
 ]
