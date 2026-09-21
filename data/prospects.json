@@ -3971,9 +3971,10 @@
     "storeUrl": "https://www.dropshipbeauty.app",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-21T00:21:27.687Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-21T01:13:22.178Z"
+    "approvedAt": "2026-09-21T01:13:22.178Z",
+    "lastSentAt": "2026-09-21T05:10:27.195Z"
   }
 ]
