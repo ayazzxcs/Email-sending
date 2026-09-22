@@ -4015,5 +4015,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-21T19:36:40.300Z",
     "lastSentAt": "2026-09-21T21:14:12.246Z"
+  },
+  {
+    "id": "227b5415f3de7ed57f79",
+    "email": "contact@vowelweb.com",
+    "storeName": "VowelWeb - Expert Web Development Company In Nagpur, India",
+    "storeUrl": "https://www.vowelweb.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-22T14:58:20.461Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "99e2c343bb33e4dd69b3",
+    "email": "hello@ecomplix.com",
+    "storeName": "Shopify Store Design & Development Agency | ECOMPLIX",
+    "storeUrl": "https://ecomplix.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-22T15:02:15.877Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

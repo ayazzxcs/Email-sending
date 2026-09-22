@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "227b5415f3de7ed57f79",
+    "email": "contact@vowelweb.com",
+    "storeName": "VowelWeb - Expert Web Development Company In Nagpur, India",
+    "storeUrl": "https://www.vowelweb.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-22T14:58:20.461Z"
+  },
+  {
+    "id": "99e2c343bb33e4dd69b3",
+    "email": "hello@ecomplix.com",
+    "storeName": "Shopify Store Design & Development Agency | ECOMPLIX",
+    "storeUrl": "https://ecomplix.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-22T15:02:15.877Z"
+  }
+]
