@@ -4023,9 +4023,10 @@
     "storeUrl": "https://www.vowelweb.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-22T14:58:20.461Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-22T18:59:05.575Z"
   },
   {
     "id": "99e2c343bb33e4dd69b3",
@@ -4034,8 +4035,9 @@
     "storeUrl": "https://ecomplix.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-22T15:02:15.877Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-22T18:59:05.576Z"
   }
 ]
