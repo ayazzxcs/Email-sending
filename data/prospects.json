@@ -4067,5 +4067,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-23T17:13:54.105Z",
     "lastSentAt": "2026-09-23T20:32:49.883Z"
+  },
+  {
+    "id": "42dcaf99cd23561f524c",
+    "email": "info@umepet.co.za",
+    "storeName": "Adult Dog Food South Africa | Premium UMe Pet Store",
+    "storeUrl": "https://umepet.co.za",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-23T23:45:10.215Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
