@@ -4041,5 +4041,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-09-22T18:59:05.576Z",
     "lastSentAt": "2026-09-22T22:19:30.538Z"
+  },
+  {
+    "id": "806c936027e8f350938c",
+    "email": "support@feederspetsupply.com",
+    "storeName": "Feeders Pet Supply",
+    "storeUrl": "https://feederspetsupply.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-23T16:59:11.603Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "5fb031b22e6537cfc2f4",
+    "email": "info@feederspetsupply.com",
+    "storeName": "Feeders Pet Supply",
+    "storeUrl": "https://feederspetsupply.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-23T16:59:11.603Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
