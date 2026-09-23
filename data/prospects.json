@@ -4049,10 +4049,11 @@
     "storeUrl": "https://feederspetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-23T16:59:11.603Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-23T17:13:54.105Z"
+    "approvedAt": "2026-09-23T17:13:54.105Z",
+    "lastSentAt": "2026-09-23T20:32:03.870Z"
   },
   {
     "id": "5fb031b22e6537cfc2f4",
@@ -4061,9 +4062,10 @@
     "storeUrl": "https://feederspetsupply.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-23T16:59:11.603Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-23T17:13:54.105Z"
+    "approvedAt": "2026-09-23T17:13:54.105Z",
+    "lastSentAt": "2026-09-23T20:32:49.883Z"
   }
 ]
