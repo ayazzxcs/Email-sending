@@ -2189,5 +2189,12 @@
     "status": "sent",
     "sentAt": "2026-09-23T20:32:49.883Z",
     "messageId": "<f0616b86-5700-8e8f-b886-b00f2a3ede8b@quvirl.com>"
+  },
+  {
+    "prospectId": "42dcaf99cd23561f524c",
+    "email": "info@umepet.co.za",
+    "status": "sent",
+    "sentAt": "2026-09-24T10:11:13.263Z",
+    "messageId": "<9768323b-db8f-e63b-c8e5-c5338f9cdb7c@quvirl.com>"
   }
 ]
