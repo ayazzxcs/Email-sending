@@ -4102,5 +4102,16 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "66bf853fd6f39d0c3480",
+    "email": "info@lighthouseco.ca",
+    "storeName": "Light House Co. | Lighting, Furniture, & Home Decor Store",
+    "storeUrl": "https://www.lighthouseco.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-25T18:43:43.028Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
