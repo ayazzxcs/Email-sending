@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "92634f74b45e1a5c8e88",
+    "email": "support@samsitservices.com",
+    "storeName": "Shopify Web Development Company | Sams IT Services",
+    "storeUrl": "https://www.samsitservices.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-25T13:51:33.636Z"
+  },
+  {
+    "id": "d4ac5d348c4055710651",
+    "email": "team@cove-home.co",
+    "storeName": "Global Artisian Home Decor | Cove Home",
+    "storeUrl": "https://cove-home.co",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-25T13:52:48.685Z"
+  }
+]
