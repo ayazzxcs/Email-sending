@@ -4088,9 +4088,10 @@
     "storeUrl": "https://www.samsitservices.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-25T13:51:33.636Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-25T22:29:53.581Z"
   },
   {
     "id": "d4ac5d348c4055710651",
@@ -4099,9 +4100,10 @@
     "storeUrl": "https://cove-home.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-25T13:52:48.685Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-25T22:29:53.581Z"
   },
   {
     "id": "66bf853fd6f39d0c3480",
@@ -4110,8 +4112,9 @@
     "storeUrl": "https://www.lighthouseco.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-25T18:43:43.028Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-09-25T22:29:53.581Z"
   }
 ]
