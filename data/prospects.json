@@ -4127,10 +4127,11 @@
     "storeUrl": "https://petpantry.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:35:51.452Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:11:16.111Z"
   },
   {
     "id": "6228e436a1c05ed000de",
@@ -4139,10 +4140,11 @@
     "storeUrl": "https://globalpetfoods.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:36:07.547Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:12:02.277Z"
   },
   {
     "id": "2b91dae5e990024fd8f7",
@@ -4151,10 +4153,11 @@
     "storeUrl": "https://globalpetfoods.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:36:07.547Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:12:48.480Z"
   },
   {
     "id": "091d13b4047fec7fb8c2",
@@ -4163,10 +4166,11 @@
     "storeUrl": "https://www.rocklandbeautysupply.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:37:48.692Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:13:34.679Z"
   },
   {
     "id": "a03422b1b5be3a10c10f",
@@ -4175,10 +4179,11 @@
     "storeUrl": "https://shophibou.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:39:48.245Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:14:21.782Z"
   },
   {
     "id": "e92117a2e0ea993d5f63",
@@ -4187,10 +4192,11 @@
     "storeUrl": "https://theroomcollection.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:40:05.511Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:15:08.703Z"
   },
   {
     "id": "35007ed83a48f6c045df",
@@ -4199,10 +4205,11 @@
     "storeUrl": "https://furniturehouse.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:40:22.491Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:15:55.064Z"
   },
   {
     "id": "6808ee93db7814669a62",
@@ -4211,10 +4218,11 @@
     "storeUrl": "https://www.steelinghome.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:40:27.462Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:16:41.703Z"
   },
   {
     "id": "e3653c44ec25a5d60965",
@@ -4223,10 +4231,11 @@
     "storeUrl": "https://joshuacreekfurniture.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:40:29.453Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:17:28.320Z"
   },
   {
     "id": "2b021654335bdd27f6cc",
@@ -4235,10 +4244,11 @@
     "storeUrl": "https://oliveandwild.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:41:02.947Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:18:14.909Z"
   },
   {
     "id": "1ea3d7ffbdb9e8d5ca94",
@@ -4247,10 +4257,11 @@
     "storeUrl": "https://homesmithhouse.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:41:05.260Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:19:02.254Z"
   },
   {
     "id": "c2e85407c77fe54df192",
@@ -4259,10 +4270,11 @@
     "storeUrl": "https://www.mararamiro.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:41:14.303Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:19:50.005Z"
   },
   {
     "id": "4cb3f7c3e945db52996c",
@@ -4271,10 +4283,11 @@
     "storeUrl": "https://www.athomewestvancouver.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:41:20.601Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:20:36.491Z"
   },
   {
     "id": "7006de84df0103bc8a72",
@@ -4283,10 +4296,11 @@
     "storeUrl": "https://feo.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:42:43.152Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:21:22.976Z"
   },
   {
     "id": "b7dead725650e11dc71d",
@@ -4295,10 +4309,11 @@
     "storeUrl": "https://finerfitness.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:43:59.444Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:22:09.432Z"
   },
   {
     "id": "362dec851291c4382de8",
@@ -4307,10 +4322,11 @@
     "storeUrl": "https://gorilafitness.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:44:20.540Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:22:55.991Z"
   },
   {
     "id": "90b30b0f5605e1471d47",
@@ -4319,10 +4335,11 @@
     "storeUrl": "https://summumfitness.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:44:35.503Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:23:42.745Z"
   },
   {
     "id": "baeac0725b07965785d7",
@@ -4331,10 +4348,11 @@
     "storeUrl": "https://bodygym.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T01:44:38.879Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:24:29.055Z"
   },
   {
     "id": "197d6b22a44c9702053c",
@@ -4343,9 +4361,10 @@
     "storeUrl": "https://hydrafitnessparts.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-26T07:49:30.121Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-26T07:50:40.515Z"
+    "approvedAt": "2026-09-26T07:50:40.515Z",
+    "lastSentAt": "2026-09-26T13:25:15.291Z"
   }
 ]
