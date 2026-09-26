@@ -2196,5 +2196,26 @@
     "status": "sent",
     "sentAt": "2026-09-24T10:11:13.263Z",
     "messageId": "<9768323b-db8f-e63b-c8e5-c5338f9cdb7c@quvirl.com>"
+  },
+  {
+    "prospectId": "92634f74b45e1a5c8e88",
+    "email": "support@samsitservices.com",
+    "status": "sent",
+    "sentAt": "2026-09-26T01:44:52.943Z",
+    "messageId": "<a3ed4492-8ea0-0d53-dae2-7a47d90af9e7@quvirl.com>"
+  },
+  {
+    "prospectId": "d4ac5d348c4055710651",
+    "email": "team@cove-home.co",
+    "status": "sent",
+    "sentAt": "2026-09-26T01:45:38.924Z",
+    "messageId": "<24d76c9c-8eb2-a1ea-58fb-381539f91dfb@quvirl.com>"
+  },
+  {
+    "prospectId": "66bf853fd6f39d0c3480",
+    "email": "info@lighthouseco.ca",
+    "status": "sent",
+    "sentAt": "2026-09-26T01:46:24.818Z",
+    "messageId": "<ebe7efe7-0d3c-200f-1b25-6c744f6bde20@quvirl.com>"
   }
 ]

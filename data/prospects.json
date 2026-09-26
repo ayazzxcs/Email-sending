@@ -4088,10 +4088,11 @@
     "storeUrl": "https://www.samsitservices.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-25T13:51:33.636Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-25T22:29:53.581Z"
+    "approvedAt": "2026-09-25T22:29:53.581Z",
+    "lastSentAt": "2026-09-26T01:44:52.943Z"
   },
   {
     "id": "d4ac5d348c4055710651",
@@ -4100,10 +4101,11 @@
     "storeUrl": "https://cove-home.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-25T13:52:48.685Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-25T22:29:53.581Z"
+    "approvedAt": "2026-09-25T22:29:53.581Z",
+    "lastSentAt": "2026-09-26T01:45:38.924Z"
   },
   {
     "id": "66bf853fd6f39d0c3480",
@@ -4112,9 +4114,208 @@
     "storeUrl": "https://www.lighthouseco.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-09-25T18:43:43.028Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-09-25T22:29:53.581Z"
+    "approvedAt": "2026-09-25T22:29:53.581Z",
+    "lastSentAt": "2026-09-26T01:46:24.818Z"
+  },
+  {
+    "id": "47c205790434aa6c1eb2",
+    "email": "info@petpantry.ca",
+    "storeName": "PET FOOD DELIVERY – PET PANTRY CANADA",
+    "storeUrl": "https://petpantry.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:35:51.452Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "6228e436a1c05ed000de",
+    "email": "info@globalpetfoods.ca",
+    "storeName": "Global Pet Foods",
+    "storeUrl": "https://globalpetfoods.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:36:07.547Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "2b91dae5e990024fd8f7",
+    "email": "info@globalpetfoods.com",
+    "storeName": "Global Pet Foods",
+    "storeUrl": "https://globalpetfoods.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:36:07.547Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "091d13b4047fec7fb8c2",
+    "email": "hello@rocklandbeautysupply.ca",
+    "storeName": "Beauty Supply Store in Rockland, ON | Hair, Wigs & Skincare – Rockland Beauty Supply",
+    "storeUrl": "https://www.rocklandbeautysupply.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:37:48.692Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "a03422b1b5be3a10c10f",
+    "email": "info@shophibou.com",
+    "storeName": "Modern furniture, Home decor & Accessories | Hibou Home",
+    "storeUrl": "https://shophibou.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:39:48.245Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "e92117a2e0ea993d5f63",
+    "email": "info@theroomcollection.ca",
+    "storeName": "The Room Collection - Furniture, Home Decor + Gifts",
+    "storeUrl": "https://theroomcollection.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:40:05.511Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "35007ed83a48f6c045df",
+    "email": "sales@furniturehouse.ca",
+    "storeName": "St. Jacobs Furniture House",
+    "storeUrl": "https://furniturehouse.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:40:22.491Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "6808ee93db7814669a62",
+    "email": "info@steelinghome.ca",
+    "storeName": "Steeling Home",
+    "storeUrl": "https://www.steelinghome.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:40:27.462Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "e3653c44ec25a5d60965",
+    "email": "info@joshuacreekfurniture.com",
+    "storeName": "Joshua Creek Furniture and Home Decor",
+    "storeUrl": "https://joshuacreekfurniture.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:40:29.453Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "2b021654335bdd27f6cc",
+    "email": "info@oliveandwild.com",
+    "storeName": "Olive+Wild | Unique Home Decor Gifts and Judaica in Vancouver",
+    "storeUrl": "https://oliveandwild.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:41:02.947Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "1ea3d7ffbdb9e8d5ca94",
+    "email": "hello@homesmithhouse.com",
+    "storeName": "Toronto Home Décor Store",
+    "storeUrl": "https://homesmithhouse.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:41:05.260Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "c2e85407c77fe54df192",
+    "email": "hello@mararamiro.com",
+    "storeName": "Mararamiro Home Decor | Toronto",
+    "storeUrl": "https://www.mararamiro.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:41:14.303Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "4cb3f7c3e945db52996c",
+    "email": "contact@athomewestvancouver.com",
+    "storeName": "At Home",
+    "storeUrl": "https://www.athomewestvancouver.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:41:20.601Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "7006de84df0103bc8a72",
+    "email": "info@feo.ca",
+    "storeName": "Fitness Equipment of Ottawa & Outaouais | FEO",
+    "storeUrl": "https://feo.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:42:43.152Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "b7dead725650e11dc71d",
+    "email": "info@finerfitness.ca",
+    "storeName": "Finer Fitness Inc.",
+    "storeUrl": "https://finerfitness.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:43:59.444Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "362dec851291c4382de8",
+    "email": "info@gorilafitness.ca",
+    "storeName": "Gorila Fitness | Performance Gym Equipment",
+    "storeUrl": "https://gorilafitness.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:44:20.540Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "90b30b0f5605e1471d47",
+    "email": "info@summumfitness.ca",
+    "storeName": "Gym & Fitness Equipment in Canada | Summum Fitness",
+    "storeUrl": "https://summumfitness.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:44:35.503Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "baeac0725b07965785d7",
+    "email": "info@bodygym.ca",
+    "storeName": "Body Gym Équipements Inc. – Body Gym équipements",
+    "storeUrl": "https://bodygym.ca",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-09-26T01:44:38.879Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
