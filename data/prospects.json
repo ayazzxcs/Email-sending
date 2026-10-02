@@ -4374,9 +4374,10 @@
     "storeUrl": "https://taranker.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-01T23:18:44.193Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-02T00:53:37.323Z"
   },
   {
     "id": "be8f637053d96ee08e38",
@@ -4385,8 +4386,9 @@
     "storeUrl": "https://taranker.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-01T23:18:44.193Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-02T00:53:37.323Z"
   }
 ]
