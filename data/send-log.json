@@ -2350,5 +2350,19 @@
     "status": "sent",
     "sentAt": "2026-09-26T13:25:15.291Z",
     "messageId": "<771bd5cf-f26b-c66f-9a4c-c3281dbe7194@quvirl.com>"
+  },
+  {
+    "prospectId": "f46535437d6e5be203d4",
+    "email": "support@taranker.com",
+    "status": "sent",
+    "sentAt": "2026-10-02T02:23:52.574Z",
+    "messageId": "<ad6112d5-f402-9f9b-280d-1a661443b24f@quvirl.com>"
+  },
+  {
+    "prospectId": "be8f637053d96ee08e38",
+    "email": "support@smartarget.online",
+    "status": "sent",
+    "sentAt": "2026-10-02T02:24:38.720Z",
+    "messageId": "<ccb6a81f-c189-1d34-f660-f30361b61fe2@quvirl.com>"
   }
 ]

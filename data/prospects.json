@@ -4374,10 +4374,11 @@
     "storeUrl": "https://taranker.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-01T23:18:44.193Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T00:53:37.323Z"
+    "approvedAt": "2026-10-02T00:53:37.323Z",
+    "lastSentAt": "2026-10-02T02:23:52.574Z"
   },
   {
     "id": "be8f637053d96ee08e38",
@@ -4386,9 +4387,76 @@
     "storeUrl": "https://taranker.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-01T23:18:44.193Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T00:53:37.323Z"
+    "approvedAt": "2026-10-02T00:53:37.323Z",
+    "lastSentAt": "2026-10-02T02:24:38.720Z"
+  },
+  {
+    "id": "32cbbad31857dcdf2a0b",
+    "email": "hello@exhibea.com",
+    "storeName": "Luxury Shopify Agency & Ecommerce Design | Exhibea",
+    "storeUrl": "https://exhibea.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-02T02:22:43.727Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "5383aef4a34dbee05f76",
+    "email": "hello@littlewonderandco.com",
+    "storeName": "Little Wonder & Co. - Toys And More For Your Kids And Toddlers",
+    "storeUrl": "https://littlewonderandco.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-02T02:22:53.556Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "8fc28be47ce45600fee5",
+    "email": "hello@katequinn.com",
+    "storeName": "High Quality Baby & Children Clothes – kate quinn",
+    "storeUrl": "https://katequinn.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-02T02:22:56.723Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "75d985b91084430670aa",
+    "email": "business@katequinnorganics.com",
+    "storeName": "High Quality Baby & Children Clothes – kate quinn",
+    "storeUrl": "https://katequinn.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-02T02:22:56.724Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "e85483a6063fffe9184d",
+    "email": "hello@loulouandcompany.com",
+    "storeName": "Lou Lou and Company Baby Blankets and Accessories",
+    "storeUrl": "https://www.loulouandcompany.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-02T02:23:28.212Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "096c6ff53208b579d334",
+    "email": "info@donsje.com",
+    "storeName": "Donsje Amsterdam Online Store | High-End Baby and Childrenswear",
+    "storeUrl": "https://donsje.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-02T02:23:48.828Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
