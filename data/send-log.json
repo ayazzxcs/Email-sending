@@ -2364,5 +2364,47 @@
     "status": "sent",
     "sentAt": "2026-10-02T02:24:38.720Z",
     "messageId": "<ccb6a81f-c189-1d34-f660-f30361b61fe2@quvirl.com>"
+  },
+  {
+    "prospectId": "32cbbad31857dcdf2a0b",
+    "email": "hello@exhibea.com",
+    "status": "sent",
+    "sentAt": "2026-10-02T08:44:28.000Z",
+    "messageId": "<70f05b86-6141-c8d7-4887-aa493b096a0a@quvirl.com>"
+  },
+  {
+    "prospectId": "5383aef4a34dbee05f76",
+    "email": "hello@littlewonderandco.com",
+    "status": "sent",
+    "sentAt": "2026-10-02T08:45:14.157Z",
+    "messageId": "<a73dd81e-7d0f-4dd7-6ba8-28304ef18da3@quvirl.com>"
+  },
+  {
+    "prospectId": "8fc28be47ce45600fee5",
+    "email": "hello@katequinn.com",
+    "status": "sent",
+    "sentAt": "2026-10-02T08:46:00.288Z",
+    "messageId": "<dc357999-0086-4a41-8d44-d7f4d1f91d26@quvirl.com>"
+  },
+  {
+    "prospectId": "75d985b91084430670aa",
+    "email": "business@katequinnorganics.com",
+    "status": "sent",
+    "sentAt": "2026-10-02T08:46:46.447Z",
+    "messageId": "<fe25a914-878e-7b3e-4c69-167c2e512cfd@quvirl.com>"
+  },
+  {
+    "prospectId": "e85483a6063fffe9184d",
+    "email": "hello@loulouandcompany.com",
+    "status": "sent",
+    "sentAt": "2026-10-02T08:47:32.735Z",
+    "messageId": "<90f28c52-eb4a-aa31-0ef0-d127ecf21834@quvirl.com>"
+  },
+  {
+    "prospectId": "096c6ff53208b579d334",
+    "email": "info@donsje.com",
+    "status": "sent",
+    "sentAt": "2026-10-02T08:48:18.878Z",
+    "messageId": "<db3f4161-df2c-d623-fcff-f75cfb9dbe15@quvirl.com>"
   }
 ]

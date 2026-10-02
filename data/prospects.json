@@ -4400,10 +4400,11 @@
     "storeUrl": "https://exhibea.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-02T02:22:43.727Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T07:04:39.551Z"
+    "approvedAt": "2026-10-02T07:04:39.551Z",
+    "lastSentAt": "2026-10-02T08:44:28.000Z"
   },
   {
     "id": "5383aef4a34dbee05f76",
@@ -4412,10 +4413,11 @@
     "storeUrl": "https://littlewonderandco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-02T02:22:53.556Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T07:04:39.551Z"
+    "approvedAt": "2026-10-02T07:04:39.551Z",
+    "lastSentAt": "2026-10-02T08:45:14.157Z"
   },
   {
     "id": "8fc28be47ce45600fee5",
@@ -4424,10 +4426,11 @@
     "storeUrl": "https://katequinn.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-02T02:22:56.723Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T07:04:39.551Z"
+    "approvedAt": "2026-10-02T07:04:39.551Z",
+    "lastSentAt": "2026-10-02T08:46:00.288Z"
   },
   {
     "id": "75d985b91084430670aa",
@@ -4436,10 +4439,11 @@
     "storeUrl": "https://katequinn.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-02T02:22:56.724Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T07:04:39.551Z"
+    "approvedAt": "2026-10-02T07:04:39.551Z",
+    "lastSentAt": "2026-10-02T08:46:46.447Z"
   },
   {
     "id": "e85483a6063fffe9184d",
@@ -4448,10 +4452,11 @@
     "storeUrl": "https://www.loulouandcompany.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-02T02:23:28.212Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T07:04:39.551Z"
+    "approvedAt": "2026-10-02T07:04:39.551Z",
+    "lastSentAt": "2026-10-02T08:47:32.735Z"
   },
   {
     "id": "096c6ff53208b579d334",
@@ -4460,9 +4465,10 @@
     "storeUrl": "https://donsje.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-02T02:23:48.828Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-02T07:04:39.551Z"
+    "approvedAt": "2026-10-02T07:04:39.551Z",
+    "lastSentAt": "2026-10-02T08:48:18.878Z"
   }
 ]
