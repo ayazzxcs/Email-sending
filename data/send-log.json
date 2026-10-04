@@ -2406,5 +2406,12 @@
     "status": "sent",
     "sentAt": "2026-10-02T08:48:18.878Z",
     "messageId": "<db3f4161-df2c-d623-fcff-f75cfb9dbe15@quvirl.com>"
+  },
+  {
+    "prospectId": "c2aee15730eb960038d3",
+    "email": "contact@sunshinemills.com",
+    "status": "sent",
+    "sentAt": "2026-10-04T15:29:59.654Z",
+    "messageId": "<41a3e82a-c751-a3dd-c713-62c15cae9442@quvirl.com>"
   }
 ]
