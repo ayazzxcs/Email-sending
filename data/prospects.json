@@ -4478,8 +4478,9 @@
     "storeUrl": "https://www.sunshinepetstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-04T09:48:18.735Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-04T09:56:24.762Z"
   }
 ]
