@@ -4505,5 +4505,27 @@
     "status": "review_required",
     "eligible": false,
     "legalBasis": ""
+  },
+  {
+    "id": "8c0dcce015e0391c2ace",
+    "email": "info@urbanapet.com",
+    "storeName": "Stylish Dog Essentials | Urbana Pet Boutique",
+    "storeUrl": "https://urbanapet.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-06T20:20:45.522Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "05f5a998d9c8f6057718",
+    "email": "contact@ogresto.com",
+    "storeName": "Premium Shopify Themes & Custom Store Development | Ogresto",
+    "storeUrl": "https://ogresto.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-06T20:28:03.148Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
