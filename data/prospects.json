@@ -4483,5 +4483,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-04T09:56:24.762Z",
     "lastSentAt": "2026-10-04T15:29:59.654Z"
+  },
+  {
+    "id": "509d473d0a969a156e99",
+    "email": "sales@ptiwebtech.com",
+    "storeName": "Top Web Design & Development Agency | E-commerce Expert Company – PTI WebTech",
+    "storeUrl": "https://www.ptiwebtech.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-06T15:14:24.048Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "e2f267c113c53580bb83",
+    "email": "info@ptiwebtech.com",
+    "storeName": "Top Web Design & Development Agency | E-commerce Expert Company – PTI WebTech",
+    "storeUrl": "https://www.ptiwebtech.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-06T15:14:24.048Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
