@@ -4491,10 +4491,11 @@
     "storeUrl": "https://www.ptiwebtech.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-06T15:14:24.048Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-07T00:48:57.236Z"
+    "approvedAt": "2026-10-07T00:48:57.236Z",
+    "lastSentAt": "2026-10-07T07:24:05.078Z"
   },
   {
     "id": "e2f267c113c53580bb83",
@@ -4503,10 +4504,11 @@
     "storeUrl": "https://www.ptiwebtech.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-06T15:14:24.048Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-07T00:48:57.236Z"
+    "approvedAt": "2026-10-07T00:48:57.236Z",
+    "lastSentAt": "2026-10-07T07:24:51.316Z"
   },
   {
     "id": "8c0dcce015e0391c2ace",
@@ -4515,10 +4517,11 @@
     "storeUrl": "https://urbanapet.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-06T20:20:45.522Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-07T00:48:57.236Z"
+    "approvedAt": "2026-10-07T00:48:57.236Z",
+    "lastSentAt": "2026-10-07T07:25:37.705Z"
   },
   {
     "id": "05f5a998d9c8f6057718",
@@ -4527,9 +4530,10 @@
     "storeUrl": "https://ogresto.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-06T20:28:03.148Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-07T00:48:57.236Z"
+    "approvedAt": "2026-10-07T00:48:57.236Z",
+    "lastSentAt": "2026-10-07T07:26:23.940Z"
   }
 ]
