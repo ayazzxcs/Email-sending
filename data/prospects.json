@@ -4543,9 +4543,10 @@
     "storeUrl": "https://cartcoders.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-07T14:31:13.066Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-07T20:40:52.591Z"
   },
   {
     "id": "2e465589acf2a0660054",
@@ -4554,8 +4555,9 @@
     "storeUrl": "https://racingelectronics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-07T14:37:54.768Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-07T20:40:52.591Z"
   }
 ]
