@@ -2441,5 +2441,19 @@
     "status": "sent",
     "sentAt": "2026-10-07T07:26:23.940Z",
     "messageId": "<de6b1ee8-a82d-1458-e67e-f8d471a2c0ed@quvirl.com>"
+  },
+  {
+    "prospectId": "85c9e25c410be78458d9",
+    "email": "contact@cartcoders.com",
+    "status": "sent",
+    "sentAt": "2026-10-08T01:08:22.893Z",
+    "messageId": "<5b86dc58-2466-81ed-2183-0d4d79c84c09@quvirl.com>"
+  },
+  {
+    "prospectId": "2e465589acf2a0660054",
+    "email": "support@racingelectronics.com",
+    "status": "sent",
+    "sentAt": "2026-10-08T01:09:08.907Z",
+    "messageId": "<cef9539c-066d-6e82-c23b-dc83cdf291d6@quvirl.com>"
   }
 ]

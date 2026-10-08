@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "3be9ae1de48e97ce717c",
+    "email": "info@fortefitnessequipment.com",
+    "storeName": "Forte Fitness Equipment",
+    "storeUrl": "https://www.fortefitnessequipment.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-08T01:08:05.594Z"
+  },
+  {
+    "id": "9234e55daa5b81c4c434",
+    "email": "sales@fortefitnessequipment.com",
+    "storeName": "Forte Fitness Equipment",
+    "storeUrl": "https://www.fortefitnessequipment.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-08T01:08:05.594Z"
+  },
+  {
+    "id": "c7f88b76f2738abbc50d",
+    "email": "marketing@fortefitnessequipment.com",
+    "storeName": "Forte Fitness Equipment",
+    "storeUrl": "https://www.fortefitnessequipment.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-08T01:08:05.594Z"
+  }
+]

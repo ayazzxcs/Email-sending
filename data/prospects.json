@@ -4543,10 +4543,11 @@
     "storeUrl": "https://cartcoders.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-07T14:31:13.066Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-07T20:40:52.591Z"
+    "approvedAt": "2026-10-07T20:40:52.591Z",
+    "lastSentAt": "2026-10-08T01:08:22.893Z"
   },
   {
     "id": "2e465589acf2a0660054",
@@ -4555,9 +4556,43 @@
     "storeUrl": "https://racingelectronics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-07T14:37:54.768Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-07T20:40:52.591Z"
+    "approvedAt": "2026-10-07T20:40:52.591Z",
+    "lastSentAt": "2026-10-08T01:09:08.907Z"
+  },
+  {
+    "id": "3be9ae1de48e97ce717c",
+    "email": "info@fortefitnessequipment.com",
+    "storeName": "Forte Fitness Equipment",
+    "storeUrl": "https://www.fortefitnessequipment.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-08T01:08:05.594Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "9234e55daa5b81c4c434",
+    "email": "sales@fortefitnessequipment.com",
+    "storeName": "Forte Fitness Equipment",
+    "storeUrl": "https://www.fortefitnessequipment.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-08T01:08:05.594Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "c7f88b76f2738abbc50d",
+    "email": "marketing@fortefitnessequipment.com",
+    "storeName": "Forte Fitness Equipment",
+    "storeUrl": "https://www.fortefitnessequipment.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-08T01:08:05.594Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
