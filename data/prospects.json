@@ -4569,9 +4569,10 @@
     "storeUrl": "https://www.fortefitnessequipment.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-08T01:08:05.594Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-08T07:35:21.687Z"
   },
   {
     "id": "9234e55daa5b81c4c434",
@@ -4580,9 +4581,10 @@
     "storeUrl": "https://www.fortefitnessequipment.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-08T01:08:05.594Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-08T07:35:21.687Z"
   },
   {
     "id": "c7f88b76f2738abbc50d",
@@ -4591,8 +4593,9 @@
     "storeUrl": "https://www.fortefitnessequipment.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-08T01:08:05.594Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-08T07:35:21.687Z"
   }
 ]
