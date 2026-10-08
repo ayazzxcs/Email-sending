@@ -2455,5 +2455,26 @@
     "status": "sent",
     "sentAt": "2026-10-08T01:09:08.907Z",
     "messageId": "<cef9539c-066d-6e82-c23b-dc83cdf291d6@quvirl.com>"
+  },
+  {
+    "prospectId": "3be9ae1de48e97ce717c",
+    "email": "info@fortefitnessequipment.com",
+    "status": "sent",
+    "sentAt": "2026-10-08T15:38:17.704Z",
+    "messageId": "<31eae848-fd2f-8bfe-13c1-85812d44bdc2@quvirl.com>"
+  },
+  {
+    "prospectId": "9234e55daa5b81c4c434",
+    "email": "sales@fortefitnessequipment.com",
+    "status": "sent",
+    "sentAt": "2026-10-08T15:39:03.732Z",
+    "messageId": "<cca3dbd0-94c7-4bc8-bffd-1165334c949e@quvirl.com>"
+  },
+  {
+    "prospectId": "c7f88b76f2738abbc50d",
+    "email": "marketing@fortefitnessequipment.com",
+    "status": "sent",
+    "sentAt": "2026-10-08T15:39:49.677Z",
+    "messageId": "<e7828d4f-7a1c-bc48-d1cf-047f3d9d0412@quvirl.com>"
   }
 ]
