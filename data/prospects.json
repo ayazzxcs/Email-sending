@@ -4600,5 +4600,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-08T07:35:21.687Z",
     "lastSentAt": "2026-10-08T15:39:49.677Z"
+  },
+  {
+    "id": "f5d103fa12a5733b8af7",
+    "email": "info@oneonic.com",
+    "storeName": "Full Service Web & Marketing Ecommerce Agency | OneOnic Solutions - OneOnic Solutions",
+    "storeUrl": "https://oneonic.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-12T23:00:09.195Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
