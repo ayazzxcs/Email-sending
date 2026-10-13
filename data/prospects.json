@@ -4608,9 +4608,10 @@
     "storeUrl": "https://oneonic.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-12T23:00:09.195Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-13T02:06:20.978Z"
+    "approvedAt": "2026-10-13T02:06:20.978Z",
+    "lastSentAt": "2026-10-13T03:35:42.462Z"
   }
 ]

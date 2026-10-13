@@ -2476,5 +2476,12 @@
     "status": "sent",
     "sentAt": "2026-10-08T15:39:49.677Z",
     "messageId": "<e7828d4f-7a1c-bc48-d1cf-047f3d9d0412@quvirl.com>"
+  },
+  {
+    "prospectId": "f5d103fa12a5733b8af7",
+    "email": "info@oneonic.com",
+    "status": "sent",
+    "sentAt": "2026-10-13T03:35:42.462Z",
+    "messageId": "<d35cc413-52a7-ae3c-2497-e415a2d8ce8c@quvirl.com>"
   }
 ]
