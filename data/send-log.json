@@ -2490,5 +2490,12 @@
     "status": "sent",
     "sentAt": "2026-10-15T07:37:14.723Z",
     "messageId": "<a47b2db1-dd03-831d-c478-541b9d9f449f@quvirl.com>"
+  },
+  {
+    "prospectId": "4bbfa3f27e95cfded351",
+    "email": "info@easyappsecom.com",
+    "status": "sent",
+    "sentAt": "2026-10-15T18:20:41.199Z",
+    "messageId": "<772e019e-e293-3ff7-ec69-cdc68faab4a2@quvirl.com>"
   }
 ]

@@ -4634,9 +4634,10 @@
     "storeUrl": "https://easyappsecom.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-15T07:35:08.043Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-15T13:31:34.128Z"
+    "approvedAt": "2026-10-15T13:31:34.128Z",
+    "lastSentAt": "2026-10-15T18:20:41.199Z"
   }
 ]
