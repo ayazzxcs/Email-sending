@@ -2483,5 +2483,12 @@
     "status": "sent",
     "sentAt": "2026-10-13T03:35:42.462Z",
     "messageId": "<d35cc413-52a7-ae3c-2497-e415a2d8ce8c@quvirl.com>"
+  },
+  {
+    "prospectId": "c01fec2200a370fe7934",
+    "email": "sales@vestafitness.com",
+    "status": "sent",
+    "sentAt": "2026-10-15T07:37:14.723Z",
+    "messageId": "<a47b2db1-dd03-831d-c478-541b9d9f449f@quvirl.com>"
   }
 ]
