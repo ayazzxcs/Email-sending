@@ -4647,9 +4647,10 @@
     "storeUrl": "https://sweedbeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-17T18:33:09.919Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-17T19:33:40.925Z"
+    "approvedAt": "2026-10-17T19:33:40.925Z",
+    "lastSentAt": "2026-10-17T21:29:49.930Z"
   }
 ]

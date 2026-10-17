@@ -2497,5 +2497,12 @@
     "status": "sent",
     "sentAt": "2026-10-15T18:20:41.199Z",
     "messageId": "<772e019e-e293-3ff7-ec69-cdc68faab4a2@quvirl.com>"
+  },
+  {
+    "prospectId": "f76e9c004aec4280b497",
+    "email": "info@sweedbeauty.com",
+    "status": "sent",
+    "sentAt": "2026-10-17T21:29:49.930Z",
+    "messageId": "<6248568f-9b94-3bf3-fb60-64535a8e6850@quvirl.com>"
   }
 ]
