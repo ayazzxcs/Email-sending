@@ -4652,5 +4652,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-17T19:33:40.925Z",
     "lastSentAt": "2026-10-17T21:29:49.930Z"
+  },
+  {
+    "id": "816a065f4b08cba49afb",
+    "email": "support@bubapetstore.com",
+    "storeName": "BubaPet - Pet Store",
+    "storeUrl": "https://bubapetstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-19T06:18:07.959Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
