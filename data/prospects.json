@@ -4660,8 +4660,9 @@
     "storeUrl": "https://bubapetstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-19T06:18:07.959Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-19T10:55:03.038Z"
   }
 ]
