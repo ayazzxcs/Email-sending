@@ -4665,5 +4665,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-19T10:55:03.038Z",
     "lastSentAt": "2026-10-19T13:22:57.859Z"
+  },
+  {
+    "id": "eff99b477d7786499cb1",
+    "email": "support@shopplaza.io",
+    "storeName": "Shopplaza | Shopify Apps & Technology Services Partner",
+    "storeUrl": "https://shopplaza.io",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-20T04:50:57.661Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
