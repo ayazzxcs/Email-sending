@@ -2511,5 +2511,12 @@
     "status": "sent",
     "sentAt": "2026-10-19T13:22:57.859Z",
     "messageId": "<f8f988ed-2d4f-3104-83a6-011e86c787ac@quvirl.com>"
+  },
+  {
+    "prospectId": "eff99b477d7786499cb1",
+    "email": "support@shopplaza.io",
+    "status": "sent",
+    "sentAt": "2026-10-20T10:06:24.644Z",
+    "messageId": "<2a41e4f6-145e-f9ff-de3c-bf2df831c422@quvirl.com>"
   }
 ]

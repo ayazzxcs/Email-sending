@@ -4673,9 +4673,10 @@
     "storeUrl": "https://shopplaza.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-20T04:50:57.661Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-20T07:44:01.056Z"
+    "approvedAt": "2026-10-20T07:44:01.056Z",
+    "lastSentAt": "2026-10-20T10:06:24.644Z"
   }
 ]
