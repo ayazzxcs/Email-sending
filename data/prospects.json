@@ -4686,8 +4686,9 @@
     "storeUrl": "https://bestlifehealthandfitnessstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-21T07:41:25.303Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-21T07:48:07.257Z"
   }
 ]
