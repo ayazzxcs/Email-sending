@@ -4712,8 +4712,9 @@
     "storeUrl": "https://textconnects.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-24T00:46:13.577Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-24T01:41:48.411Z"
   }
 ]
