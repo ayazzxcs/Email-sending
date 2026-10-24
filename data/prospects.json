@@ -4717,5 +4717,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-24T01:41:48.411Z",
     "lastSentAt": "2026-10-24T05:53:53.963Z"
+  },
+  {
+    "id": "e32e0abf9f79d105f395",
+    "email": "contact@phoenix-fitness.com",
+    "storeName": "UK Fitness Equipment Products and Accessories - Shop Online – Phoenix Fitness",
+    "storeUrl": "https://phoenix-fitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-24T11:03:27.747Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
