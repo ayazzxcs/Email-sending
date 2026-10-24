@@ -2539,5 +2539,12 @@
     "status": "sent",
     "sentAt": "2026-10-24T05:53:53.963Z",
     "messageId": "<2d44e536-441a-1523-878c-1a0225a19801@quvirl.com>"
+  },
+  {
+    "prospectId": "e32e0abf9f79d105f395",
+    "email": "contact@phoenix-fitness.com",
+    "status": "sent",
+    "sentAt": "2026-10-24T14:36:32.850Z",
+    "messageId": "<4ec1db6c-994f-ce66-a388-9e182e1572da@quvirl.com>"
   }
 ]

@@ -4725,9 +4725,21 @@
     "storeUrl": "https://phoenix-fitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-24T11:03:27.747Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-24T12:46:10.505Z"
+    "approvedAt": "2026-10-24T12:46:10.505Z",
+    "lastSentAt": "2026-10-24T14:36:32.850Z"
+  },
+  {
+    "id": "505bd01ad7edf55c2560",
+    "email": "support@halopets.com",
+    "storeName": "Halo Pets",
+    "storeUrl": "https://halopets.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-24T14:35:04.120Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
