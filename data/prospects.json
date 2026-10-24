@@ -4725,8 +4725,9 @@
     "storeUrl": "https://phoenix-fitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-24T11:03:27.747Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-24T12:46:10.505Z"
   }
 ]
