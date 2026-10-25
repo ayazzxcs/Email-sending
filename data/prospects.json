@@ -4743,5 +4743,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-24T16:41:55.093Z",
     "lastSentAt": "2026-10-24T18:12:01.014Z"
+  },
+  {
+    "id": "2872bab1d5075089ed9c",
+    "email": "contact@zilancer.com",
+    "storeName": "Hire a Shopify Expert | Shopify Development Agency | Zilancer",
+    "storeUrl": "https://zilancer.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-25T19:07:15.897Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
