@@ -4751,8 +4751,9 @@
     "storeUrl": "https://zilancer.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-25T19:07:15.897Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-25T19:45:34.635Z"
   }
 ]
