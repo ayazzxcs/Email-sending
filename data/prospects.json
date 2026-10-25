@@ -4751,9 +4751,21 @@
     "storeUrl": "https://zilancer.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-25T19:07:15.897Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-25T19:45:34.635Z"
+    "approvedAt": "2026-10-25T19:45:34.635Z",
+    "lastSentAt": "2026-10-25T21:51:16.897Z"
+  },
+  {
+    "id": "427c9f088c6dafb1f1c2",
+    "email": "info@ecomripple.com",
+    "storeName": "EcomRipple",
+    "storeUrl": "https://ecomripple.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-25T21:48:57.799Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

@@ -2553,5 +2553,12 @@
     "status": "sent",
     "sentAt": "2026-10-24T18:12:01.014Z",
     "messageId": "<86b8e145-5f06-6068-35f3-6264181147c7@quvirl.com>"
+  },
+  {
+    "prospectId": "2872bab1d5075089ed9c",
+    "email": "contact@zilancer.com",
+    "status": "sent",
+    "sentAt": "2026-10-25T21:51:16.897Z",
+    "messageId": "<2b7ae46f-ed7b-1979-c4cb-0fb45f4f1853@quvirl.com>"
   }
 ]
