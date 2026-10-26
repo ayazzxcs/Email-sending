@@ -2560,5 +2560,12 @@
     "status": "sent",
     "sentAt": "2026-10-25T21:51:16.897Z",
     "messageId": "<2b7ae46f-ed7b-1979-c4cb-0fb45f4f1853@quvirl.com>"
+  },
+  {
+    "prospectId": "427c9f088c6dafb1f1c2",
+    "email": "info@ecomripple.com",
+    "status": "sent",
+    "sentAt": "2026-10-26T00:28:07.473Z",
+    "messageId": "<9e6cbcd5-d555-a9ed-1903-ddb115adafb9@quvirl.com>"
   }
 ]

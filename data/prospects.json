@@ -4764,9 +4764,10 @@
     "storeUrl": "https://ecomripple.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-25T21:48:57.799Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-25T22:39:02.635Z"
+    "approvedAt": "2026-10-25T22:39:02.635Z",
+    "lastSentAt": "2026-10-26T00:28:07.473Z"
   }
 ]
