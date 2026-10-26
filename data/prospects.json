@@ -4777,8 +4777,9 @@
     "storeUrl": "https://liquifyplus.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-26T06:15:12.647Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-26T07:54:48.011Z"
   }
 ]
