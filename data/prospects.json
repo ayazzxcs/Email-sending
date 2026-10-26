@@ -4769,5 +4769,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-25T22:39:02.635Z",
     "lastSentAt": "2026-10-26T00:28:07.473Z"
+  },
+  {
+    "id": "ea5b58cf3cc2e997c57c",
+    "email": "hello@liquifyplus.com",
+    "storeName": "Liquifyplus — Shopify Development, Redesign & CRO",
+    "storeUrl": "https://liquifyplus.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-26T06:15:12.647Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
