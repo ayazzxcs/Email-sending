@@ -2567,5 +2567,12 @@
     "status": "sent",
     "sentAt": "2026-10-26T00:28:07.473Z",
     "messageId": "<9e6cbcd5-d555-a9ed-1903-ddb115adafb9@quvirl.com>"
+  },
+  {
+    "prospectId": "ea5b58cf3cc2e997c57c",
+    "email": "hello@liquifyplus.com",
+    "status": "sent",
+    "sentAt": "2026-10-26T13:06:34.718Z",
+    "messageId": "<7c77fb26-3250-ee27-d663-571631c87fd8@quvirl.com>"
   }
 ]
