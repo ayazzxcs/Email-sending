@@ -2574,5 +2574,26 @@
     "status": "sent",
     "sentAt": "2026-10-26T13:06:34.718Z",
     "messageId": "<7c77fb26-3250-ee27-d663-571631c87fd8@quvirl.com>"
+  },
+  {
+    "prospectId": "e8cac6e59fa585cfb663",
+    "email": "support@chowhoundpetsupplies.com",
+    "status": "sent",
+    "sentAt": "2026-10-28T21:12:13.004Z",
+    "messageId": "<1493d267-0d06-ef00-b682-90e0c288d24e@quvirl.com>"
+  },
+  {
+    "prospectId": "37b262ac29dab7d9873f",
+    "email": "info@chowhoundpetsupplies.com",
+    "status": "sent",
+    "sentAt": "2026-10-28T21:12:59.158Z",
+    "messageId": "<a9467a95-27e9-c61a-52c9-307ca7e6f936@quvirl.com>"
+  },
+  {
+    "prospectId": "47361b7c1936abf51e76",
+    "email": "info@pinkthecat.com",
+    "status": "sent",
+    "sentAt": "2026-10-28T21:13:45.076Z",
+    "messageId": "<0681fcf9-ab96-990c-2a5d-b78c12c28895@quvirl.com>"
   }
 ]

@@ -4790,10 +4790,11 @@
     "storeUrl": "https://chowhoundpetsupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-28T16:04:06.226Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-28T18:55:54.528Z"
+    "approvedAt": "2026-10-28T18:55:54.528Z",
+    "lastSentAt": "2026-10-28T21:12:13.004Z"
   },
   {
     "id": "37b262ac29dab7d9873f",
@@ -4802,10 +4803,11 @@
     "storeUrl": "https://chowhoundpetsupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-28T16:04:06.226Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-28T18:55:54.528Z"
+    "approvedAt": "2026-10-28T18:55:54.528Z",
+    "lastSentAt": "2026-10-28T21:12:59.158Z"
   },
   {
     "id": "47361b7c1936abf51e76",
@@ -4814,9 +4816,21 @@
     "storeUrl": "https://www.pinkthecat.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-28T16:05:04.396Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-28T18:55:54.528Z"
+    "approvedAt": "2026-10-28T18:55:54.528Z",
+    "lastSentAt": "2026-10-28T21:13:45.076Z"
+  },
+  {
+    "id": "404a05f500f736ee379e",
+    "email": "hello@homemalonenola.com",
+    "storeName": "Home Malone: New Orleans Best Local Shop For Art Gifts Home Decor",
+    "storeUrl": "https://homemalonenola.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-28T21:09:19.954Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
