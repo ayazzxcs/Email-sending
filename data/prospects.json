@@ -4790,9 +4790,10 @@
     "storeUrl": "https://chowhoundpetsupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-28T16:04:06.226Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-28T18:55:54.528Z"
   },
   {
     "id": "37b262ac29dab7d9873f",
@@ -4801,9 +4802,10 @@
     "storeUrl": "https://chowhoundpetsupplies.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-28T16:04:06.226Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-28T18:55:54.528Z"
   },
   {
     "id": "47361b7c1936abf51e76",
@@ -4812,8 +4814,9 @@
     "storeUrl": "https://www.pinkthecat.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-28T16:05:04.396Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-28T18:55:54.528Z"
   }
 ]
