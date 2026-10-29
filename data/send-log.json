@@ -2602,5 +2602,12 @@
     "status": "sent",
     "sentAt": "2026-10-29T01:02:32.661Z",
     "messageId": "<4e72f732-d7a3-634e-bfbc-56703c06c70e@quvirl.com>"
+  },
+  {
+    "prospectId": "fbb20e330d51a604e6d7",
+    "email": "hello@liquidlemon.co",
+    "status": "sent",
+    "sentAt": "2026-10-29T07:12:16.471Z",
+    "messageId": "<8a21eb4d-6338-a586-a1d2-b17e2d91bc6d@quvirl.com>"
   }
 ]

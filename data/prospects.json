@@ -4842,9 +4842,65 @@
     "storeUrl": "https://www.liquidlemon.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-29T00:59:11.089Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-29T02:34:09.372Z"
+    "approvedAt": "2026-10-29T02:34:09.372Z",
+    "lastSentAt": "2026-10-29T07:12:16.471Z"
+  },
+  {
+    "id": "fe1a3d81a77fec2ac15a",
+    "email": "info@27-south.com",
+    "storeName": "27 South Online Shop | Leesburg Furniture and Interior Design Shop",
+    "storeUrl": "https://27-south.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-29T07:09:41.120Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "3656981c3a6133f7feb2",
+    "email": "info@linenandclove.com",
+    "storeName": "Linen & Clove",
+    "storeUrl": "https://www.linenandclove.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-29T07:09:46.558Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "7d62a30e742ce109e06a",
+    "email": "support@yourwesterndecorating.com",
+    "storeName": "Luxury Western Furniture & Rustic Home Décor | YWD – Your Western Decor",
+    "storeUrl": "https://yourwesterndecorating.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-29T07:09:49.681Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "4a781e3a9f9dfbdade6d",
+    "email": "hello@homeboundcustomdecor.com",
+    "storeName": "Home Bound Custom Decor",
+    "storeUrl": "https://www.homeboundcustomdecor.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-29T07:09:59.170Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "813b83d4d1152a6f58fd",
+    "email": "hello@paolaandjoy.com",
+    "storeName": "Paola And Joy Lighting & Home Decor",
+    "storeUrl": "https://paolaandjoy.com.au",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-29T07:10:39.344Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
