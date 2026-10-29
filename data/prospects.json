@@ -4842,8 +4842,9 @@
     "storeUrl": "https://www.liquidlemon.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-29T00:59:11.089Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-29T02:34:09.372Z"
   }
 ]
