@@ -2609,5 +2609,40 @@
     "status": "sent",
     "sentAt": "2026-10-29T07:12:16.471Z",
     "messageId": "<8a21eb4d-6338-a586-a1d2-b17e2d91bc6d@quvirl.com>"
+  },
+  {
+    "prospectId": "fe1a3d81a77fec2ac15a",
+    "email": "info@27-south.com",
+    "status": "sent",
+    "sentAt": "2026-10-29T14:25:09.968Z",
+    "messageId": "<591e0f75-0032-cc88-1b65-3f363b0b636d@quvirl.com>"
+  },
+  {
+    "prospectId": "3656981c3a6133f7feb2",
+    "email": "info@linenandclove.com",
+    "status": "sent",
+    "sentAt": "2026-10-29T14:25:55.626Z",
+    "messageId": "<81cc8f3d-8ef1-109b-dc53-75926cd16b8c@quvirl.com>"
+  },
+  {
+    "prospectId": "7d62a30e742ce109e06a",
+    "email": "support@yourwesterndecorating.com",
+    "status": "sent",
+    "sentAt": "2026-10-29T14:26:41.347Z",
+    "messageId": "<a18f556b-dcc9-0f52-66cb-a10ca5c87395@quvirl.com>"
+  },
+  {
+    "prospectId": "4a781e3a9f9dfbdade6d",
+    "email": "hello@homeboundcustomdecor.com",
+    "status": "sent",
+    "sentAt": "2026-10-29T14:27:27.301Z",
+    "messageId": "<3ff6d965-c4e3-acd8-accd-f575cb6b737b@quvirl.com>"
+  },
+  {
+    "prospectId": "813b83d4d1152a6f58fd",
+    "email": "hello@paolaandjoy.com",
+    "status": "sent",
+    "sentAt": "2026-10-29T14:28:13.058Z",
+    "messageId": "<3b3022e2-524b-6c97-3800-edfd78029960@quvirl.com>"
   }
 ]
