@@ -4855,9 +4855,10 @@
     "storeUrl": "https://27-south.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-29T07:09:41.120Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-29T10:10:59.876Z"
   },
   {
     "id": "3656981c3a6133f7feb2",
@@ -4866,9 +4867,10 @@
     "storeUrl": "https://www.linenandclove.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-29T07:09:46.558Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-29T10:10:59.876Z"
   },
   {
     "id": "7d62a30e742ce109e06a",
@@ -4877,9 +4879,10 @@
     "storeUrl": "https://yourwesterndecorating.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-29T07:09:49.681Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-29T10:10:59.876Z"
   },
   {
     "id": "4a781e3a9f9dfbdade6d",
@@ -4888,9 +4891,10 @@
     "storeUrl": "https://www.homeboundcustomdecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-29T07:09:59.170Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-29T10:10:59.876Z"
   },
   {
     "id": "813b83d4d1152a6f58fd",
@@ -4899,8 +4903,9 @@
     "storeUrl": "https://paolaandjoy.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-29T07:10:39.344Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-29T10:10:59.876Z"
   }
 ]
