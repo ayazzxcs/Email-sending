@@ -4912,5 +4912,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-29T10:10:59.876Z",
     "lastSentAt": "2026-10-29T14:28:13.058Z"
+  },
+  {
+    "id": "65485b1e9bad8ea77e0b",
+    "email": "info@greatdayinc.com",
+    "storeName": "Great Day Inc. | Supplier of products for ATVs, UTVs, Trucks, Autos, SUVs, Jeeps and Pets",
+    "storeUrl": "https://greatdayinc.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-29T19:44:33.343Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
