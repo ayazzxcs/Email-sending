@@ -2595,5 +2595,12 @@
     "status": "sent",
     "sentAt": "2026-10-28T21:13:45.076Z",
     "messageId": "<0681fcf9-ab96-990c-2a5d-b78c12c28895@quvirl.com>"
+  },
+  {
+    "prospectId": "404a05f500f736ee379e",
+    "email": "hello@homemalonenola.com",
+    "status": "sent",
+    "sentAt": "2026-10-29T01:02:32.661Z",
+    "messageId": "<4e72f732-d7a3-634e-bfbc-56703c06c70e@quvirl.com>"
   }
 ]

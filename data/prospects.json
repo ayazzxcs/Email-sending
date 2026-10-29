@@ -4829,9 +4829,21 @@
     "storeUrl": "https://homemalonenola.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-28T21:09:19.954Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-28T23:19:18.705Z"
+    "approvedAt": "2026-10-28T23:19:18.705Z",
+    "lastSentAt": "2026-10-29T01:02:32.661Z"
+  },
+  {
+    "id": "fbb20e330d51a604e6d7",
+    "email": "hello@liquidlemon.co",
+    "storeName": "Shopify Design Studio for DTC Brands | Liquid Lemon",
+    "storeUrl": "https://www.liquidlemon.co",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-29T00:59:11.089Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
