@@ -2644,5 +2644,12 @@
     "status": "sent",
     "sentAt": "2026-10-29T14:28:13.058Z",
     "messageId": "<3b3022e2-524b-6c97-3800-edfd78029960@quvirl.com>"
+  },
+  {
+    "prospectId": "65485b1e9bad8ea77e0b",
+    "email": "info@greatdayinc.com",
+    "status": "sent",
+    "sentAt": "2026-10-30T00:05:19.672Z",
+    "messageId": "<d6659c4b-76f1-0515-3cac-1fe6d5f8c999@quvirl.com>"
   }
 ]
