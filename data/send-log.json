@@ -2658,5 +2658,12 @@
     "status": "sent",
     "sentAt": "2026-10-30T13:01:01.199Z",
     "messageId": "<dca320e4-1d61-3224-b79a-71411ec090b5@quvirl.com>"
+  },
+  {
+    "prospectId": "096966cd1c499ee686e2",
+    "email": "info@mrmochasmarketplace.com",
+    "status": "sent",
+    "sentAt": "2026-10-30T23:06:32.798Z",
+    "messageId": "<15a1c417-68c5-c497-8c37-b9bd1599bdc3@quvirl.com>"
   }
 ]
