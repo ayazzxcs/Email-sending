@@ -4938,5 +4938,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-30T08:45:37.765Z",
     "lastSentAt": "2026-10-30T13:01:01.199Z"
+  },
+  {
+    "id": "096966cd1c499ee686e2",
+    "email": "info@mrmochasmarketplace.com",
+    "storeName": "Mr Mochas Pet Supplies | Shop Natural & Quality Pet Products",
+    "storeUrl": "https://www.mrmochaspet.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-10-30T18:38:38.948Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
