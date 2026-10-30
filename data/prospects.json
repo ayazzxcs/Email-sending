@@ -4933,9 +4933,10 @@
     "storeUrl": "https://acefurnitureanddecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-30T05:51:29.533Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-30T08:45:37.765Z"
+    "approvedAt": "2026-10-30T08:45:37.765Z",
+    "lastSentAt": "2026-10-30T13:01:01.199Z"
   }
 ]

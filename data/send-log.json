@@ -2651,5 +2651,12 @@
     "status": "sent",
     "sentAt": "2026-10-30T00:05:19.672Z",
     "messageId": "<d6659c4b-76f1-0515-3cac-1fe6d5f8c999@quvirl.com>"
+  },
+  {
+    "prospectId": "3d2480adecbfd8f7bb58",
+    "email": "hello@acefurnitureanddecor.com",
+    "status": "sent",
+    "sentAt": "2026-10-30T13:01:01.199Z",
+    "messageId": "<dca320e4-1d61-3224-b79a-71411ec090b5@quvirl.com>"
   }
 ]
