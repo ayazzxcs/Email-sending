@@ -4946,8 +4946,9 @@
     "storeUrl": "https://www.mrmochaspet.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-30T18:38:38.948Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-30T20:53:29.764Z"
   }
 ]
