@@ -4933,8 +4933,9 @@
     "storeUrl": "https://acefurnitureanddecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-30T05:51:29.533Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-10-30T08:45:37.765Z"
   }
 ]
