@@ -2665,5 +2665,19 @@
     "status": "sent",
     "sentAt": "2026-10-30T23:06:32.798Z",
     "messageId": "<15a1c417-68c5-c497-8c37-b9bd1599bdc3@quvirl.com>"
+  },
+  {
+    "prospectId": "a9df991a6b810615072b",
+    "email": "support@heycarti.com",
+    "status": "sent",
+    "sentAt": "2026-10-31T02:26:06.464Z",
+    "messageId": "<ad9ca40d-f4a5-26c9-4c17-567cf4382f6d@quvirl.com>"
+  },
+  {
+    "prospectId": "2f12f8f98af3dc7344d7",
+    "email": "support@missha.zendesk.com",
+    "status": "sent",
+    "sentAt": "2026-10-31T02:26:52.562Z",
+    "messageId": "<591c7050-be65-04b7-278d-cec98b783779@quvirl.com>"
   }
 ]

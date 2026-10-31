@@ -4959,10 +4959,11 @@
     "storeUrl": "https://heycarti.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-30T23:01:34.221Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-31T00:52:15.059Z"
+    "approvedAt": "2026-10-31T00:52:15.059Z",
+    "lastSentAt": "2026-10-31T02:26:06.464Z"
   },
   {
     "id": "2f12f8f98af3dc7344d7",
@@ -4971,9 +4972,10 @@
     "storeUrl": "https://misshaus.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-10-30T23:03:27.960Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-10-31T00:52:15.059Z"
+    "approvedAt": "2026-10-31T00:52:15.059Z",
+    "lastSentAt": "2026-10-31T02:26:52.562Z"
   }
 ]
