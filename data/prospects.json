@@ -4977,5 +4977,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-10-31T00:52:15.059Z",
     "lastSentAt": "2026-10-31T02:26:52.562Z"
+  },
+  {
+    "id": "cc6e64b3f81424e56d57",
+    "email": "support@luluandgeorgia.com",
+    "storeName": "Lulu and Georgia",
+    "storeUrl": "https://www.luluandgeorgia.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T06:05:25.532Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
