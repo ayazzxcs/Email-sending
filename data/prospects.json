@@ -4985,8 +4985,9 @@
     "storeUrl": "https://www.luluandgeorgia.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T06:05:25.532Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-01T09:27:10.041Z"
   }
 ]
