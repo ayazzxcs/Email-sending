@@ -2686,5 +2686,61 @@
     "status": "sent",
     "sentAt": "2026-11-01T13:30:00.720Z",
     "messageId": "<f3b69ebe-2165-1e8a-9ca7-f86ae1c56d08@quvirl.com>"
+  },
+  {
+    "prospectId": "da472d66af95da71b5cd",
+    "email": "info@tiavola.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:03:07.956Z",
+    "messageId": "<d62ab760-6672-5a65-abe5-3069507a6f52@quvirl.com>"
+  },
+  {
+    "prospectId": "171a6dc47ae352e66530",
+    "email": "support@englishelm.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:03:54.241Z",
+    "messageId": "<c8c0b9ee-50f3-880f-3926-79f89f355214@quvirl.com>"
+  },
+  {
+    "prospectId": "839ea2af8eb134b099b1",
+    "email": "hello@onprestonlane.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:04:40.799Z",
+    "messageId": "<c7e710a9-e0ac-db98-ae71-0e991de257ed@quvirl.com>"
+  },
+  {
+    "prospectId": "f21d7884aa7c927280c7",
+    "email": "info@artfulhome.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:05:27.016Z",
+    "messageId": "<39b3aaf3-c5f5-3975-bb98-631727435588@quvirl.com>"
+  },
+  {
+    "prospectId": "7895cd3d55ee2cc8b9ff",
+    "email": "hello@shoptherusticmarket.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:06:13.251Z",
+    "messageId": "<5a4b64f8-718f-dab4-c481-b80f5008e052@quvirl.com>"
+  },
+  {
+    "prospectId": "257f6f54c4e68fb91abc",
+    "email": "hello@ivyandstonehome.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:06:59.729Z",
+    "messageId": "<a7a8f3cb-4ee8-8ec9-0a97-967c4b81eb98@quvirl.com>"
+  },
+  {
+    "prospectId": "9664d322e7ca167c78bb",
+    "email": "info@avehome.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:07:45.854Z",
+    "messageId": "<766d735a-25d9-438d-545b-6392f84d7d05@quvirl.com>"
+  },
+  {
+    "prospectId": "1d418301c8b19d653d4e",
+    "email": "support@avehome.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T19:08:32.060Z",
+    "messageId": "<e3ea0280-a60b-1c3d-e359-de6c3179c51c@quvirl.com>"
   }
 ]

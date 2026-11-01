@@ -4998,10 +4998,11 @@
     "storeUrl": "https://tiavola.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:22:19.121Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:03:07.956Z"
   },
   {
     "id": "171a6dc47ae352e66530",
@@ -5010,10 +5011,11 @@
     "storeUrl": "https://englishelm.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:27:31.714Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:03:54.241Z"
   },
   {
     "id": "839ea2af8eb134b099b1",
@@ -5022,10 +5024,11 @@
     "storeUrl": "https://www.onprestonlane.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:27:45.995Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:04:40.799Z"
   },
   {
     "id": "f21d7884aa7c927280c7",
@@ -5034,10 +5037,11 @@
     "storeUrl": "https://www.artfulhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:27:58.106Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:05:27.016Z"
   },
   {
     "id": "7895cd3d55ee2cc8b9ff",
@@ -5046,10 +5050,11 @@
     "storeUrl": "https://www.shoptherusticmarket.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:28:22.410Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:06:13.251Z"
   },
   {
     "id": "257f6f54c4e68fb91abc",
@@ -5058,10 +5063,11 @@
     "storeUrl": "https://ivyandstonehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:28:25.118Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:06:59.729Z"
   },
   {
     "id": "9664d322e7ca167c78bb",
@@ -5070,10 +5076,11 @@
     "storeUrl": "https://avehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:28:30.439Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:07:45.854Z"
   },
   {
     "id": "1d418301c8b19d653d4e",
@@ -5082,9 +5089,10 @@
     "storeUrl": "https://avehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-01T13:28:30.439Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-01T16:50:40.911Z"
+    "approvedAt": "2026-11-01T16:50:40.911Z",
+    "lastSentAt": "2026-11-01T19:08:32.060Z"
   }
 ]
