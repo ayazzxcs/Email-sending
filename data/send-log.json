@@ -2679,5 +2679,12 @@
     "status": "sent",
     "sentAt": "2026-10-31T02:26:52.562Z",
     "messageId": "<591c7050-be65-04b7-278d-cec98b783779@quvirl.com>"
+  },
+  {
+    "prospectId": "cc6e64b3f81424e56d57",
+    "email": "support@luluandgeorgia.com",
+    "status": "sent",
+    "sentAt": "2026-11-01T13:30:00.720Z",
+    "messageId": "<f3b69ebe-2165-1e8a-9ca7-f86ae1c56d08@quvirl.com>"
   }
 ]

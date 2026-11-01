@@ -1,1 +1,66 @@
-[]
+[
+  {
+    "id": "da472d66af95da71b5cd",
+    "email": "info@tiavola.com",
+    "storeName": "Shopify Development and Optimisation in Egypt | Tiavola",
+    "storeUrl": "https://tiavola.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:22:19.121Z"
+  },
+  {
+    "id": "171a6dc47ae352e66530",
+    "email": "support@englishelm.com",
+    "storeName": "English Elm - Furniture and Home Decor",
+    "storeUrl": "https://englishelm.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:27:31.714Z"
+  },
+  {
+    "id": "839ea2af8eb134b099b1",
+    "email": "hello@onprestonlane.com",
+    "storeName": "Preston Lane | Luxury Candles, Home Care and Home Decor",
+    "storeUrl": "https://www.onprestonlane.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:27:45.995Z"
+  },
+  {
+    "id": "f21d7884aa7c927280c7",
+    "email": "info@artfulhome.com",
+    "storeName": "Artful Home · Artful Home",
+    "storeUrl": "https://www.artfulhome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:27:58.106Z"
+  },
+  {
+    "id": "7895cd3d55ee2cc8b9ff",
+    "email": "hello@shoptherusticmarket.com",
+    "storeName": "The Rustic Market",
+    "storeUrl": "https://www.shoptherusticmarket.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:28:22.410Z"
+  },
+  {
+    "id": "257f6f54c4e68fb91abc",
+    "email": "hello@ivyandstonehome.com",
+    "storeName": "Ivy & Stone Home Interiors",
+    "storeUrl": "https://ivyandstonehome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:28:25.118Z"
+  },
+  {
+    "id": "9664d322e7ca167c78bb",
+    "email": "info@avehome.com",
+    "storeName": "Ave Home | A Fresh Take On Classic Design",
+    "storeUrl": "https://avehome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:28:30.439Z"
+  },
+  {
+    "id": "1d418301c8b19d653d4e",
+    "email": "support@avehome.com",
+    "storeName": "Ave Home | A Fresh Take On Classic Design",
+    "storeUrl": "https://avehome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-01T13:28:30.439Z"
+  }
+]
