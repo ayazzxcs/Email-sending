@@ -2742,5 +2742,75 @@
     "status": "sent",
     "sentAt": "2026-11-01T19:08:32.060Z",
     "messageId": "<e3ea0280-a60b-1c3d-e359-de6c3179c51c@quvirl.com>"
+  },
+  {
+    "prospectId": "6d4da389de4e7276bb74",
+    "email": "info@waggybutts.ca",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:53:44.371Z",
+    "messageId": "<0a48bcfb-10e3-ccb8-7172-b931773f327b@quvirl.com>"
+  },
+  {
+    "prospectId": "47d136dec924bf981c2b",
+    "email": "info@petshoppe.ca",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:54:30.341Z",
+    "messageId": "<21a0b1c3-703d-3f6a-0df7-fd79566ae976@quvirl.com>"
+  },
+  {
+    "prospectId": "7b00dcaf44af86fd59b3",
+    "email": "info@braverypetfood.ca",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:55:16.260Z",
+    "messageId": "<62eda0e7-48e5-ae33-14e6-2d2f8218294b@quvirl.com>"
+  },
+  {
+    "prospectId": "c652623022fe8b0aea4d",
+    "email": "info@pamperedpet.ca",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:56:08.077Z",
+    "messageId": "<eb7afae6-51dc-9f63-197f-f38562c521f0@quvirl.com>"
+  },
+  {
+    "prospectId": "f44e5cee531f0093a001",
+    "email": "info@naturallyurban.com",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:56:53.943Z",
+    "messageId": "<4ba2b9dc-1172-2204-9810-e0e657b97db8@quvirl.com>"
+  },
+  {
+    "prospectId": "6bada88740b3e333f32f",
+    "email": "hello@oc-beauty.ca",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:57:40.012Z",
+    "messageId": "<f85e1f05-d414-7492-52f1-4be6305083c1@quvirl.com>"
+  },
+  {
+    "prospectId": "754243e363c85cbb55aa",
+    "email": "info@zago.se",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:58:26.201Z",
+    "messageId": "<ae517927-82d6-7eec-7516-7e8e33401ca0@quvirl.com>"
+  },
+  {
+    "prospectId": "44d57e23ca5ed17f314c",
+    "email": "hello@nurturedhome.ca",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:59:12.431Z",
+    "messageId": "<60b2af49-75c3-6bba-9a6c-90aff9442ddd@quvirl.com>"
+  },
+  {
+    "prospectId": "66a00aae38811c29cd80",
+    "email": "support@crafteddecor.ca",
+    "status": "sent",
+    "sentAt": "2026-11-02T20:59:58.723Z",
+    "messageId": "<5ebba989-527c-3ce5-689b-4c17d97ce06c@quvirl.com>"
+  },
+  {
+    "prospectId": "c1f5733a46c8b63ddbc3",
+    "email": "info@twbhomedecor.com",
+    "status": "sent",
+    "sentAt": "2026-11-02T21:00:44.900Z",
+    "messageId": "<07e501ce-2a48-c6ab-f3bd-3535c68e0d3d@quvirl.com>"
   }
 ]
