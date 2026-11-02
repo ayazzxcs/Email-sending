@@ -5102,9 +5102,10 @@
     "storeUrl": "https://www.waggybutts.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:04:25.977Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "47d136dec924bf981c2b",
@@ -5113,9 +5114,10 @@
     "storeUrl": "https://petshoppe.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:04:29.785Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "7b00dcaf44af86fd59b3",
@@ -5124,9 +5126,10 @@
     "storeUrl": "https://braverypetfood.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:04:33.657Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "c652623022fe8b0aea4d",
@@ -5135,9 +5138,10 @@
     "storeUrl": "https://www.pamperedpet.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:04:46.985Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "f44e5cee531f0093a001",
@@ -5146,9 +5150,10 @@
     "storeUrl": "https://nupetfooddelivery.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:04:51.399Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "6bada88740b3e333f32f",
@@ -5157,9 +5162,10 @@
     "storeUrl": "https://www.oc-beauty.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:06:25.496Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "754243e363c85cbb55aa",
@@ -5168,9 +5174,10 @@
     "storeUrl": "https://zago.agency",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:06:40.296Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "44d57e23ca5ed17f314c",
@@ -5179,9 +5186,10 @@
     "storeUrl": "https://nurturedhome.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:07:29.003Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.409Z"
   },
   {
     "id": "66a00aae38811c29cd80",
@@ -5190,9 +5198,10 @@
     "storeUrl": "https://crafteddecor.ca",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:08:18.963Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.410Z"
   },
   {
     "id": "c1f5733a46c8b63ddbc3",
@@ -5201,8 +5210,9 @@
     "storeUrl": "https://www.twbhomedecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T11:08:33.746Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-02T18:31:26.410Z"
   }
 ]
