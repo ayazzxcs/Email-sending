@@ -2812,5 +2812,12 @@
     "status": "sent",
     "sentAt": "2026-11-02T21:00:44.900Z",
     "messageId": "<07e501ce-2a48-c6ab-f3bd-3535c68e0d3d@quvirl.com>"
+  },
+  {
+    "prospectId": "4e40e1614c317a9982fe",
+    "email": "marketing@goodsstores.com",
+    "status": "sent",
+    "sentAt": "2026-11-03T03:04:47.928Z",
+    "messageId": "<5685a77b-845d-0638-6d8f-0f74af151859@quvirl.com>"
   }
 ]
