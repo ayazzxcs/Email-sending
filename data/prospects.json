@@ -5237,5 +5237,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-11-03T01:39:33.703Z",
     "lastSentAt": "2026-11-03T03:04:47.928Z"
+  },
+  {
+    "id": "3e8e06739c1bbf72aa9f",
+    "email": "support@ferbepetstore.com",
+    "storeName": "Ferbe's Pet Store | Thoughtful Products for Happier Pets",
+    "storeUrl": "https://ferbepetstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-03T10:52:58.622Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
