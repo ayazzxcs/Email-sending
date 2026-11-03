@@ -2819,5 +2819,12 @@
     "status": "sent",
     "sentAt": "2026-11-03T03:04:47.928Z",
     "messageId": "<5685a77b-845d-0638-6d8f-0f74af151859@quvirl.com>"
+  },
+  {
+    "prospectId": "3e8e06739c1bbf72aa9f",
+    "email": "support@ferbepetstore.com",
+    "status": "sent",
+    "sentAt": "2026-11-03T18:33:33.834Z",
+    "messageId": "<562b4e3b-cdc8-cb7f-f866-98f3ab020609@quvirl.com>"
   }
 ]
