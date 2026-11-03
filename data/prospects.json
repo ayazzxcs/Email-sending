@@ -5232,8 +5232,9 @@
     "storeUrl": "https://goodsstores.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-02T20:48:43.496Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-03T01:39:33.703Z"
   }
 ]
