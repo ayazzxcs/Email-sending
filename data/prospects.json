@@ -5245,8 +5245,9 @@
     "storeUrl": "https://ferbepetstore.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-03T10:52:58.622Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-03T17:54:30.715Z"
   }
 ]
