@@ -5258,9 +5258,10 @@
     "storeUrl": "https://www.umbra.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-04T15:30:42.760Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-04T22:00:22.114Z"
   },
   {
     "id": "157afa828cbf028fd09a",
@@ -5269,8 +5270,9 @@
     "storeUrl": "https://www.umbra.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-04T15:30:42.760Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-04T22:00:22.114Z"
   }
 ]
