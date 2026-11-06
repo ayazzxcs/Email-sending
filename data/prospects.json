@@ -5284,9 +5284,21 @@
     "storeUrl": "https://optis.me",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-06T15:12:10.295Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-06T15:59:53.646Z"
+    "approvedAt": "2026-11-06T15:59:53.646Z",
+    "lastSentAt": "2026-11-06T21:00:00.996Z"
+  },
+  {
+    "id": "53044a5996d4cace1c4e",
+    "email": "support@ballardconsignment.com",
+    "storeName": "Ballard Consignment | New and Pre-Loved, Used Furniture & Home Décor",
+    "storeUrl": "https://www.ballardconsignment.shop",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-06T20:58:24.089Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

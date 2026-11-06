@@ -2840,5 +2840,12 @@
     "status": "sent",
     "sentAt": "2026-11-05T02:34:31.060Z",
     "messageId": "<bf283f2f-19e7-0f21-2c3c-2ff3d6a49c8d@quvirl.com>"
+  },
+  {
+    "prospectId": "02d3f8d50c87827689a1",
+    "email": "support@optis.me",
+    "status": "sent",
+    "sentAt": "2026-11-06T21:00:00.996Z",
+    "messageId": "<6f234f11-9ea5-c33c-cf03-9b518765cace@quvirl.com>"
   }
 ]
