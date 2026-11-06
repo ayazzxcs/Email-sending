@@ -5284,8 +5284,9 @@
     "storeUrl": "https://optis.me",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-06T15:12:10.295Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-06T15:59:53.646Z"
   }
 ]
