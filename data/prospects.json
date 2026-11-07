@@ -5310,9 +5310,10 @@
     "storeUrl": "https://www.loveyourpets.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-07T18:49:52.750Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-07T20:18:17.405Z"
+    "approvedAt": "2026-11-07T20:18:17.405Z",
+    "lastSentAt": "2026-11-07T22:45:51.337Z"
   }
 ]

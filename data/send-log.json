@@ -2854,5 +2854,12 @@
     "status": "sent",
     "sentAt": "2026-11-07T01:04:33.779Z",
     "messageId": "<90ec7766-00d9-439c-3f8d-4651e81d538b@quvirl.com>"
+  },
+  {
+    "prospectId": "d65c066945486be997e7",
+    "email": "info@loveyourpets.com",
+    "status": "sent",
+    "sentAt": "2026-11-07T22:45:51.337Z",
+    "messageId": "<ca41707e-92c1-ce5b-0c5d-61707636963c@quvirl.com>"
   }
 ]
