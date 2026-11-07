@@ -2847,5 +2847,12 @@
     "status": "sent",
     "sentAt": "2026-11-06T21:00:00.996Z",
     "messageId": "<6f234f11-9ea5-c33c-cf03-9b518765cace@quvirl.com>"
+  },
+  {
+    "prospectId": "53044a5996d4cace1c4e",
+    "email": "support@ballardconsignment.com",
+    "status": "sent",
+    "sentAt": "2026-11-07T01:04:33.779Z",
+    "messageId": "<90ec7766-00d9-439c-3f8d-4651e81d538b@quvirl.com>"
   }
 ]
