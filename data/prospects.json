@@ -5302,5 +5302,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-11-06T21:37:00.178Z",
     "lastSentAt": "2026-11-07T01:04:33.779Z"
+  },
+  {
+    "id": "d65c066945486be997e7",
+    "email": "info@loveyourpets.com",
+    "storeName": "Custom Pet Tags - Deep Engraved Dog & Cat Tags - Love Your Pets",
+    "storeUrl": "https://www.loveyourpets.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-07T18:49:52.750Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
