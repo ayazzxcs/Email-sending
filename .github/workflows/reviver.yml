@@ -1,0 +1,55 @@
+name: 24/7 GPU Worker Watchdog & Proactive Auto-Revival
+
+on:
+  schedule:
+    # Runs every 20 minutes around the clock
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Probe Worker Health & Proactively Wakeup
+        env:
+          MODELSCOPE_TOKEN: ${{ secrets.MODELSCOPE_TOKEN }}
+        run: |
+          set -euo pipefail
+          echo "🔍 Probing ModelScope GPU Worker health..."
+
+          # Check health endpoint through Quvirl gateway
+          HTTP_STATUS=$(curl -s -o /dev/null -w "%{http_code}" --max-time 15 "https://quvirl.com/api/worker/health" || true)
+          echo "Quvirl Gateway Probe HTTP status: $HTTP_STATUS"
+
+          if [ "$HTTP_STATUS" = "200" ]; then
+            echo "✅ Worker is active, healthy, and operational on 48GB Ada GPU!"
+            exit 0
+          fi
+
+          echo "⚠️ Worker is not responding (HTTP $HTTP_STATUS). Checking studio status via OpenAPI..."
+          STUDIO_RESP=$(curl -s -H "Authorization: Bearer $MODELSCOPE_TOKEN" "https://www.modelscope.ai/openapi/v1/studios/Dkskskakw/workerzzz" || echo "{}")
+          STUDIO_STATUS=$(echo "$STUDIO_RESP" | jq -r '.data.runtime.status // .data.status // "unknown"')
+          echo "Current ModelScope Studio Status: $STUDIO_STATUS"
+
+          if [ "$STUDIO_STATUS" = "Building" ] || [ "$STUDIO_STATUS" = "Deploying" ]; then
+            echo "⏳ Worker is already in the process of building/deploying. No action needed."
+            exit 0
+          fi
+
+          echo "🚀 Waking up 48GB Ada GPU worker proactively..."
+          # Step 1: Ensure hardware is locked to free 48GB Ada Lovelace GPU
+          curl -s -X PATCH "https://www.modelscope.ai/openapi/v1/studios/Dkskskakw/workerzzz/settings" \
+            -H "Authorization: Bearer $MODELSCOPE_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{"hardware":"xgpu/8v-cpu-64g-mem-48g","sdk_type":"gradio","sdk_version":"5.29.0"}' > /dev/null || true
+
+          # Step 2: Trigger deployment
+          DEPLOY_RESP=$(curl -s -X POST "https://www.modelscope.ai/openapi/v1/studios/Dkskskakw/workerzzz/deploy" \
+            -H "Authorization: Bearer $MODELSCOPE_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d '{}')
+
+          echo "OpenAPI Deploy triggered: $DEPLOY_RESP"
+          echo "✅ Proactive wakeup completed. Worker is now booting up!"
