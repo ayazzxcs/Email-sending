@@ -5328,5 +5328,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-11-08T13:40:29.938Z",
     "lastSentAt": "2026-11-08T17:09:05.868Z"
+  },
+  {
+    "id": "15ff8e7f5112148401ba",
+    "email": "info@soospets.com",
+    "storeName": "Soos Pets | Dog and Cat Dead Sea Natural Pet Products & Supplies",
+    "storeUrl": "https://soospets.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-08T21:12:26.505Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
