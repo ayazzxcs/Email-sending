@@ -5323,8 +5323,9 @@
     "storeUrl": "https://storeleadlist.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-08T10:23:47.959Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-08T13:40:29.938Z"
   }
 ]
