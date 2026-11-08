@@ -5336,8 +5336,9 @@
     "storeUrl": "https://soospets.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-08T21:12:26.505Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-08T22:57:16.515Z"
   }
 ]
