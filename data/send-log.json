@@ -2861,5 +2861,12 @@
     "status": "sent",
     "sentAt": "2026-11-07T22:45:51.337Z",
     "messageId": "<ca41707e-92c1-ce5b-0c5d-61707636963c@quvirl.com>"
+  },
+  {
+    "prospectId": "ad5372bf0da923973442",
+    "email": "support@storeleadlist.com",
+    "status": "sent",
+    "sentAt": "2026-11-08T17:09:05.868Z",
+    "messageId": "<c834195a-acdc-330b-e976-dc39dbe5791d@quvirl.com>"
   }
 ]
