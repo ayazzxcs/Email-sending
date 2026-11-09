@@ -2868,5 +2868,12 @@
     "status": "sent",
     "sentAt": "2026-11-08T17:09:05.868Z",
     "messageId": "<c834195a-acdc-330b-e976-dc39dbe5791d@quvirl.com>"
+  },
+  {
+    "prospectId": "15ff8e7f5112148401ba",
+    "email": "info@soospets.com",
+    "status": "sent",
+    "sentAt": "2026-11-09T01:02:08.090Z",
+    "messageId": "<8e7a38f9-eee5-aa57-5fd1-3616cafbafdd@quvirl.com>"
   }
 ]
