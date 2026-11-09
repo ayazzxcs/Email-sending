@@ -2875,5 +2875,33 @@
     "status": "sent",
     "sentAt": "2026-11-09T01:02:08.090Z",
     "messageId": "<8e7a38f9-eee5-aa57-5fd1-3616cafbafdd@quvirl.com>"
+  },
+  {
+    "prospectId": "ea4a170cc5dd03373f86",
+    "email": "info@mybeautyexchange.com",
+    "status": "sent",
+    "sentAt": "2026-11-09T08:05:21.860Z",
+    "messageId": "<141f4c60-0bf9-883d-7ab1-1562fc961300@quvirl.com>"
+  },
+  {
+    "prospectId": "5f331a8a259aaab077a1",
+    "email": "info@brassmonkeycreative.com",
+    "status": "sent",
+    "sentAt": "2026-11-09T08:06:08.146Z",
+    "messageId": "<0dc4625c-fc3b-ec84-cdb9-22fd4acc2fd0@quvirl.com>"
+  },
+  {
+    "prospectId": "9686aa9480158842c06a",
+    "email": "info@bristmofficial.com",
+    "status": "sent",
+    "sentAt": "2026-11-09T08:06:55.966Z",
+    "messageId": "<894b764e-985f-7459-3e04-703b95119bb6@quvirl.com>"
+  },
+  {
+    "prospectId": "62a96c9e2202958e6357",
+    "email": "support@ritfitsports.com",
+    "status": "sent",
+    "sentAt": "2026-11-09T08:07:42.282Z",
+    "messageId": "<03f662fc-6dec-5e66-808a-19b7e56504b1@quvirl.com>"
   }
 ]

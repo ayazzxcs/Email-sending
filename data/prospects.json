@@ -5349,10 +5349,11 @@
     "storeUrl": "https://www.mybeautyexchange.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-09T00:57:57.158Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-09T02:44:38.600Z"
+    "approvedAt": "2026-11-09T02:44:38.600Z",
+    "lastSentAt": "2026-11-09T08:05:21.860Z"
   },
   {
     "id": "5f331a8a259aaab077a1",
@@ -5361,10 +5362,11 @@
     "storeUrl": "https://www.brassmonkeyhome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-09T00:58:48.471Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-09T02:44:38.600Z"
+    "approvedAt": "2026-11-09T02:44:38.600Z",
+    "lastSentAt": "2026-11-09T08:06:08.146Z"
   },
   {
     "id": "9686aa9480158842c06a",
@@ -5373,10 +5375,11 @@
     "storeUrl": "https://bristm.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-09T01:01:04.031Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-09T02:44:38.600Z"
+    "approvedAt": "2026-11-09T02:44:38.600Z",
+    "lastSentAt": "2026-11-09T08:06:55.966Z"
   },
   {
     "id": "62a96c9e2202958e6357",
@@ -5385,9 +5388,10 @@
     "storeUrl": "https://www.ritfitsports.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-09T01:01:50.952Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-09T02:44:38.600Z"
+    "approvedAt": "2026-11-09T02:44:38.600Z",
+    "lastSentAt": "2026-11-09T08:07:42.282Z"
   }
 ]
