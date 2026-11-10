@@ -2910,5 +2910,19 @@
     "status": "sent",
     "sentAt": "2026-11-10T09:57:13.716Z",
     "messageId": "<38a9b4a7-4361-a398-b75e-9a29a79f551c@quvirl.com>"
+  },
+  {
+    "prospectId": "7fb001b7a9a600b0961d",
+    "email": "hello@havenhausco.com",
+    "status": "sent",
+    "sentAt": "2026-11-10T17:57:24.009Z",
+    "messageId": "<498a9628-f19c-efb9-3dcf-0335038c4d36@quvirl.com>"
+  },
+  {
+    "prospectId": "fccb52754b6dbc44a1aa",
+    "email": "support@wegym.com",
+    "status": "sent",
+    "sentAt": "2026-11-10T17:58:10.086Z",
+    "messageId": "<9fbc280b-ddd2-7796-0268-67d42f929689@quvirl.com>"
   }
 ]
