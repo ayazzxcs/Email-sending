@@ -5414,9 +5414,10 @@
     "storeUrl": "https://havenhausco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-10T09:53:24.915Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-10T13:35:38.628Z"
   },
   {
     "id": "fccb52754b6dbc44a1aa",
@@ -5425,8 +5426,9 @@
     "storeUrl": "https://wegym.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-10T09:55:50.435Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-10T13:35:38.628Z"
   }
 ]
