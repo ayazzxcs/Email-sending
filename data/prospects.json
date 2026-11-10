@@ -5393,5 +5393,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-11-09T02:44:38.600Z",
     "lastSentAt": "2026-11-09T08:07:42.282Z"
+  },
+  {
+    "id": "848363bc31f69f20bc4b",
+    "email": "sales@dbelectronics.net",
+    "storeName": "DB Electronics",
+    "storeUrl": "https://www.dbstoreonline.net",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-10T02:15:53.581Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
