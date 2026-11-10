@@ -5401,8 +5401,9 @@
     "storeUrl": "https://www.dbstoreonline.net",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-10T02:15:53.581Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-10T04:40:21.035Z"
   }
 ]
