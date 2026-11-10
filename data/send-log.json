@@ -2903,5 +2903,12 @@
     "status": "sent",
     "sentAt": "2026-11-09T08:07:42.282Z",
     "messageId": "<03f662fc-6dec-5e66-808a-19b7e56504b1@quvirl.com>"
+  },
+  {
+    "prospectId": "848363bc31f69f20bc4b",
+    "email": "sales@dbelectronics.net",
+    "status": "sent",
+    "sentAt": "2026-11-10T09:57:13.716Z",
+    "messageId": "<38a9b4a7-4361-a398-b75e-9a29a79f551c@quvirl.com>"
   }
 ]
