@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "cab0a91baefec649197c",
+    "email": "info@wildgym.com",
+    "storeName": "WILD GYM® | Rucking Backpacks for Wild People",
+    "storeUrl": "https://www.wildgym.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-11T22:05:45.602Z"
+  },
+  {
+    "id": "7c673e2299fd3bba0b68",
+    "email": "info@monkii.co",
+    "storeName": "WILD GYM® | Rucking Backpacks for Wild People",
+    "storeUrl": "https://www.wildgym.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-11T22:05:45.602Z"
+  }
+]
