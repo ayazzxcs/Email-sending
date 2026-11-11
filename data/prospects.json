@@ -5440,9 +5440,10 @@
     "storeUrl": "https://www.wildgym.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-11T22:05:45.602Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-11T22:52:10.952Z"
   },
   {
     "id": "7c673e2299fd3bba0b68",
@@ -5451,8 +5452,9 @@
     "storeUrl": "https://www.wildgym.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-11T22:05:45.602Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-11T22:52:10.952Z"
   }
 ]
