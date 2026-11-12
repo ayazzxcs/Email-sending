@@ -5479,9 +5479,10 @@
     "storeUrl": "https://shoproysfurniture.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T11:08:49.519Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-12T12:55:58.267Z"
   },
   {
     "id": "a661e8df194bd11d7c31",
@@ -5490,9 +5491,10 @@
     "storeUrl": "https://shoproysfurniture.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T11:08:49.519Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-12T12:55:58.268Z"
   },
   {
     "id": "2778d8656f6bfd1f267b",
@@ -5501,8 +5503,9 @@
     "storeUrl": "https://qikify.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T11:09:28.095Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-12T12:55:58.268Z"
   }
 ]
