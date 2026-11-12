@@ -5466,8 +5466,9 @@
     "storeUrl": "https://www.cheekbonebeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T03:01:19.666Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-12T03:54:36.793Z"
   }
 ]
