@@ -2924,5 +2924,19 @@
     "status": "sent",
     "sentAt": "2026-11-10T17:58:10.086Z",
     "messageId": "<9fbc280b-ddd2-7796-0268-67d42f929689@quvirl.com>"
+  },
+  {
+    "prospectId": "cab0a91baefec649197c",
+    "email": "info@wildgym.com",
+    "status": "sent",
+    "sentAt": "2026-11-12T03:03:57.059Z",
+    "messageId": "<87bbd06a-197c-424d-61d3-33605db14239@quvirl.com>"
+  },
+  {
+    "prospectId": "7c673e2299fd3bba0b68",
+    "email": "info@monkii.co",
+    "status": "sent",
+    "sentAt": "2026-11-12T03:04:42.978Z",
+    "messageId": "<ec4fcd08-e25a-c964-56bd-250e1cbc215b@quvirl.com>"
   }
 ]

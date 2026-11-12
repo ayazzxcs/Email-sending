@@ -5440,10 +5440,11 @@
     "storeUrl": "https://www.wildgym.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-11T22:05:45.602Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-11T22:52:10.952Z"
+    "approvedAt": "2026-11-11T22:52:10.952Z",
+    "lastSentAt": "2026-11-12T03:03:57.059Z"
   },
   {
     "id": "7c673e2299fd3bba0b68",
@@ -5452,9 +5453,21 @@
     "storeUrl": "https://www.wildgym.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-11T22:05:45.602Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-11T22:52:10.952Z"
+    "approvedAt": "2026-11-11T22:52:10.952Z",
+    "lastSentAt": "2026-11-12T03:04:42.978Z"
+  },
+  {
+    "id": "2b4183da726fc48725ad",
+    "email": "info@cheekbonebeauty.com",
+    "storeName": "Cheekbone Beauty - Indigenous Owned Cosmetics Brand",
+    "storeUrl": "https://www.cheekbonebeauty.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-12T03:01:19.666Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
