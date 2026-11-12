@@ -2938,5 +2938,12 @@
     "status": "sent",
     "sentAt": "2026-11-12T03:04:42.978Z",
     "messageId": "<ec4fcd08-e25a-c964-56bd-250e1cbc215b@quvirl.com>"
+  },
+  {
+    "prospectId": "2b4183da726fc48725ad",
+    "email": "info@cheekbonebeauty.com",
+    "status": "sent",
+    "sentAt": "2026-11-12T11:11:56.080Z",
+    "messageId": "<c03044c8-6701-fca1-450b-93bcdec7e9a9@quvirl.com>"
   }
 ]

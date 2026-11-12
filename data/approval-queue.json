@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "id": "f6328270445ebc42f35d",
+    "email": "info@royschicago.com",
+    "storeName": "Family-Owned Furniture Store in Chicago | Roy's Furniture",
+    "storeUrl": "https://shoproysfurniture.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-12T11:08:49.519Z"
+  },
+  {
+    "id": "a661e8df194bd11d7c31",
+    "email": "marketing@royschicago.com",
+    "storeName": "Family-Owned Furniture Store in Chicago | Roy's Furniture",
+    "storeUrl": "https://shoproysfurniture.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-12T11:08:49.519Z"
+  },
+  {
+    "id": "2778d8656f6bfd1f267b",
+    "email": "contact@qikifysupport.on.crisp.email",
+    "storeName": "Qikify | Streamlined Solutions For Your eCommerce Journey",
+    "storeUrl": "https://qikify.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-12T11:09:28.095Z"
+  }
+]

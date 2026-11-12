@@ -5466,9 +5466,43 @@
     "storeUrl": "https://www.cheekbonebeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T03:01:19.666Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-12T03:54:36.793Z"
+    "approvedAt": "2026-11-12T03:54:36.793Z",
+    "lastSentAt": "2026-11-12T11:11:56.080Z"
+  },
+  {
+    "id": "f6328270445ebc42f35d",
+    "email": "info@royschicago.com",
+    "storeName": "Family-Owned Furniture Store in Chicago | Roy's Furniture",
+    "storeUrl": "https://shoproysfurniture.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-12T11:08:49.519Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "a661e8df194bd11d7c31",
+    "email": "marketing@royschicago.com",
+    "storeName": "Family-Owned Furniture Store in Chicago | Roy's Furniture",
+    "storeUrl": "https://shoproysfurniture.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-12T11:08:49.519Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "2778d8656f6bfd1f267b",
+    "email": "contact@qikifysupport.on.crisp.email",
+    "storeName": "Qikify | Streamlined Solutions For Your eCommerce Journey",
+    "storeUrl": "https://qikify.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-12T11:09:28.095Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
