@@ -2945,5 +2945,26 @@
     "status": "sent",
     "sentAt": "2026-11-12T11:11:56.080Z",
     "messageId": "<c03044c8-6701-fca1-450b-93bcdec7e9a9@quvirl.com>"
+  },
+  {
+    "prospectId": "f6328270445ebc42f35d",
+    "email": "info@royschicago.com",
+    "status": "sent",
+    "sentAt": "2026-11-12T19:05:03.665Z",
+    "messageId": "<885337b0-c695-b952-b8ec-396c334e269f@quvirl.com>"
+  },
+  {
+    "prospectId": "a661e8df194bd11d7c31",
+    "email": "marketing@royschicago.com",
+    "status": "sent",
+    "sentAt": "2026-11-12T19:05:49.898Z",
+    "messageId": "<23f82235-baa5-afdf-64df-934d742964ed@quvirl.com>"
+  },
+  {
+    "prospectId": "2778d8656f6bfd1f267b",
+    "email": "contact@qikifysupport.on.crisp.email",
+    "status": "sent",
+    "sentAt": "2026-11-12T19:06:35.841Z",
+    "messageId": "<6dac7453-2bc1-d760-144e-66b4af7fa568@quvirl.com>"
   }
 ]
