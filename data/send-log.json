@@ -3001,5 +3001,12 @@
     "status": "sent",
     "sentAt": "2026-11-13T00:32:15.379Z",
     "messageId": "<f54b3dbe-f87f-91d5-7f0f-b000ecbb9a7d@quvirl.com>"
+  },
+  {
+    "prospectId": "75b5ef9d7c48d62a0a2f",
+    "email": "support@upsolite.com",
+    "status": "sent",
+    "sentAt": "2026-11-13T16:28:37.454Z",
+    "messageId": "<a6a2fff3-6e86-7819-cf7c-665202bbb8f0@quvirl.com>"
   }
 ]
