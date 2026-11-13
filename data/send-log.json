@@ -2966,5 +2966,40 @@
     "status": "sent",
     "sentAt": "2026-11-12T19:06:35.841Z",
     "messageId": "<6dac7453-2bc1-d760-144e-66b4af7fa568@quvirl.com>"
+  },
+  {
+    "prospectId": "76f7c0d9938c5e30e515",
+    "email": "support@burrow.com",
+    "status": "sent",
+    "sentAt": "2026-11-13T00:29:10.461Z",
+    "messageId": "<f891ec89-30e8-8fbd-2a2d-1f5d637f134a@quvirl.com>"
+  },
+  {
+    "prospectId": "d4f8684fc725c153f56a",
+    "email": "info@ryviu.com",
+    "status": "sent",
+    "sentAt": "2026-11-13T00:29:56.309Z",
+    "messageId": "<f640b9e0-cb8f-24c1-2b00-31a89c866793@quvirl.com>"
+  },
+  {
+    "prospectId": "a020dfc1fd7cb5d5cf83",
+    "email": "info@fernfitness.co.uk",
+    "status": "sent",
+    "sentAt": "2026-11-13T00:30:42.612Z",
+    "messageId": "<94a6ade8-4d1a-2a54-f90c-b35d92eb4143@quvirl.com>"
+  },
+  {
+    "prospectId": "89bb0d28a2bfeb4f26cd",
+    "email": "support@prxperformance.com",
+    "status": "sent",
+    "sentAt": "2026-11-13T00:31:28.782Z",
+    "messageId": "<7068db4b-01ea-5397-3366-8a4725a66b83@quvirl.com>"
+  },
+  {
+    "prospectId": "756dc630c5d6f9d1290a",
+    "email": "sales@prxperformance.com",
+    "status": "sent",
+    "sentAt": "2026-11-13T00:32:15.379Z",
+    "messageId": "<f54b3dbe-f87f-91d5-7f0f-b000ecbb9a7d@quvirl.com>"
   }
 ]

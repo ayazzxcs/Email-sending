@@ -5518,10 +5518,11 @@
     "storeUrl": "https://burrow.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T19:01:02.605Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-12T20:55:59.703Z"
+    "approvedAt": "2026-11-12T20:55:59.703Z",
+    "lastSentAt": "2026-11-13T00:29:10.461Z"
   },
   {
     "id": "d4f8684fc725c153f56a",
@@ -5530,10 +5531,11 @@
     "storeUrl": "https://www.ryviu.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T19:02:14.616Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-12T20:55:59.704Z"
+    "approvedAt": "2026-11-12T20:55:59.704Z",
+    "lastSentAt": "2026-11-13T00:29:56.309Z"
   },
   {
     "id": "a020dfc1fd7cb5d5cf83",
@@ -5542,10 +5544,11 @@
     "storeUrl": "https://www.fernfitness.co",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T19:03:20.984Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-12T20:55:59.704Z"
+    "approvedAt": "2026-11-12T20:55:59.704Z",
+    "lastSentAt": "2026-11-13T00:30:42.612Z"
   },
   {
     "id": "89bb0d28a2bfeb4f26cd",
@@ -5554,10 +5557,11 @@
     "storeUrl": "https://prxperformance.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T19:04:11.725Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-12T20:55:59.704Z"
+    "approvedAt": "2026-11-12T20:55:59.704Z",
+    "lastSentAt": "2026-11-13T00:31:28.782Z"
   },
   {
     "id": "756dc630c5d6f9d1290a",
@@ -5566,9 +5570,10 @@
     "storeUrl": "https://prxperformance.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-12T19:04:11.725Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-12T20:55:59.704Z"
+    "approvedAt": "2026-11-12T20:55:59.704Z",
+    "lastSentAt": "2026-11-13T00:32:15.379Z"
   }
 ]
