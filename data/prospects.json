@@ -5609,8 +5609,9 @@
     "storeUrl": "https://themefullstack.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-13T22:40:31.681Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-13T23:41:23.423Z"
   }
 ]
