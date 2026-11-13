@@ -5575,5 +5575,16 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-11-12T20:55:59.704Z",
     "lastSentAt": "2026-11-13T00:32:15.379Z"
+  },
+  {
+    "id": "75b5ef9d7c48d62a0a2f",
+    "email": "support@upsolite.com",
+    "storeName": "Shopify Development Agency: Migrations, Apps & CRO – UpSolite",
+    "storeUrl": "https://upsolite.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-13T07:57:01.543Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
