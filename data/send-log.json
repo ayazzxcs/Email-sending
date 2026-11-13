@@ -3008,5 +3008,12 @@
     "status": "sent",
     "sentAt": "2026-11-13T16:28:37.454Z",
     "messageId": "<a6a2fff3-6e86-7819-cf7c-665202bbb8f0@quvirl.com>"
+  },
+  {
+    "prospectId": "f1139c2f7b17415b068f",
+    "email": "info@cro.media",
+    "status": "sent",
+    "sentAt": "2026-11-13T22:46:26.102Z",
+    "messageId": "<728be687-44ef-d471-a69f-a980210f7a9c@quvirl.com>"
   }
 ]
