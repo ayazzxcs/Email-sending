@@ -5622,9 +5622,10 @@
     "storeUrl": "https://dotmarfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-14T03:22:18.994Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-14T06:43:25.005Z"
+    "approvedAt": "2026-11-14T06:43:25.005Z",
+    "lastSentAt": "2026-11-14T10:31:11.049Z"
   }
 ]

@@ -3022,5 +3022,12 @@
     "status": "sent",
     "sentAt": "2026-11-14T03:22:25.552Z",
     "messageId": "<6206da50-492a-6fb3-906c-eb9830f24601@quvirl.com>"
+  },
+  {
+    "prospectId": "73af7cf1fd9f9419e18c",
+    "email": "info@dotmarfitness.com",
+    "status": "sent",
+    "sentAt": "2026-11-14T10:31:11.049Z",
+    "messageId": "<7c2a1a7e-b581-513d-56c0-6570befdb220@quvirl.com>"
   }
 ]
