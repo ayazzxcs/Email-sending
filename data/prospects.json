@@ -5609,9 +5609,21 @@
     "storeUrl": "https://themefullstack.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-13T22:40:31.681Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-13T23:41:23.423Z"
+    "approvedAt": "2026-11-13T23:41:23.423Z",
+    "lastSentAt": "2026-11-14T03:22:25.552Z"
+  },
+  {
+    "id": "73af7cf1fd9f9419e18c",
+    "email": "info@dotmarfitness.com",
+    "storeName": "Dotmar Fitness Equipment. Canada's Fitness Supplier since 1982!",
+    "storeUrl": "https://dotmarfitness.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-14T03:22:18.994Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
