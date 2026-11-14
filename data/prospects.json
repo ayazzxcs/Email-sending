@@ -5635,9 +5635,10 @@
     "storeUrl": "https://simple-affiliate.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-14T21:30:08.019Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-14T23:09:37.286Z"
   },
   {
     "id": "7a16883809a684dd2991",
@@ -5646,8 +5647,9 @@
     "storeUrl": "https://storebuilder.ai",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-14T21:35:38.804Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-14T23:09:37.286Z"
   }
 ]
