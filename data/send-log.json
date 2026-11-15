@@ -3043,5 +3043,19 @@
     "status": "sent",
     "sentAt": "2026-11-15T02:04:59.762Z",
     "messageId": "<3ae6f72e-f0f8-587a-5006-03ee70a43f1f@quvirl.com>"
+  },
+  {
+    "prospectId": "15be1ecf98dd0d78a5ec",
+    "email": "hello@seekgifts.ca",
+    "status": "sent",
+    "sentAt": "2026-11-15T09:31:04.640Z",
+    "messageId": "<813d0956-d282-3019-e793-4dc164809589@quvirl.com>"
+  },
+  {
+    "prospectId": "c6526db70fcdc2a7768a",
+    "email": "info@parliamentinteriors.com",
+    "status": "sent",
+    "sentAt": "2026-11-15T09:31:52.087Z",
+    "messageId": "<d347df9d-952a-c487-b295-36b60b33129e@quvirl.com>"
   }
 ]
