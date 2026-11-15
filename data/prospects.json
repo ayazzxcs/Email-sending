@@ -5687,9 +5687,10 @@
     "storeUrl": "https://victoriabeckhambeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-15T09:26:47.570Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-15T11:13:41.869Z"
   },
   {
     "id": "b2ecf58e34613e13866d",
@@ -5698,8 +5699,9 @@
     "storeUrl": "https://inspiredhomeco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-15T09:28:04.559Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-15T11:13:41.869Z"
   }
 ]
