@@ -3057,5 +3057,19 @@
     "status": "sent",
     "sentAt": "2026-11-15T09:31:52.087Z",
     "messageId": "<d347df9d-952a-c487-b295-36b60b33129e@quvirl.com>"
+  },
+  {
+    "prospectId": "5fc2cdb1de5b5ad57718",
+    "email": "support@victoriabeckhambeauty.com",
+    "status": "sent",
+    "sentAt": "2026-11-15T17:15:23.654Z",
+    "messageId": "<a91b5a04-f1b7-d1fe-f768-3cbcc49a904f@quvirl.com>"
+  },
+  {
+    "prospectId": "b2ecf58e34613e13866d",
+    "email": "info@inspiredhomeco.com",
+    "status": "sent",
+    "sentAt": "2026-11-15T17:16:09.546Z",
+    "messageId": "<574821d6-17d7-2681-752e-36c9b2e2dfa6@quvirl.com>"
   }
 ]

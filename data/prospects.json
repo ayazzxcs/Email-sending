@@ -5687,10 +5687,11 @@
     "storeUrl": "https://victoriabeckhambeauty.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-15T09:26:47.570Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-15T11:13:41.869Z"
+    "approvedAt": "2026-11-15T11:13:41.869Z",
+    "lastSentAt": "2026-11-15T17:15:23.654Z"
   },
   {
     "id": "b2ecf58e34613e13866d",
@@ -5699,9 +5700,21 @@
     "storeUrl": "https://inspiredhomeco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-15T09:28:04.559Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-15T11:13:41.869Z"
+    "approvedAt": "2026-11-15T11:13:41.869Z",
+    "lastSentAt": "2026-11-15T17:16:09.546Z"
+  },
+  {
+    "id": "00382b796180d88828a5",
+    "email": "info@shopdogboutique.com",
+    "storeName": "Find Dog Products in Sioux Falls | Shop Dog Boutique",
+    "storeUrl": "https://shopdogboutique.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-15T17:10:38.511Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
