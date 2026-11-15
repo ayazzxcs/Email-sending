@@ -3071,5 +3071,12 @@
     "status": "sent",
     "sentAt": "2026-11-15T17:16:09.546Z",
     "messageId": "<574821d6-17d7-2681-752e-36c9b2e2dfa6@quvirl.com>"
+  },
+  {
+    "prospectId": "00382b796180d88828a5",
+    "email": "info@shopdogboutique.com",
+    "status": "sent",
+    "sentAt": "2026-11-15T21:55:04.571Z",
+    "messageId": "<9f38733a-8c5c-4257-296e-190db3a466ca@quvirl.com>"
   }
 ]

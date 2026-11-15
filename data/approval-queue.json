@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "0a0aad1d3f34fb076fde",
+    "email": "info@yourstore.com",
+    "storeName": "Aurum-store.com – Aurum Pet Store",
+    "storeUrl": "https://aurumpetstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-15T21:50:36.516Z"
+  },
+  {
+    "id": "0430743ff804246e80ec",
+    "email": "sales@yourstore.com",
+    "storeName": "Aurum-store.com – Aurum Pet Store",
+    "storeUrl": "https://aurumpetstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-15T21:50:36.516Z"
+  },
+  {
+    "id": "dbb6f39ae9a82c7e1e90",
+    "email": "support@aurum-store.com",
+    "storeName": "Aurum-store.com – Aurum Pet Store",
+    "storeUrl": "https://aurumpetstore.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-15T21:50:36.516Z"
+  },
+  {
+    "id": "d69c5247e1436713509f",
+    "email": "info@wearbands.com",
+    "storeName": "WearBands Resistance Band Training Equipment For Athletes and Fitness – Wearbands",
+    "storeUrl": "https://wearbands.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-15T21:54:56.305Z"
+  }
+]
