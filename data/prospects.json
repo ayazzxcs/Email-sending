@@ -5661,9 +5661,10 @@
     "storeUrl": "https://seekgiftsanddecor.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-15T01:59:49.475Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-15T02:49:31.962Z"
   },
   {
     "id": "c6526db70fcdc2a7768a",
@@ -5672,8 +5673,9 @@
     "storeUrl": "https://parliamentinteriors.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-15T02:01:03.240Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-15T02:49:31.962Z"
   }
 ]
