@@ -3029,5 +3029,19 @@
     "status": "sent",
     "sentAt": "2026-11-14T10:31:11.049Z",
     "messageId": "<7c2a1a7e-b581-513d-56c0-6570befdb220@quvirl.com>"
+  },
+  {
+    "prospectId": "d4941ad7435884bdc6af",
+    "email": "support@simple-affiliate.com",
+    "status": "sent",
+    "sentAt": "2026-11-15T02:04:13.859Z",
+    "messageId": "<f6ce7de2-641c-4552-6eca-8e9e9492c37e@quvirl.com>"
+  },
+  {
+    "prospectId": "7a16883809a684dd2991",
+    "email": "support@storebuilder.ai",
+    "status": "sent",
+    "sentAt": "2026-11-15T02:04:59.762Z",
+    "messageId": "<3ae6f72e-f0f8-587a-5006-03ee70a43f1f@quvirl.com>"
   }
 ]

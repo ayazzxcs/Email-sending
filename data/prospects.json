@@ -5635,10 +5635,11 @@
     "storeUrl": "https://simple-affiliate.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-14T21:30:08.019Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-14T23:09:37.286Z"
+    "approvedAt": "2026-11-14T23:09:37.286Z",
+    "lastSentAt": "2026-11-15T02:04:13.859Z"
   },
   {
     "id": "7a16883809a684dd2991",
@@ -5647,9 +5648,32 @@
     "storeUrl": "https://storebuilder.ai",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-14T21:35:38.804Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-14T23:09:37.286Z"
+    "approvedAt": "2026-11-14T23:09:37.286Z",
+    "lastSentAt": "2026-11-15T02:04:59.762Z"
+  },
+  {
+    "id": "15be1ecf98dd0d78a5ec",
+    "email": "hello@seekgifts.ca",
+    "storeName": "SEEK gifts & home decor – Seek gifts and home decor Ltd.",
+    "storeUrl": "https://seekgiftsanddecor.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-15T01:59:49.475Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "c6526db70fcdc2a7768a",
+    "email": "info@parliamentinteriors.com",
+    "storeName": "Vancouver Modern Furniture Store | Parliament Interiors",
+    "storeUrl": "https://parliamentinteriors.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-15T02:01:03.240Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
