@@ -5778,9 +5778,10 @@
     "storeUrl": "https://cghunter.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:45:44.499Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-16T11:44:12.880Z"
   },
   {
     "id": "b3370f195453d3bca078",
@@ -5789,9 +5790,10 @@
     "storeUrl": "https://cghunter.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:45:44.499Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-16T11:44:12.880Z"
   },
   {
     "id": "acd88488b4360659403e",
@@ -5800,9 +5802,10 @@
     "storeUrl": "https://alicelanehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:46:51.769Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-16T11:44:12.880Z"
   },
   {
     "id": "785a109437d8915a35b3",
@@ -5811,8 +5814,9 @@
     "storeUrl": "https://alicelanehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:46:51.769Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-16T11:44:12.880Z"
   }
 ]
