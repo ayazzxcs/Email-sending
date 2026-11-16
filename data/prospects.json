@@ -5830,8 +5830,9 @@
     "storeUrl": "https://www.tyack.com.au",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T20:30:42.652Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-16T22:18:54.892Z"
   }
 ]
