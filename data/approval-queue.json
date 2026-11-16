@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "17c6744a9ba8ae201cd9",
+    "email": "info@cghunter.com",
+    "storeName": "CG Hunter | Luxury faux plants, flowers, holiday & home decor",
+    "storeUrl": "https://cghunter.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-16T09:45:44.499Z"
+  },
+  {
+    "id": "b3370f195453d3bca078",
+    "email": "marketing@cghunter.com",
+    "storeName": "CG Hunter | Luxury faux plants, flowers, holiday & home decor",
+    "storeUrl": "https://cghunter.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-16T09:45:44.499Z"
+  },
+  {
+    "id": "acd88488b4360659403e",
+    "email": "support@alicelanehome.com",
+    "storeName": "Luxury High-end Home Goods | Modern Furniture and Decor – Alice Lane",
+    "storeUrl": "https://alicelanehome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-16T09:46:51.769Z"
+  },
+  {
+    "id": "785a109437d8915a35b3",
+    "email": "marketing@alicelanehome.com",
+    "storeName": "Luxury High-end Home Goods | Modern Furniture and Decor – Alice Lane",
+    "storeUrl": "https://alicelanehome.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-16T09:46:51.769Z"
+  }
+]
