@@ -3078,5 +3078,33 @@
     "status": "sent",
     "sentAt": "2026-11-15T21:55:04.571Z",
     "messageId": "<9f38733a-8c5c-4257-296e-190db3a466ca@quvirl.com>"
+  },
+  {
+    "prospectId": "0a0aad1d3f34fb076fde",
+    "email": "info@yourstore.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T02:12:31.664Z",
+    "messageId": "<57519246-3a29-82d7-c575-d3f3a59e7e40@quvirl.com>"
+  },
+  {
+    "prospectId": "0430743ff804246e80ec",
+    "email": "sales@yourstore.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T02:13:17.472Z",
+    "messageId": "<5a46a68d-2783-22cf-4e50-ba0bbb945085@quvirl.com>"
+  },
+  {
+    "prospectId": "dbb6f39ae9a82c7e1e90",
+    "email": "support@aurum-store.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T02:14:03.270Z",
+    "messageId": "<e989c492-b3de-44fd-829d-c915e9bd48f8@quvirl.com>"
+  },
+  {
+    "prospectId": "d69c5247e1436713509f",
+    "email": "info@wearbands.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T02:14:49.116Z",
+    "messageId": "<c9c8e889-d838-c218-a51c-ab1b07b6812d@quvirl.com>"
   }
 ]
