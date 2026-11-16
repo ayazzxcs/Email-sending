@@ -3106,5 +3106,33 @@
     "status": "sent",
     "sentAt": "2026-11-16T02:14:49.116Z",
     "messageId": "<c9c8e889-d838-c218-a51c-ab1b07b6812d@quvirl.com>"
+  },
+  {
+    "prospectId": "17c6744a9ba8ae201cd9",
+    "email": "info@cghunter.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T20:32:51.586Z",
+    "messageId": "<628dfc65-adbf-3c4e-bf30-d5f3c089d150@quvirl.com>"
+  },
+  {
+    "prospectId": "b3370f195453d3bca078",
+    "email": "marketing@cghunter.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T20:33:38.507Z",
+    "messageId": "<987f3c5a-d762-36e1-1eb8-2f0e13edb7b5@quvirl.com>"
+  },
+  {
+    "prospectId": "acd88488b4360659403e",
+    "email": "support@alicelanehome.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T20:34:24.452Z",
+    "messageId": "<04544c7a-5693-0d49-1fff-09386c272682@quvirl.com>"
+  },
+  {
+    "prospectId": "785a109437d8915a35b3",
+    "email": "marketing@alicelanehome.com",
+    "status": "sent",
+    "sentAt": "2026-11-16T20:35:11.503Z",
+    "messageId": "<74341ac6-3d33-3d78-af19-eb40ec8fc6d5@quvirl.com>"
   }
 ]

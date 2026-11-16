@@ -5778,10 +5778,11 @@
     "storeUrl": "https://cghunter.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:45:44.499Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-16T11:44:12.880Z"
+    "approvedAt": "2026-11-16T11:44:12.880Z",
+    "lastSentAt": "2026-11-16T20:32:51.586Z"
   },
   {
     "id": "b3370f195453d3bca078",
@@ -5790,10 +5791,11 @@
     "storeUrl": "https://cghunter.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:45:44.499Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-16T11:44:12.880Z"
+    "approvedAt": "2026-11-16T11:44:12.880Z",
+    "lastSentAt": "2026-11-16T20:33:38.507Z"
   },
   {
     "id": "acd88488b4360659403e",
@@ -5802,10 +5804,11 @@
     "storeUrl": "https://alicelanehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:46:51.769Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-16T11:44:12.880Z"
+    "approvedAt": "2026-11-16T11:44:12.880Z",
+    "lastSentAt": "2026-11-16T20:34:24.452Z"
   },
   {
     "id": "785a109437d8915a35b3",
@@ -5814,9 +5817,21 @@
     "storeUrl": "https://alicelanehome.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-16T09:46:51.769Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-16T11:44:12.880Z"
+    "approvedAt": "2026-11-16T11:44:12.880Z",
+    "lastSentAt": "2026-11-16T20:35:11.503Z"
+  },
+  {
+    "id": "0bc06fe6f1e5d381ac48",
+    "email": "contact@tyackecommsolutions.com.au",
+    "storeName": "Shopify Partner & eCommerce Growth Agency Australia | Tyack eCommerce",
+    "storeUrl": "https://www.tyack.com.au",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-16T20:30:42.652Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
