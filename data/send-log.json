@@ -3162,5 +3162,19 @@
     "status": "sent",
     "sentAt": "2026-11-17T13:32:51.441Z",
     "messageId": "<a4d09968-d8d8-eb95-ebd5-b49219b8a30a@quvirl.com>"
+  },
+  {
+    "prospectId": "72aff4f6d001f647c282",
+    "email": "hello@sunriseintegration.com",
+    "status": "sent",
+    "sentAt": "2026-11-17T22:25:55.368Z",
+    "messageId": "<3c44704a-2686-9502-88ff-1649b2524eb2@quvirl.com>"
+  },
+  {
+    "prospectId": "f7f76ffe5069d0165f36",
+    "email": "info@tinyseo.com",
+    "status": "sent",
+    "sentAt": "2026-11-17T22:26:41.117Z",
+    "messageId": "<e4afa3cc-745b-4378-9e79-5cc7aefc3586@quvirl.com>"
   }
 ]
