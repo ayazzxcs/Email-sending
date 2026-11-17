@@ -408,7 +408,7 @@ export function buildHtmlEmail(brandName, subject) {
               <a href="https://quvirl.com" style="color: #58a6ff; text-decoration: underline;">quvirl.com</a>
             </p>
             <p style="margin: 0; font-size: 11px; color: #334155;">
-              © ${new Date().getFullYear()} Quvirl Technologies. All rights reserved.
+              © ${new Date().getFullYear()} Quvirl. All rights reserved.
             </p>
           </td>
         </tr>
