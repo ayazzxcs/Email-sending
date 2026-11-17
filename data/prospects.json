@@ -5843,10 +5843,11 @@
     "storeUrl": "https://deanswanepoel.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T03:53:18.779Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-17T04:38:59.428Z"
+    "approvedAt": "2026-11-17T04:38:59.428Z",
+    "lastSentAt": "2026-11-17T13:31:18.299Z"
   },
   {
     "id": "d88fce41d7e890e4ad0e",
@@ -5855,10 +5856,11 @@
     "storeUrl": "https://gminfotech.net",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T03:53:21.759Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-17T04:38:59.428Z"
+    "approvedAt": "2026-11-17T04:38:59.428Z",
+    "lastSentAt": "2026-11-17T13:32:05.028Z"
   },
   {
     "id": "4a18378e78c18bf5960e",
@@ -5867,9 +5869,32 @@
     "storeUrl": "https://deerruntreadmill.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T03:59:54.568Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-17T04:38:59.428Z"
+    "approvedAt": "2026-11-17T04:38:59.428Z",
+    "lastSentAt": "2026-11-17T13:32:51.441Z"
+  },
+  {
+    "id": "72aff4f6d001f647c282",
+    "email": "hello@sunriseintegration.com",
+    "storeName": "Shopify Agency for Ecommerce Design, Development and Integration",
+    "storeUrl": "https://www.sunriseintegration.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-17T13:24:30.284Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "f7f76ffe5069d0165f36",
+    "email": "info@tinyseo.com",
+    "storeName": "TinySEO (formerly TinyIMG) - Shopify SEO & Speed App",
+    "storeUrl": "https://tinyseo.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-17T13:25:12.665Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

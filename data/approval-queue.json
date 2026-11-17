@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "id": "72aff4f6d001f647c282",
+    "email": "hello@sunriseintegration.com",
+    "storeName": "Shopify Agency for Ecommerce Design, Development and Integration",
+    "storeUrl": "https://www.sunriseintegration.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-17T13:24:30.284Z"
+  },
+  {
+    "id": "f7f76ffe5069d0165f36",
+    "email": "info@tinyseo.com",
+    "storeName": "TinySEO (formerly TinyIMG) - Shopify SEO & Speed App",
+    "storeUrl": "https://tinyseo.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-17T13:25:12.665Z"
+  }
+]

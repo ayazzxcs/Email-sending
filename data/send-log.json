@@ -3141,5 +3141,26 @@
     "status": "sent",
     "sentAt": "2026-11-17T03:59:58.098Z",
     "messageId": "<00a88673-31bd-f75a-913a-2a8d53c762ba@quvirl.com>"
+  },
+  {
+    "prospectId": "5b5bd175a75556c59b70",
+    "email": "support@deanswanepoel.com",
+    "status": "sent",
+    "sentAt": "2026-11-17T13:31:18.299Z",
+    "messageId": "<6351c1e3-ccf7-a25e-69a3-0b94f412a37f@quvirl.com>"
+  },
+  {
+    "prospectId": "d88fce41d7e890e4ad0e",
+    "email": "support@gminfotech.net",
+    "status": "sent",
+    "sentAt": "2026-11-17T13:32:05.028Z",
+    "messageId": "<19d49381-fc19-2ca7-4ddd-a3b42e4e5c96@quvirl.com>"
+  },
+  {
+    "prospectId": "4a18378e78c18bf5960e",
+    "email": "support@deerruntreadmill.com",
+    "status": "sent",
+    "sentAt": "2026-11-17T13:32:51.441Z",
+    "messageId": "<a4d09968-d8d8-eb95-ebd5-b49219b8a30a@quvirl.com>"
   }
 ]
