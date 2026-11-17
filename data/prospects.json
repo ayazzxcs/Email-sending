@@ -5882,9 +5882,10 @@
     "storeUrl": "https://www.sunriseintegration.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T13:24:30.284Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-17T14:39:26.624Z"
   },
   {
     "id": "f7f76ffe5069d0165f36",
@@ -5893,8 +5894,9 @@
     "storeUrl": "https://tinyseo.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T13:25:12.665Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-17T14:39:26.625Z"
   }
 ]
