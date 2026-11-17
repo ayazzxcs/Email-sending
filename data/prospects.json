@@ -5843,9 +5843,10 @@
     "storeUrl": "https://deanswanepoel.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T03:53:18.779Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-17T04:38:59.428Z"
   },
   {
     "id": "d88fce41d7e890e4ad0e",
@@ -5854,9 +5855,10 @@
     "storeUrl": "https://gminfotech.net",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T03:53:21.759Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-17T04:38:59.428Z"
   },
   {
     "id": "4a18378e78c18bf5960e",
@@ -5865,8 +5867,9 @@
     "storeUrl": "https://deerruntreadmill.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-17T03:59:54.568Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-17T04:38:59.428Z"
   }
 ]
