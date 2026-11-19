@@ -5934,9 +5934,10 @@
     "storeUrl": "https://www.delightchat.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-19T21:32:03.051Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-19T22:16:47.677Z"
   },
   {
     "id": "88ced2cc897c2b037a29",
@@ -5945,9 +5946,10 @@
     "storeUrl": "https://www.delightchat.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-19T21:32:03.051Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-19T22:16:47.677Z"
   },
   {
     "id": "9cafac5e9579b16ec292",
@@ -5956,9 +5958,10 @@
     "storeUrl": "https://www.delightchat.io",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-19T21:32:03.051Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-19T22:16:47.677Z"
   },
   {
     "id": "24927eae29f7fdccbad8",
@@ -5967,8 +5970,9 @@
     "storeUrl": "https://trystiles.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-19T21:36:38.980Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-19T22:16:47.677Z"
   }
 ]
