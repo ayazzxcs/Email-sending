@@ -5921,9 +5921,54 @@
     "storeUrl": "https://sledge-app.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-19T13:02:57.871Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-19T13:29:45.532Z"
+    "approvedAt": "2026-11-19T13:29:45.532Z",
+    "lastSentAt": "2026-11-19T21:39:43.382Z"
+  },
+  {
+    "id": "3f45651f0ef1e22d6705",
+    "email": "sales@delight.chat",
+    "storeName": "Omnichannel Customer Support & WhatsApp Marketing Software | DelightChat",
+    "storeUrl": "https://www.delightchat.io",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-19T21:32:03.051Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "88ced2cc897c2b037a29",
+    "email": "marketing@delight.chat",
+    "storeName": "Omnichannel Customer Support & WhatsApp Marketing Software | DelightChat",
+    "storeUrl": "https://www.delightchat.io",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-19T21:32:03.051Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "9cafac5e9579b16ec292",
+    "email": "support@delight.chat",
+    "storeName": "Omnichannel Customer Support & WhatsApp Marketing Software | DelightChat",
+    "storeUrl": "https://www.delightchat.io",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-19T21:32:03.051Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "24927eae29f7fdccbad8",
+    "email": "info@trystiles.com",
+    "storeName": "Stiles - Personalized Wall Art & Home Decor",
+    "storeUrl": "https://trystiles.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-19T21:36:38.980Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

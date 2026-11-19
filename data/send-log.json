@@ -3183,5 +3183,12 @@
     "status": "sent",
     "sentAt": "2026-11-19T13:07:52.262Z",
     "messageId": "<2c3d5b80-b01b-8131-03f8-429d4bbc61e2@quvirl.com>"
+  },
+  {
+    "prospectId": "82a13f383eba86f4eb10",
+    "email": "contact@sledge-app.com",
+    "status": "sent",
+    "sentAt": "2026-11-19T21:39:43.382Z",
+    "messageId": "<95572483-3642-623c-5e50-2e8a8eb0ae02@quvirl.com>"
   }
 ]
