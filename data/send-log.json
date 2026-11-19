@@ -3176,5 +3176,12 @@
     "status": "sent",
     "sentAt": "2026-11-17T22:26:41.117Z",
     "messageId": "<e4afa3cc-745b-4378-9e79-5cc7aefc3586@quvirl.com>"
+  },
+  {
+    "prospectId": "f52c29f32858b7b73276",
+    "email": "info@lucentcommerce.com",
+    "status": "sent",
+    "sentAt": "2026-11-19T13:07:52.262Z",
+    "messageId": "<2c3d5b80-b01b-8131-03f8-429d4bbc61e2@quvirl.com>"
   }
 ]

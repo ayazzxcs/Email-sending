@@ -5908,9 +5908,21 @@
     "storeUrl": "https://www.lucentcommerce.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-19T03:29:28.258Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-19T03:40:01.378Z"
+    "approvedAt": "2026-11-19T03:40:01.378Z",
+    "lastSentAt": "2026-11-19T13:07:52.262Z"
+  },
+  {
+    "id": "82a13f383eba86f4eb10",
+    "email": "contact@sledge-app.com",
+    "storeName": "Sledge: Shopify App to Help Shoppers Find & Buy More",
+    "storeUrl": "https://sledge-app.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-19T13:02:57.871Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
