@@ -5908,8 +5908,9 @@
     "storeUrl": "https://www.lucentcommerce.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-19T03:29:28.258Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-19T03:40:01.378Z"
   }
 ]
