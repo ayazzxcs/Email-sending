@@ -3190,5 +3190,33 @@
     "status": "sent",
     "sentAt": "2026-11-19T21:39:43.382Z",
     "messageId": "<95572483-3642-623c-5e50-2e8a8eb0ae02@quvirl.com>"
+  },
+  {
+    "prospectId": "3f45651f0ef1e22d6705",
+    "email": "sales@delight.chat",
+    "status": "sent",
+    "sentAt": "2026-11-20T03:21:29.175Z",
+    "messageId": "<2952e79f-bc76-af7c-4153-dc25840d4f46@quvirl.com>"
+  },
+  {
+    "prospectId": "88ced2cc897c2b037a29",
+    "email": "marketing@delight.chat",
+    "status": "sent",
+    "sentAt": "2026-11-20T03:22:15.266Z",
+    "messageId": "<4565b90e-3e60-037f-1d9c-bbdd574ac9cd@quvirl.com>"
+  },
+  {
+    "prospectId": "9cafac5e9579b16ec292",
+    "email": "support@delight.chat",
+    "status": "sent",
+    "sentAt": "2026-11-20T03:23:01.030Z",
+    "messageId": "<eeaf465b-1ce1-31ea-097b-5276ce702cf5@quvirl.com>"
+  },
+  {
+    "prospectId": "24927eae29f7fdccbad8",
+    "email": "info@trystiles.com",
+    "status": "sent",
+    "sentAt": "2026-11-20T03:23:46.933Z",
+    "messageId": "<5f8ae556-27d2-a1b6-b5c6-421fd786dd9a@quvirl.com>"
   }
 ]
