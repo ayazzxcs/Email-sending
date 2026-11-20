@@ -5986,9 +5986,10 @@
     "storeUrl": "https://www.clyro.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:18:44.799Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-20T21:17:03.270Z"
   },
   {
     "id": "5b390461954b7de2de3b",
@@ -5997,9 +5998,10 @@
     "storeUrl": "https://myfilosophy.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:19:07.111Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-20T21:17:03.271Z"
   },
   {
     "id": "77f96b7b60a81677d49c",
@@ -6008,9 +6010,10 @@
     "storeUrl": "https://fittedshop.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:19:09.618Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-20T21:17:03.271Z"
   },
   {
     "id": "3f0e9a122c6c59752d61",
@@ -6019,8 +6022,9 @@
     "storeUrl": "https://newtechworldwide.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:20:35.264Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-20T21:17:03.271Z"
   }
 ]
