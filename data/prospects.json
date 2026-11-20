@@ -5978,5 +5978,49 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-11-19T22:16:47.677Z",
     "lastSentAt": "2026-11-20T03:23:46.933Z"
+  },
+  {
+    "id": "4aab4c2fe970d9bcf6ba",
+    "email": "support@clyro.com",
+    "storeName": "Clyro: AI Shopify Store Builder & Theme Generator",
+    "storeUrl": "https://www.clyro.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-20T20:18:44.799Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "5b390461954b7de2de3b",
+    "email": "info@myfilosophy.com",
+    "storeName": "My Filosophy | Women’s & Men’s Fashion, Accessories & Gifts Edmonton",
+    "storeUrl": "https://myfilosophy.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-20T20:19:07.111Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "77f96b7b60a81677d49c",
+    "email": "info@fittedshop.com",
+    "storeName": "FITTED | Timeless Clothing for Men & Women",
+    "storeUrl": "https://fittedshop.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-20T20:19:09.618Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "3f0e9a122c6c59752d61",
+    "email": "sales@newtechgym.com",
+    "storeName": "Newtech Wellness",
+    "storeUrl": "https://newtechworldwide.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-20T20:20:35.264Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
