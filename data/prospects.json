@@ -5986,10 +5986,11 @@
     "storeUrl": "https://www.clyro.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:18:44.799Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-20T21:17:03.270Z"
+    "approvedAt": "2026-11-20T21:17:03.270Z",
+    "lastSentAt": "2026-11-21T01:38:51.284Z"
   },
   {
     "id": "5b390461954b7de2de3b",
@@ -5998,10 +5999,11 @@
     "storeUrl": "https://myfilosophy.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:19:07.111Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-20T21:17:03.271Z"
+    "approvedAt": "2026-11-20T21:17:03.271Z",
+    "lastSentAt": "2026-11-21T01:39:36.887Z"
   },
   {
     "id": "77f96b7b60a81677d49c",
@@ -6010,10 +6012,11 @@
     "storeUrl": "https://fittedshop.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:19:09.618Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-20T21:17:03.271Z"
+    "approvedAt": "2026-11-20T21:17:03.271Z",
+    "lastSentAt": "2026-11-21T01:40:22.591Z"
   },
   {
     "id": "3f0e9a122c6c59752d61",
@@ -6022,9 +6025,54 @@
     "storeUrl": "https://newtechworldwide.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-20T20:20:35.264Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-20T21:17:03.271Z"
+    "approvedAt": "2026-11-20T21:17:03.271Z",
+    "lastSentAt": "2026-11-21T01:41:08.317Z"
+  },
+  {
+    "id": "172d61bc00b74cf01a3f",
+    "email": "info@ve.com",
+    "storeName": "Gym Aesthetics Germany Official Store | Sports & Fitness Apparel",
+    "storeUrl": "https://www.gymaesthetics.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:36.513Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "589a43eed0e984c50f56",
+    "email": "business@gymaesthetics.com",
+    "storeName": "Gym Aesthetics Germany Official Store | Sports & Fitness Apparel",
+    "storeUrl": "https://www.gymaesthetics.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:36.513Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "bfdbacf6c60213c993db",
+    "email": "support@website-check.de",
+    "storeName": "Gym Aesthetics Germany Official Store | Sports & Fitness Apparel",
+    "storeUrl": "https://www.gymaesthetics.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:36.513Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "b625115739e624533f83",
+    "email": "info@freyjafit.co.uk",
+    "storeName": "Freyja Fit – Premium Women’s Gym Equipment & Fitness Gear",
+    "storeUrl": "https://www.freyjafit.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:43.589Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

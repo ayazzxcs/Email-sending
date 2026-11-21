@@ -1,1 +1,34 @@
-[]
+[
+  {
+    "id": "172d61bc00b74cf01a3f",
+    "email": "info@ve.com",
+    "storeName": "Gym Aesthetics Germany Official Store | Sports & Fitness Apparel",
+    "storeUrl": "https://www.gymaesthetics.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:36.513Z"
+  },
+  {
+    "id": "589a43eed0e984c50f56",
+    "email": "business@gymaesthetics.com",
+    "storeName": "Gym Aesthetics Germany Official Store | Sports & Fitness Apparel",
+    "storeUrl": "https://www.gymaesthetics.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:36.513Z"
+  },
+  {
+    "id": "bfdbacf6c60213c993db",
+    "email": "support@website-check.de",
+    "storeName": "Gym Aesthetics Germany Official Store | Sports & Fitness Apparel",
+    "storeUrl": "https://www.gymaesthetics.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:36.513Z"
+  },
+  {
+    "id": "b625115739e624533f83",
+    "email": "info@freyjafit.co.uk",
+    "storeName": "Freyja Fit – Premium Women’s Gym Equipment & Fitness Gear",
+    "storeUrl": "https://www.freyjafit.co.uk",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T01:38:43.589Z"
+  }
+]
