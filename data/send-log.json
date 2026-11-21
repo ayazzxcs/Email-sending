@@ -3274,5 +3274,12 @@
     "status": "sent",
     "sentAt": "2026-11-21T09:56:53.689Z",
     "messageId": "<ba18c8ba-92bb-5e9a-570e-bbd4e7c926b5@quvirl.com>"
+  },
+  {
+    "prospectId": "6d84ae03315a83abf9a4",
+    "email": "info@hudsonsteelco.com",
+    "status": "sent",
+    "sentAt": "2026-11-21T17:38:11.645Z",
+    "messageId": "<da6f9b42-81af-6716-54b7-51556572f019@quvirl.com>"
   }
 ]

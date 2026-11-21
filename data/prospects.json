@@ -6090,9 +6090,10 @@
     "storeUrl": "https://hudsonsteelco.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T09:54:22.862Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-21T11:24:39.748Z"
+    "approvedAt": "2026-11-21T11:24:39.748Z",
+    "lastSentAt": "2026-11-21T17:38:11.645Z"
   }
 ]
