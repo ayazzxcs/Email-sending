@@ -6038,9 +6038,10 @@
     "storeUrl": "https://www.gymaesthetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:36.513Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-21T02:33:01.816Z"
   },
   {
     "id": "589a43eed0e984c50f56",
@@ -6049,9 +6050,10 @@
     "storeUrl": "https://www.gymaesthetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:36.513Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-21T02:33:01.816Z"
   },
   {
     "id": "bfdbacf6c60213c993db",
@@ -6060,9 +6062,10 @@
     "storeUrl": "https://www.gymaesthetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:36.513Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-21T02:33:01.816Z"
   },
   {
     "id": "b625115739e624533f83",
@@ -6071,8 +6074,9 @@
     "storeUrl": "https://www.freyjafit.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:43.589Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-21T02:33:01.816Z"
   }
 ]
