@@ -6038,10 +6038,11 @@
     "storeUrl": "https://www.gymaesthetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:36.513Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-21T02:33:01.816Z"
+    "approvedAt": "2026-11-21T02:33:01.816Z",
+    "lastSentAt": "2026-11-21T09:54:35.184Z"
   },
   {
     "id": "589a43eed0e984c50f56",
@@ -6050,10 +6051,11 @@
     "storeUrl": "https://www.gymaesthetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:36.513Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-21T02:33:01.816Z"
+    "approvedAt": "2026-11-21T02:33:01.816Z",
+    "lastSentAt": "2026-11-21T09:55:21.321Z"
   },
   {
     "id": "bfdbacf6c60213c993db",
@@ -6062,10 +6064,11 @@
     "storeUrl": "https://www.gymaesthetics.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:36.513Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-21T02:33:01.816Z"
+    "approvedAt": "2026-11-21T02:33:01.816Z",
+    "lastSentAt": "2026-11-21T09:56:07.274Z"
   },
   {
     "id": "b625115739e624533f83",
@@ -6074,9 +6077,21 @@
     "storeUrl": "https://www.freyjafit.co.uk",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T01:38:43.589Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-21T02:33:01.816Z"
+    "approvedAt": "2026-11-21T02:33:01.816Z",
+    "lastSentAt": "2026-11-21T09:56:53.689Z"
+  },
+  {
+    "id": "6d84ae03315a83abf9a4",
+    "email": "info@hudsonsteelco.com",
+    "storeName": "HUDSON STEEL CO. – Hudson Steel Fitness Equipment",
+    "storeUrl": "https://hudsonsteelco.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T09:54:22.862Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]

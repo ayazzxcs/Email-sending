@@ -3246,5 +3246,33 @@
     "status": "sent",
     "sentAt": "2026-11-21T01:41:08.317Z",
     "messageId": "<42f6aed3-926a-2043-e3c1-56167a992c27@quvirl.com>"
+  },
+  {
+    "prospectId": "172d61bc00b74cf01a3f",
+    "email": "info@ve.com",
+    "status": "sent",
+    "sentAt": "2026-11-21T09:54:35.184Z",
+    "messageId": "<165f5161-b0f4-e1d1-7636-ee47b5db532a@quvirl.com>"
+  },
+  {
+    "prospectId": "589a43eed0e984c50f56",
+    "email": "business@gymaesthetics.com",
+    "status": "sent",
+    "sentAt": "2026-11-21T09:55:21.321Z",
+    "messageId": "<e6cc2455-fa6a-9870-01fd-ed3bd46827a5@quvirl.com>"
+  },
+  {
+    "prospectId": "bfdbacf6c60213c993db",
+    "email": "support@website-check.de",
+    "status": "sent",
+    "sentAt": "2026-11-21T09:56:07.274Z",
+    "messageId": "<47610929-b2b5-a30c-0ca4-8f50350aadbb@quvirl.com>"
+  },
+  {
+    "prospectId": "b625115739e624533f83",
+    "email": "info@freyjafit.co.uk",
+    "status": "sent",
+    "sentAt": "2026-11-21T09:56:53.689Z",
+    "messageId": "<ba18c8ba-92bb-5e9a-570e-bbd4e7c926b5@quvirl.com>"
   }
 ]
