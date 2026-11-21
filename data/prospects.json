@@ -6095,5 +6095,27 @@
     "legalBasis": "Batch reviewed and approved by repository owner",
     "approvedAt": "2026-11-21T11:24:39.748Z",
     "lastSentAt": "2026-11-21T17:38:11.645Z"
+  },
+  {
+    "id": "a005414cc48a064abfdc",
+    "email": "support@identixweb.com",
+    "storeName": "Cart Upsell Shopify App: Free to Start, No Code | iCart",
+    "storeUrl": "https://icartupsell.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T23:14:55.659Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "955def4e49b5001b37a1",
+    "email": "info@identixweb.com",
+    "storeName": "Cart Upsell Shopify App: Free to Start, No Code | iCart",
+    "storeUrl": "https://icartupsell.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-21T23:14:55.659Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
