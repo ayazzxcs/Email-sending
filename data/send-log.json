@@ -3281,5 +3281,19 @@
     "status": "sent",
     "sentAt": "2026-11-21T17:38:11.645Z",
     "messageId": "<da6f9b42-81af-6716-54b7-51556572f019@quvirl.com>"
+  },
+  {
+    "prospectId": "a005414cc48a064abfdc",
+    "email": "support@identixweb.com",
+    "status": "sent",
+    "sentAt": "2026-11-22T03:19:22.520Z",
+    "messageId": "<ba470dcb-0327-62c6-55ca-c6c0e3f18dc6@quvirl.com>"
+  },
+  {
+    "prospectId": "955def4e49b5001b37a1",
+    "email": "info@identixweb.com",
+    "status": "sent",
+    "sentAt": "2026-11-22T03:20:08.888Z",
+    "messageId": "<eeaa9648-a5e7-d033-4c92-2dda507c0683@quvirl.com>"
   }
 ]

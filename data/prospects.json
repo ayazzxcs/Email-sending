@@ -6103,10 +6103,11 @@
     "storeUrl": "https://icartupsell.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T23:14:55.659Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-22T00:27:10.425Z"
+    "approvedAt": "2026-11-22T00:27:10.425Z",
+    "lastSentAt": "2026-11-22T03:19:22.520Z"
   },
   {
     "id": "955def4e49b5001b37a1",
@@ -6115,9 +6116,10 @@
     "storeUrl": "https://icartupsell.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-21T23:14:55.659Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-22T00:27:10.425Z"
+    "approvedAt": "2026-11-22T00:27:10.425Z",
+    "lastSentAt": "2026-11-22T03:20:08.888Z"
   }
 ]
