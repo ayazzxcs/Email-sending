@@ -6129,8 +6129,9 @@
     "storeUrl": "https://benchfitness.com",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-23T21:28:09.368Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-24T02:20:40.425Z"
   }
 ]
