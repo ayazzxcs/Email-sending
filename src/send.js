@@ -55,8 +55,9 @@ for (const p of candidates) {
   write('data/prospects.json', prospects);
 
   try {
+    const fromName = process.env.FROM_NAME || 'Quvirl';
     const mailOptions = {
-      from: '"Quvirl" <noreply@quvirl.com>',
+      from: `"${fromName}" <noreply@quvirl.com>`,
       replyTo: process.env.REPLY_TO || 'noreply@quvirl.com',
       to: email,
       subject: d.subject,

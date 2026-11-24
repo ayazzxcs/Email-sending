@@ -10,7 +10,8 @@
     "approve": "node src/approve-batch.js",
     "send": "node src/send.js",
     "run": "npm run discover && npm run draft && npm run queue && npm run send",
-    "check": "node --check src/discover.js && node --check src/draft.js && node --check src/build-approval-queue.js && node --check src/approve-batch.js && node --check src/send.js"
+    "test": "node --test src/creator-utils.test.js",
+    "check": "node --check src/creator-utils.js && node --check src/ecommerce-utils.js && node --check src/discover.js && node --check src/draft.js && node --check src/build-approval-queue.js && node --check src/approve-batch.js && node --check src/send.js"
   },
   "dependencies": {
     "nodemailer": "^7.0.5",

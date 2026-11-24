@@ -41,8 +41,8 @@ jobs:
           done
           docker logs searxng
           exit 1
-      - name: Run Quvirl agent
-        run: npm run check && npm run discover && npm run draft && npm run queue && npm run send
+      - name: Run Quvirl marketing agent
+        run: npm run check && npm test && npm run discover && npm run draft && npm run queue && npm run send
         env:
           SEARXNG_URL: http://127.0.0.1:8080
           SMTP_HOST: ${{ secrets.SMTP_HOST }}
@@ -56,7 +56,7 @@ jobs:
           DELAY_SECONDS: '45'
           MAX_QUERIES: '100'
           SEARCH_PAGES: '100'
-          MAX_STORES: '500'
+          MAX_PROFILES: '500'
           EMERGENCY_STOP: ${{ vars.EMERGENCY_STOP }}
       - name: Show SearXNG logs on failure
         if: failure()
