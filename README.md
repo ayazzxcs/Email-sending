@@ -9,8 +9,8 @@ Targets **both** audiences automatically in one pipeline:
    - Classifies creator hubs (`linktr.ee`, `beacons.ai`, `stan.store`, `carrd.co`, `bio.site`), podcast sites, media kits, and social snippets as `audience: "creator"` with `creatorType` (`podcaster`, `youtuber`, `streamer`, `influencer`, `clipper`, `creator`).
    - Detects Shopify storefronts as `audience: "ecommerce"` and scrapes public contact/about/privacy/support role emails (`info@`, `hello@`, `contact@`, `support@`, `sales@`, etc.).
 2. **Draft (`npm run draft`)**: Automatically routes each unsent prospect by `audience`:
-   - `creator` → tailored **Quvirl AI Video Lab** email (Free AI Preview, $4.50 Pay-On-Ready, zero $49/mo sub).
-   - `ecommerce` (and legacy prospects) → **Product Radar + AI Video Lab** e-commerce email.
+   - `creator` → tailored **Quvirl AI Video Lab** email ($4.50/video pay-per-video, zero monthly subscriptions, 9:16/1:1/16:9 reframing, NVIDIA 48GB GPU, 1080p 60fps zero-watermark exports).
+   - `ecommerce` (and legacy prospects) → **Product Demand Radar ($0 Free Forever) + AI Video Lab ($4.50/video)** e-commerce email.
 3. **Queue & Approve (`npm run queue` / `npm run approve`)**: Queues both creator and e-commerce `review_required` contacts into `data/approval-queue.json` (set `TARGET_AUDIENCE=creator` or `TARGET_AUDIENCE=ecommerce` to filter a run).
 4. **Send (`npm run send`)**: Sends approved emails via SMTP with triple duplicate prevention:
    - Prospect must still have `status: new`.

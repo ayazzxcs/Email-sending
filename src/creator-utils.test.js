@@ -109,25 +109,42 @@ test('cleanCreatorName extracts clean human/brand names and strips platform clut
   assert.equal(cleanCreatorName('', 'https://youtube.com/@DevonVlogs'), 'DevonVlogs');
 });
 
-test('Creator AI Video Lab drafts are focused strictly on Quvirl AI Video Lab', () => {
+test('Creator AI Video Lab drafts reflect current live quvirl.com pricing & features with zero e-commerce copy', () => {
   const subject = buildVideoLabSubject('Alex Rivera', 'podcaster');
   const text = buildVideoLabTextEmail('Alex Rivera', 'podcaster');
   const html = buildVideoLabHtmlEmail('Alex Rivera', subject, 'podcaster');
 
   assert.match(subject, /Alex Rivera/);
-  assert.match(subject, /\$4\.50/);
+  assert.match(subject, /\$4\.50\/video/);
   assert.match(text, /Quvirl AI Video Lab/);
   assert.match(text, /https:\/\/quvirl\.com\/videolab/);
+  assert.match(text, /Viral Impact Gold, Creator Neon, Minimal Clean, Red Alert/);
+  assert.match(text, /9:16, 1:1/);
   assert.match(html, /email-video-lab\.png/);
   assert.match(html, /Hey Alex Rivera,/);
+  assert.match(html, /\$4\.50 \/ Video/);
+  assert.match(html, /NVIDIA Ada Lovelace 48GB/);
+  assert.match(html, /01 · UPLOAD VIDEO/);
+  assert.match(text, /Upload your podcast video file directly/);
 
-  for (const forbidden of [/Shopify/i, /Product Radar/i, /AliExpress/i, /CJdropshipping/i, /email-product-radar\.png/i]) {
+  // Guard against e-commerce leakage, outdated pricing/presets, and removed URL-paste copy
+  for (const forbidden of [
+    /Shopify/i,
+    /Product Radar/i,
+    /AliExpress/i,
+    /CJdropshipping/i,
+    /email-product-radar\.png/i,
+    /Pay-On-Ready/i,
+    /Free AI Preview/i,
+    /Hormozi/i,
+    /Paste (any|a|your)/i
+  ]) {
     assert.doesNotMatch(text, forbidden);
     assert.doesNotMatch(html, forbidden);
   }
 });
 
-test('Preserved Shopify e-commerce helpers extract role emails, clean store names, and build dual-product drafts', () => {
+test('Preserved Shopify e-commerce helpers extract role emails, clean store names, and build current dual-product drafts', () => {
   assert.equal(resolveProspectAudience({ email: 'info@wishbonespet.com' }), 'ecommerce');
   assert.equal(resolveProspectAudience({ email: 'info@wishbonespet.com', audience: 'ecommerce' }), 'ecommerce');
   assert.equal(resolveProspectAudience({ email: 'alex@gmail.com', audience: 'creator' }), 'creator');
@@ -147,10 +164,18 @@ test('Preserved Shopify e-commerce helpers extract role emails, clean store name
   const text = buildEcommerceTextEmail('Wishbones');
   const html = buildEcommerceHtmlEmail('Wishbones', subj);
   assert.match(subj, /Wishbones/);
-  assert.match(text, /PRODUCT RADAR/);
+  assert.match(text, /PRODUCT DEMAND RADAR/);
+  assert.match(text, /1,500\+ curated products/);
   assert.match(text, /AI VIDEO LAB/);
+  assert.match(text, /\$4\.50 USD per video/);
   assert.match(text, /https:\/\/quvirl\.com\/product-research/);
   assert.match(html, /email-product-radar\.png/);
   assert.match(html, /email-video-lab\.png/);
   assert.match(html, /Hi Wishbones team,/);
+
+  // Guard against outdated pricing/preset copy in e-commerce template too
+  for (const outdated of [/Pay-On-Ready/i, /Free AI Preview/i, /Hormozi/i]) {
+    assert.doesNotMatch(text, outdated);
+    assert.doesNotMatch(html, outdated);
+  }
 });

@@ -404,106 +404,118 @@ function getAudienceCopy(creatorType = 'creator') {
   switch (creatorType) {
     case 'podcaster':
       return {
-        badge: 'Built for Podcasters & Video Shows',
-        headline: 'Turn every podcast episode into viral Shorts — without a $49/mo sub',
-        introLead: 'turn full podcast episodes and guest interviews into high-retention 9:16 clips for TikTok, Instagram Reels, and YouTube Shorts in minutes',
-        step1: 'Paste your YouTube episode link or upload raw video',
-        bullet1Title: 'AI Hook & Viral Moment Finder',
-        bullet1Desc: 'Automatically spots the sharpest quotes, debates, and stories from 1–3 hour episodes.',
-        bullet2Title: 'Multi-Speaker Active 9:16 Framing',
-        bullet2Desc: 'Automatically tracks and centers whoever is speaking in split or wide podcast shots.',
-        reason: 'you host or produce podcast & video content'
+        badge: 'Podcast to Shorts AI',
+        headline: 'Turn 1–3 hour podcast episodes into viral Shorts for $4.50/video',
+        introLead: 'turn long multi-speaker podcast episodes and interviews into 3–8 viral Shorts, Reels, and TikToks on NVIDIA 48GB cloud GPUs—without paying $39–$50/month subscriptions',
+        step1: 'Upload your podcast video file directly (MP4, MOV, MKV, or WebM — up to 3 hours & 1 GB)',
+        bullet1Title: 'AI Viral Hook & Moment Scoring (0–100)',
+        bullet1Desc: 'Faster-Whisper (90+ languages), Nex-N2.5-Pro VLM & Qwen 27B pinpoint the sharpest debates, stories, and soundbites.',
+        bullet2Title: 'Multi-Speaker Active Reframing (9:16, 1:1 & 16:9)',
+        bullet2Desc: 'Automatically tracks and centers active speakers in vertical 9:16, square 1:1, or fullscreen 16:9.',
+        spokeUrl: 'https://quvirl.com/podcasts/',
+        spokeLabel: 'Podcast to Shorts',
+        reason: 'you host or produce podcast and video content'
       };
     case 'youtuber':
       return {
-        badge: 'Built for YouTubers & Video Creators',
-        headline: 'Turn your YouTube videos into viral Shorts — pay $4.50 only when ready',
-        introLead: 'repurpose your long-form YouTube uploads into punchy 9:16 Shorts, Reels, and TikToks automatically without spending hours re-editing',
-        step1: 'Paste any YouTube video URL or upload directly',
-        bullet1Title: 'Automated Retention Hook Detection',
-        bullet1Desc: 'AI scans your long-form videos and pulls out the highest-retention segments automatically.',
-        bullet2Title: 'Smart 9:16 Vertical Re-Framing',
-        bullet2Desc: 'Keeps you centered in vertical frame with smooth active speaker & subject tracking.',
+        badge: 'YouTube to Shorts AI',
+        headline: 'Turn your YouTube videos into viral Shorts for $4.50/video',
+        introLead: 'repurpose your 60–180 minute YouTube uploads into 3–8 high-retention Shorts, Reels, and TikToks on NVIDIA 48GB cloud GPUs—with zero monthly subscriptions',
+        step1: 'Upload your video file directly (MP4, MOV, MKV, or WebM — up to 3 hours & 1 GB)',
+        bullet1Title: 'AI Hook & Virality Scoring (0–100)',
+        bullet1Desc: 'Faster-Whisper CUDA, Nex-N2.5-Pro VLM & Qwen 27B isolate the highest-retention hooks past the 3-second mark.',
+        bullet2Title: 'Smart Auto-Reframe (9:16, 1:1 & 16:9)',
+        bullet2Desc: 'Active face & speaker tracking crops widescreen footage cleanly for TikTok, Reels & YouTube Shorts.',
+        spokeUrl: 'https://quvirl.com/videolab',
+        spokeLabel: 'AI Video Lab',
         reason: 'you publish video content on YouTube and digital platforms'
       };
     case 'streamer':
       return {
-        badge: 'Built for Streamers & VOD Clippers',
-        headline: 'Turn your streams & VODs into viral vertical clips — no $49/mo sub',
-        introLead: 'turn long Twitch, Kick, and YouTube livestreams into ready-to-post TikToks, Reels, and YouTube Shorts automatically',
-        step1: 'Drop in your VOD link or upload stream highlights',
-        bullet1Title: 'Instant Highlight & Hook Detection',
-        bullet1Desc: 'AI detects high-energy moments, reactions, and viral hooks from long streams in minutes.',
-        bullet2Title: 'Smart Vertical 9:16 Framing',
-        bullet2Desc: 'Cleanly reframes gameplay and facecam/speaker into vertical Shorts ready for TikTok & Reels.',
-        reason: 'you create live streams and video content'
+        badge: 'Twitch & Kick Stream Clipper',
+        headline: 'Turn Twitch & Kick VODs into viral TikToks & Shorts for $4.50/video',
+        introLead: 'convert long Twitch and Kick streams or VODs into ready-to-post 9:16 gaming highlights with facecam + gameplay framing—without paying $39–$50/month subscriptions',
+        step1: 'Upload your stream or VOD file directly (MP4, MOV, MKV, or WebM — up to 3 hours & 1 GB)',
+        bullet1Title: 'AI Highlight & Hype Detection',
+        bullet1Desc: 'Faster-Whisper, Nex-N2.5 VLM & Qwen 27B scan audio energy and visual peaks to isolate top viral moments.',
+        bullet2Title: 'Facecam + Gameplay Reframe (9:16, 1:1 & 16:9)',
+        bullet2Desc: 'Frames facecam and gameplay cleanly for TikTok, Instagram Reels & YouTube Shorts with custom trimming.',
+        spokeUrl: 'https://quvirl.com/twitch/',
+        spokeLabel: 'Twitch & Kick Clipper',
+        reason: 'you create live streams and gaming video content'
       };
     case 'clipper':
       return {
-        badge: 'Built for Clippers & Short-Form Editors',
-        headline: 'Cut viral 9:16 shorts 10x faster — $4.50 Pay-On-Ready, zero subscription',
-        introLead: 'accelerate your short-form clipping pipeline with automated hook detection, active speaker 9:16 reframing, and word-sync kinetic captions',
-        step1: 'Paste a YouTube/podcast link or upload source footage',
-        bullet1Title: 'AI Viral Moment Extraction',
-        bullet1Desc: 'Skip scrubbing through 2-hour podcasts—AI surfaces high-retention hooks with score rankings.',
-        bullet2Title: 'Auto 9:16 Speaker Tracking',
-        bullet2Desc: 'Instant vertical reframing that locks onto active speakers without manual keyframing.',
+        badge: 'Built for Video Clippers & Editors',
+        headline: 'Cut 3–8 viral shorts per video for $4.50 — zero monthly subscriptions',
+        introLead: 'turn 1–3 hour YouTube videos, podcasts, and Twitch/Kick streams into 3–8 viral 9:16, 1:1, or 16:9 clips on NVIDIA Ada Lovelace 48GB GPUs at a flat $4.50 per video',
+        step1: 'Upload your source video file directly (MP4, MOV, MKV, or WebM — up to 3 hours & 1 GB)',
+        bullet1Title: 'Multi-Modal Virality Scoring (0–100)',
+        bullet1Desc: 'Faster-Whisper CUDA + Nex-N2.5-Pro VLM + Qwen 27B score hooks and generate viral titles, descriptions & hashtags.',
+        bullet2Title: 'Smart Speaker Tracking & Interactive Studio',
+        bullet2Desc: 'Auto-reframe to 9:16, 1:1, or 16:9 with interactive timestamp scrubbers and custom subtitle placement.',
+        spokeUrl: 'https://quvirl.com/videolab',
+        spokeLabel: 'AI Video Lab',
         reason: 'you work in short-form video editing and content clipping'
       };
     case 'influencer':
       return {
         badge: 'Built for Creators & Influencers',
-        headline: 'Multiply your TikToks, Reels & Shorts — without $49/mo editing tools',
-        introLead: 'turn long videos, vlogs, and talking-head shoots into viral 9:16 clips with kinetic captions in minutes—without another monthly subscription',
-        step1: 'Paste a YouTube link or upload any raw video',
-        bullet1Title: 'AI Hook & Viral Clip Finder',
-        bullet1Desc: 'Automatically isolates your strongest hooks and shareable moments for Reels, TikTok & Shorts.',
-        bullet2Title: 'Smart 9:16 Active Framing',
-        bullet2Desc: 'Automatically reframes horizontal footage into clean 9:16 vertical keeping you centered.',
+        headline: 'Turn long videos into viral Shorts & Reels for $4.50/video',
+        introLead: 'turn long videos, vlogs, and camera-free scripts into crisp 1080p 60fps clips for TikTok, Instagram Reels, and YouTube Shorts—with zero $39–$50/month lock-in',
+        step1: 'Upload your raw video file directly (MP4, MOV, MKV, or WebM — up to 3 hours & 1 GB)',
+        bullet1Title: 'AI Viral Hook & Scene Scoring',
+        bullet1Desc: 'Automatically isolates your highest-retention hooks (scored 0–100) with viral titles and hashtags.',
+        bullet2Title: 'Smart Auto-Reframe (9:16, 1:1 & 16:9)',
+        bullet2Desc: 'Active face & speaker tracking keeps you centered cleanly across TikTok, Reels, Shorts, and square feeds.',
+        spokeUrl: 'https://quvirl.com/faceless/',
+        spokeLabel: 'AI Faceless Shorts',
         reason: 'you create content for social media and digital audiences'
       };
     default:
       return {
-        badge: 'Built for Creators · Podcasters · Influencers',
-        headline: 'Turn long videos into viral 9:16 Shorts — without a $49/mo subscription',
-        introLead: 'turn long videos, podcasts, and YouTube uploads into viral 9:16 Shorts, Reels, and TikToks automatically without costly monthly tool lock-ins',
-        step1: 'Paste a YouTube/podcast link or upload any video',
-        bullet1Title: 'AI Viral Hook Detection',
-        bullet1Desc: 'AI scans your footage and pulls out the highest-retention hooks and moments automatically.',
-        bullet2Title: 'Smart 9:16 Active Speaker Framing',
-        bullet2Desc: 'Automatically centers the active speaker in crisp 9:16 vertical format.',
+        badge: 'Quvirl AI Video Lab · Pay-Per-Video',
+        headline: 'Turn 1–3 hour videos into viral Shorts for $4.50/video — zero subscriptions',
+        introLead: 'turn long YouTube videos, podcasts, Twitch/Kick streams, or raw uploads into 3–8 viral 9:16, 1:1, or 16:9 shorts on NVIDIA 48GB cloud GPUs without monthly subscriptions',
+        step1: 'Upload your video file directly (MP4, MOV, MKV, or WebM — up to 3 hours & 1 GB)',
+        bullet1Title: 'AI Hook & Virality Scoring (0–100)',
+        bullet1Desc: 'Faster-Whisper (90+ languages), Nex-N2.5-Pro VLM & Qwen 27B isolate top viral moments automatically.',
+        bullet2Title: 'Smart Auto-Reframe (9:16, 1:1 & 16:9)',
+        bullet2Desc: 'Active face & speaker tracking frames subjects cleanly for TikTok, Instagram Reels & YouTube Shorts.',
+        spokeUrl: 'https://quvirl.com/videolab',
+        spokeLabel: 'AI Video Lab',
         reason: 'you create video, podcast, or digital creator content'
       };
   }
 }
 
 /**
- * Generates an AI Video Lab subject line tailored to the creator type.
+ * Generates an accurate AI Video Lab subject line matching live quvirl.com pay-per-video pricing ($4.50/video).
  */
 export function buildVideoLabSubject(creatorName, creatorType = 'creator') {
   const cleanName = String(creatorName || '').trim();
   if (creatorType === 'podcaster') {
     return cleanName
-      ? `Turn ${cleanName} episodes into viral Shorts ($4.50, no monthly sub)`
-      : 'Turn podcast episodes into viral 9:16 Shorts ($4.50 Pay-On-Ready)';
+      ? `Turn ${cleanName} episodes into viral Shorts ($4.50/video, no monthly sub)`
+      : 'Turn 1–3 hour podcasts into viral Shorts ($4.50/video, zero subscriptions)';
   }
   if (creatorType === 'streamer') {
     return cleanName
-      ? `Turn ${cleanName} streams into viral TikToks & Shorts ($4.50, no sub)`
-      : 'Turn streams & VODs into viral 9:16 Shorts ($4.50 Pay-On-Ready)';
+      ? `Turn ${cleanName} streams into viral TikToks & Shorts ($4.50/video, no sub)`
+      : 'Turn Twitch & Kick VODs into viral Shorts ($4.50/video, no monthly sub)';
   }
   if (creatorType === 'clipper') {
     return cleanName
-      ? `${cleanName} — AI Shorts studio at $4.50 Pay-On-Ready (no $49/mo sub)`
-      : 'AI viral Shorts studio — $4.50 Pay-On-Ready (no $49/mo sub)';
+      ? `${cleanName} — AI Shorts studio at $4.50/video (no $39–$50/mo sub)`
+      : 'AI viral Shorts studio — $4.50/video pay-per-video (zero subscriptions)';
   }
   return cleanName
-    ? `${cleanName} — turn long videos into viral Shorts ($4.50, no monthly sub)`
-    : 'Turn your videos into viral 9:16 Shorts — Free AI preview ($4.50 unlock)';
+    ? `${cleanName} — turn long videos into viral Shorts ($4.50/video, no sub)`
+    : 'Turn long videos into viral Shorts — $4.50/video, zero monthly subscriptions';
 }
 
 /**
- * Generates a personal, creator-focused plain-text email strictly for Quvirl AI Video Lab.
+ * Generates a personal, creator-focused plain-text email aligned with live quvirl.com pricing & features.
  */
 export function buildVideoLabTextEmail(creatorName, creatorType = 'creator') {
   const cleanName = String(creatorName || '').trim();
@@ -512,23 +524,29 @@ export function buildVideoLabTextEmail(creatorName, creatorType = 'creator') {
 
   return `${greeting}
 
-I came across your content and wanted to share Quvirl AI Video Lab — a fast AI studio we built to help creators, podcasters, YouTubers, and influencers ${copy.introLead}.
+I came across your content and wanted to share Quvirl AI Video Lab — a cloud AI video studio built to help creators, podcasters, YouTubers, streamers, and clippers ${copy.introLead}.
 
-Unlike typical AI clipping tools that lock you into $29–$49/month subscriptions before you even see the result, Quvirl AI Video Lab is 100% free to process and preview.
+Instead of locking you into $39/month or $50/month recurring subscriptions, Quvirl AI Video Lab uses transparent pay-per-video pricing: just $4.50 USD per video project.
 
-WHAT YOU GET IN QUVIRL AI VIDEO LAB:
+WHAT YOU GET PER $4.50 VIDEO PROJECT:
 • ${copy.bullet1Title}: ${copy.bullet1Desc}
 • ${copy.bullet2Title}: ${copy.bullet2Desc}
-• Kinetic Word-Sync Captions: Auto-generated animated captions in viral creator styles (Hormozi, Dev, and more).
-• 1080p 60fps Clean Exports: Zero watermarks, ready to post straight to TikTok, Instagram Reels, and YouTube Shorts.
+• Kinetic Word-Sync Captions: Frame-accurate word highlighting, auto-emojis, and viral presets (Viral Impact Gold, Creator Neon, Minimal Clean, Red Alert).
+• Unlimited 1080p 60fps Exports (Zero Watermarks): Hardware-rendered via NVIDIA NVENC on enterprise 48GB Ada Lovelace GPUs with AAC 192kbps audio mastering.
+• Interactive Studio Editor: Curates 3–8 viral highlights per video with custom timestamp trimming, subtitle styling, and direct MP4 downloads.
 
-HOW IT WORKS (UNDER 2 MINUTES):
+HOW IT WORKS:
 1. ${copy.step1}.
-2. Let AI cut your viral clips and preview them completely free.
-3. Pay just $4.50 Pay-On-Ready per video ONLY if you love the clips and want to unlock full 1080p 60fps watermark-free exports. No $49/month subscription.
+2. Unlock full AI Video Lab studio access for $4.50/video (zero monthly subscriptions).
+3. Customize your 9:16, 1:1, or 16:9 clips & kinetic captions and export clean 1080p 60fps MP4s in seconds.
 
-Try AI Video Lab with a free preview here:
+Launch Quvirl AI Video Lab:
 https://quvirl.com/videolab
+
+Explore creator workflows:
+• Podcast to Shorts: https://quvirl.com/podcasts/
+• Twitch & Kick Clipper: https://quvirl.com/twitch/
+• AI Faceless Shorts: https://quvirl.com/faceless/
 
 Best,
 The Quvirl Team
@@ -541,7 +559,7 @@ Reply "unsubscribe" anytime and we will remove you immediately.`;
 
 /**
  * Generates a responsive dark-themed HTML email strictly focused on Quvirl AI Video Lab
- * using Quvirl brand colors: Black (#000000, #0a0a0a), White (#ffffff), Blue (#58a6ff), Green (#22c55e).
+ * matching live quvirl.com pricing ($4.50/video pay-per-video) and current studio features.
  */
 export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'creator') {
   const cleanName = String(creatorName || '').trim();
@@ -583,7 +601,7 @@ export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'crea
 </head>
 <body style="margin: 0; padding: 0; background-color: #000000; color: #ffffff;">
 <div style="display: none; max-height: 0; overflow: hidden; opacity: 0; color: transparent;">
-  Free AI processing &amp; preview. Turn long videos into viral 9:16 Shorts with kinetic captions. Pay $4.50 only when ready — no $49/mo sub.
+  Pay $4.50/video with zero monthly subscriptions. Turn 1–3 hour videos into viral 9:16, 1:1 &amp; 16:9 shorts in 1080p 60fps with zero watermarks.
 </div>
 <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #000000; padding: 24px 12px;">
   <tr>
@@ -630,13 +648,13 @@ export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'crea
               ${escapeHtml(copy.headline)}
             </h1>
             <p style="margin: 0 0 22px 0; font-size: 15px; line-height: 24px; color: #cbd5e1;">
-              We came across your content and wanted to share <strong style="color: #ffffff;">Quvirl AI Video Lab</strong> — built to help you ${escapeHtml(copy.introLead)}. Preview your AI-generated clips completely free and pay only when you're ready to export.
+              We came across your content and wanted to share <strong style="color: #ffffff;">Quvirl AI Video Lab</strong> — built to help you ${escapeHtml(copy.introLead)}. Pay a flat <strong style="color: #ffffff;">$4.50 per video</strong> with instant studio access and unlimited watermark-free 1080p 60fps exports.
             </p>
             <table role="presentation" border="0" cellpadding="0" cellspacing="0">
               <tr>
                 <td align="center" style="border-radius: 8px; background-color: #22c55e;">
                   <a href="https://quvirl.com/videolab" target="_blank" class="btn-block" style="display: inline-block; padding: 13px 26px; font-size: 14px; font-weight: 800; color: #000000; text-decoration: none; border-radius: 8px; letter-spacing: 0.2px;">
-                    Try AI Video Lab (Free Preview) →
+                    Launch AI Video Lab ($4.50/video) →
                   </a>
                 </td>
               </tr>
@@ -666,14 +684,14 @@ export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'crea
                       </td>
                       <td align="right" valign="middle" style="padding-left: 10px; white-space: nowrap;">
                         <span style="font-size: 12px; font-weight: 700; color: #22c55e; white-space: nowrap;">
-                          Free AI Preview
+                          $4.50 / Video
                         </span>
                       </td>
                     </tr>
                   </table>
 
                   <h2 class="section-title" style="margin: 0 0 14px 0; font-size: 20px; line-height: 26px; font-weight: 700; color: #ffffff;">
-                    Everything you need to scale short-form clips
+                    Powered by NVIDIA Ada Lovelace 48GB Cloud GPUs
                   </h2>
 
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
@@ -692,13 +710,13 @@ export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'crea
                     <tr>
                       <td style="padding: 6px 0; vertical-align: top; width: 22px; color: #58a6ff; font-size: 15px; font-weight: 800;">✓</td>
                       <td style="padding: 6px 0 6px 8px; font-size: 14px; line-height: 21px; color: #cbd5e1;">
-                        <strong style="color: #ffffff;">Kinetic Word-Sync Captions:</strong> Animated subtitles in top viral creator presets (Hormozi, Dev &amp; more).
+                        <strong style="color: #ffffff;">Kinetic Word-Sync Captions:</strong> Word-by-word karaoke highlights, auto-emojis &amp; viral presets (Viral Impact Gold, Creator Neon, Minimal Clean, Red Alert).
                       </td>
                     </tr>
                     <tr>
                       <td style="padding: 6px 0; vertical-align: top; width: 22px; color: #22c55e; font-size: 15px; font-weight: 800;">✓</td>
                       <td style="padding: 6px 0 6px 8px; font-size: 14px; line-height: 21px; color: #cbd5e1;">
-                        <strong style="color: #ffffff;">Clean 1080p 60fps Exports:</strong> Zero watermarks, formatted for TikTok, Instagram Reels &amp; YouTube Shorts.
+                        <strong style="color: #ffffff;">Unlimited 1080p 60fps NVENC Exports:</strong> Zero watermarks, AAC 192kbps mastered audio &amp; full interactive studio editor per unlocked video.
                       </td>
                     </tr>
                   </table>
@@ -708,28 +726,28 @@ export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'crea
           </td>
         </tr>
 
-        <!-- 3-Step Workflow + Fair Pricing Strip -->
+        <!-- 3-Step Workflow Strip -->
         <tr>
           <td class="mobile-p-16" style="padding: 4px 24px 16px 24px;">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0e0e0e; border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 12px;">
               <tr>
                 <td class="mobile-p-16" style="padding: 20px 22px;">
                   <p style="margin: 0 0 14px 0; font-size: 11px; font-weight: 700; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.8px;">
-                    How it works in under 2 minutes
+                    From long-form video to 3–8 viral shorts
                   </p>
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tr>
                       <td class="stack-col" width="33%" valign="top" style="padding-right: 10px;">
-                        <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 800; color: #58a6ff;">01 · DROP LINK</p>
+                        <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 800; color: #58a6ff;">01 · UPLOAD VIDEO</p>
                         <p style="margin: 0; font-size: 13px; line-height: 19px; color: #cbd5e1;">${escapeHtml(copy.step1)}.</p>
                       </td>
                       <td class="stack-col" width="33%" valign="top" style="padding-right: 10px;">
-                        <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 800; color: #22c55e;">02 · PREVIEW FREE</p>
-                        <p style="margin: 0; font-size: 13px; line-height: 19px; color: #cbd5e1;">Review AI-picked clips, reframing &amp; captions free.</p>
+                        <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 800; color: #22c55e;">02 · AI STUDIO ($4.50)</p>
+                        <p style="margin: 0; font-size: 13px; line-height: 19px; color: #cbd5e1;">Unlock full studio access for $4.50/video — no recurring sub.</p>
                       </td>
                       <td class="stack-col" width="34%" valign="top">
-                        <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 800; color: #ffffff;">03 · PAY ON READY</p>
-                        <p style="margin: 0; font-size: 13px; line-height: 19px; color: #cbd5e1;">Unlock 1080p 60fps for $4.50 — zero monthly sub.</p>
+                        <p style="margin: 0 0 4px 0; font-size: 12px; font-weight: 800; color: #ffffff;">03 · EXPORT 1080P60</p>
+                        <p style="margin: 0; font-size: 13px; line-height: 19px; color: #cbd5e1;">Customize captions &amp; download watermark-free MP4s.</p>
                       </td>
                     </tr>
                   </table>
@@ -746,25 +764,25 @@ export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'crea
               <tr>
                 <td class="mobile-p-20" style="padding: 28px 24px;">
                   <p style="margin: 0 0 8px 0; font-size: 12px; font-weight: 700; color: #22c55e; text-transform: uppercase; letter-spacing: 0.7px;">
-                    No $49/month subscription lock-in
+                    Skip $39–$50/month recurring subscriptions
                   </p>
                   <h3 style="margin: 0 0 10px 0; font-size: 22px; line-height: 28px; font-weight: 800; color: #ffffff;">
-                    Preview your first viral clips free
+                    Simple pay-per-video: $4.50 USD / video
                   </h3>
-                  <p style="margin: 0 auto 20px auto; font-size: 14px; line-height: 22px; color: #94a3b8; max-width: 440px;">
-                    Upload any video or paste a YouTube link right now. Pay just <strong style="color: #ffffff;">$4.50 Pay-On-Ready</strong> only if you love the export.
+                  <p style="margin: 0 auto 20px auto; font-size: 14px; line-height: 22px; color: #94a3b8; max-width: 450px;">
+                    Unlock full AI Video Lab studio access, viral hook scoring, 9:16/1:1/16:9 auto-reframing &amp; unlimited <strong style="color: #ffffff;">1080p 60fps zero-watermark exports</strong> on demand.
                   </p>
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
                     <tr>
                       <td align="center" style="border-radius: 10px; background-color: #58a6ff;">
                         <a href="https://quvirl.com/videolab" target="_blank" class="btn-block" style="display: inline-block; padding: 14px 32px; font-size: 15px; font-weight: 800; color: #000000; text-decoration: none; border-radius: 10px; letter-spacing: 0.2px;">
-                          Launch AI Video Lab Free →
+                          Launch AI Video Lab ($4.50) →
                         </a>
                       </td>
                     </tr>
                   </table>
                   <p style="margin: 14px 0 0 0; font-size: 12px; color: #64748b;">
-                    Free AI Processing &amp; Preview &bull; $4.50 Pay-On-Ready &bull; 1080p 60fps &bull; Zero Watermark
+                    Pay-Per-Video ($4.50) &bull; Zero Subscriptions &bull; 1080p 60fps NVENC &bull; Zero Watermarks
                   </p>
                 </td>
               </tr>
@@ -782,7 +800,11 @@ export function buildVideoLabHtmlEmail(creatorName, subject, creatorType = 'crea
             <p style="margin: 0 0 14px 0; font-size: 12px; color: #58a6ff;">
               <a href="https://quvirl.com/videolab" style="color: #58a6ff; text-decoration: underline;">AI Video Lab</a>
               &nbsp;&nbsp;|&nbsp;&nbsp;
-              <a href="https://quvirl.com" style="color: #58a6ff; text-decoration: underline;">quvirl.com</a>
+              <a href="https://quvirl.com/podcasts/" style="color: #58a6ff; text-decoration: underline;">Podcasts</a>
+              &nbsp;&nbsp;|&nbsp;&nbsp;
+              <a href="https://quvirl.com/twitch/" style="color: #58a6ff; text-decoration: underline;">Twitch &amp; Kick</a>
+              &nbsp;&nbsp;|&nbsp;&nbsp;
+              <a href="https://quvirl.com/faceless/" style="color: #58a6ff; text-decoration: underline;">Faceless Shorts</a>
             </p>
             <p style="margin: 0; font-size: 11px; color: #475569;">
               © ${new Date().getFullYear()} Quvirl. All rights reserved.

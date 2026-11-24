@@ -115,8 +115,8 @@ export function cleanStoreName(raw, url) {
 
 export function buildEcommerceSubject(brandName) {
   return brandName
-    ? `Winning products + $4.50 viral AI shorts studio for ${brandName}`
-    : 'Free product radar + $4.50 viral AI shorts studio';
+    ? `Free Product Radar + $4.50/video AI shorts studio for ${brandName}`
+    : 'Free Product Radar (1,500+ products) + $4.50/video AI Video Lab';
 }
 
 export function buildEcommerceTextEmail(brandName) {
@@ -125,31 +125,31 @@ export function buildEcommerceTextEmail(brandName) {
 
   return `${greeting}
 
-We came across ${brandRef} and wanted to share two high-impact platforms we built at Quvirl for e-commerce brands, content creators, podcasters, and clippers to scale traffic and sales.
+We came across ${brandRef} and wanted to share two platforms we built at Quvirl for e-commerce brands, content creators, podcasters, and clippers to spot breakout demand and scale viral short-form video.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-1. PRODUCT RADAR & 1-CLICK SOURCING (100% FREE)
+1. PRODUCT DEMAND RADAR & 1-CLICK SOURCING ($0 — FREE FOREVER)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Stop guessing what products will sell. Quvirl scans real-time search signals and Google Trends to uncover winning items before niches get saturated.
+Stop guessing what products will sell. Quvirl tracks 1,500+ curated products using Google Trends velocity, Amazon sales & BSR signals, and live supplier economics.
 
-• Free Market Intelligence: Live Google Trends demand signals & breakout velocity scores.
-• Direct Supplier Matching: Compare AliExpress & CJdropshipping catalog items with verified margins.
-• 1-Click Shopify Push: Sync product titles, variants, and imagery straight to your store.
-• Pricing: 100% Free • Unlimited research • No credit card required.
+• Google Trends & Amazon Validation: Early breakout demand signals backed by real purchase intent.
+• Live CJdropshipping & AliExpress Economics: Factory pricing, shipping costs & 50–75% target net margins.
+• 1-Click Shopify Export: Push winning products straight to your store with supplier routing.
+• Pricing: $0 Free Forever • No credit card required • Instant access.
 
 👉 Explore Product Radar Free: https://quvirl.com/product-research
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-2. AI VIDEO LAB & VIRAL SHORTS STUDIO
+2. AI VIDEO LAB & VIRAL SHORTS STUDIO ($4.50 / VIDEO)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Built specifically for content creators, influencers, clippers, podcasters, and e-commerce brands looking to dominate short-form video on TikTok, Instagram Reels, and YouTube Shorts.
+Powered by NVIDIA Ada Lovelace 48GB cloud GPUs. Turn long videos, product demos, podcasts, or streams (up to 3 hours & 1 GB) into 3–8 viral shorts in 9:16 vertical, 1:1 square, or 16:9 widescreen.
 
-• Video-to-Shorts Engine: Paste YouTube/podcast links or upload videos. AI auto-detects high-retention hooks and viral moments.
-• Active Speaker & Product Tracking: Automatically reframes to 9:16 vertical and keeps speakers centered in frame.
-• Kinetic Captions: Auto-generate animated word-by-word captions in top creator styles (Hormozi, Dev).
-• Pricing: Free AI Processing & Preview. No $49/month subscription lock-in. Pay just $4.50 Pay-On-Ready per video to unlock full 1080p 60fps exports with zero watermarks.
+• AI Hook & Virality Scoring (0–100): Faster-Whisper CUDA, Nex-N2.5-Pro VLM & Qwen 27B isolate high-retention hooks.
+• Smart Auto-Reframe: Active face & speaker tracking for TikTok, Instagram Reels & YouTube Shorts.
+• Kinetic Word-Sync Captions: Word-by-word highlights, auto-emojis & viral presets (Viral Impact Gold, Creator Neon, Minimal Clean, Red Alert).
+• Pricing: Transparent $4.50 USD per video. Zero $39–$50/month subscriptions. Full studio editor & unlimited 1080p 60fps exports with zero watermarks.
 
-👉 Try AI Video Lab (Free Preview): https://quvirl.com/videolab
+👉 Launch AI Video Lab ($4.50/video): https://quvirl.com/videolab
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 SCALE YOUR CONTENT & STORE WITH QUVIRL
@@ -249,12 +249,12 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
               Two high-impact tools built for ${safeBrandRef}
             </h1>
             <p style="margin: 0; font-size: 15px; line-height: 24px; color: #cbd5e1;">
-              We came across ${safeBrandRef} and wanted to share two powerful solutions built at <strong style="color: #ffffff;">Quvirl</strong>: a <strong>100% free Product Radar</strong> for e-commerce discovery, and our <strong>AI Video Lab</strong> that helps creators, podcasters, clippers, and brands turn long videos into viral shorts without costly monthly software lock-ins.
+              We came across ${safeBrandRef} and wanted to share two platforms built at <strong style="color: #ffffff;">Quvirl</strong>: a <strong>$0 Free-Forever Product Demand Radar</strong> tracking 1,500+ products across Google Trends &amp; Amazon, and our <strong>$4.50/video AI Video Lab</strong> for viral 9:16, 1:1 &amp; 16:9 shorts with zero monthly subscriptions.
             </p>
           </td>
         </tr>
 
-        <!-- Feature 1: Product Radar (100% Free) -->
+        <!-- Feature 1: Product Radar ($0 Free Forever) -->
         <tr>
           <td class="mobile-p-15" style="padding: 12px 24px;">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0e0e0e; border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 12px; overflow: hidden;">
@@ -274,41 +274,41 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
                           <tr>
                             <td align="left">
                               <span style="display: inline-block; padding: 3px 10px; background-color: rgba(34, 197, 94, 0.12); border: 1px solid rgba(34, 197, 94, 0.35); border-radius: 6px; font-size: 11px; font-weight: 700; color: #22c55e; text-transform: uppercase; letter-spacing: 0.5px;">
-                                Feature 01 · Product Research
+                                Feature 01 · Product Demand Radar
                               </span>
                             </td>
                             <td align="right" style="white-space: nowrap; padding-left: 8px;">
                               <span style="font-size: 12px; font-weight: 700; color: #22c55e;">
-                                100% Free
+                                $0 Free Forever
                               </span>
                             </td>
                           </tr>
                         </table>
 
                         <h2 class="section-title" style="margin: 0 0 10px 0; font-size: 20px; line-height: 26px; font-weight: 700; color: #ffffff;">
-                          Product Radar &amp; 1-Click Sourcing
+                          Product Demand Radar &amp; 1-Click Sourcing
                         </h2>
                         <p style="margin: 0 0 16px 0; font-size: 14px; line-height: 22px; color: #94a3b8;">
-                          Stop guessing what will sell. Quvirl scans real search demand signals and Google Trends curves so you can spot breakout products early with zero tool fees.
+                          Track 1,500+ curated winning products backed by Google Trends velocity, Amazon purchase intent &amp; BSR signals, and live supplier economics—completely free.
                         </p>
 
                         <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 20px;">
                           <tr>
                             <td style="padding: 5px 0; vertical-align: top; width: 20px; color: #22c55e; font-size: 16px; font-weight: bold;">✓</td>
                             <td style="padding: 5px 0 5px 8px; font-size: 14px; line-height: 20px; color: #cbd5e1;">
-                              <strong style="color: #ffffff;">Google Trends &amp; Search Velocity:</strong> Live market demand validation.
+                              <strong style="color: #ffffff;">Google Trends &amp; Amazon BSR Signals:</strong> Live breakout velocity and real buyer validation.
                             </td>
                           </tr>
                           <tr>
                             <td style="padding: 5px 0; vertical-align: top; width: 20px; color: #58a6ff; font-size: 16px; font-weight: bold;">✓</td>
                             <td style="padding: 5px 0 5px 8px; font-size: 14px; line-height: 20px; color: #cbd5e1;">
-                              <strong style="color: #ffffff;">AliExpress &amp; CJdropshipping Matching:</strong> Instant margin comparison.
+                              <strong style="color: #ffffff;">CJdropshipping &amp; AliExpress Economics:</strong> Live factory pricing with 50–75% target net margins.
                             </td>
                           </tr>
                           <tr>
                             <td style="padding: 5px 0; vertical-align: top; width: 20px; color: #22c55e; font-size: 16px; font-weight: bold;">✓</td>
                             <td style="padding: 5px 0 5px 8px; font-size: 14px; line-height: 20px; color: #cbd5e1;">
-                              <strong style="color: #ffffff;">1-Click Shopify Import:</strong> Push winning items with titles, photos &amp; variants.
+                              <strong style="color: #ffffff;">1-Click Shopify Export:</strong> Push winning products straight to your store with supplier routing.
                             </td>
                           </tr>
                         </table>
@@ -331,7 +331,7 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
           </td>
         </tr>
 
-        <!-- Feature 2: AI Video Lab -->
+        <!-- Feature 2: AI Video Lab ($4.50/video) -->
         <tr>
           <td class="mobile-p-15" style="padding: 12px 24px 20px 24px;">
             <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0e0e0e; border: 1px solid rgba(255, 255, 255, 0.09); border-radius: 12px; overflow: hidden;">
@@ -351,12 +351,12 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
                           <tr>
                             <td align="left">
                               <span style="display: inline-block; padding: 3px 10px; background-color: rgba(88, 166, 255, 0.12); border: 1px solid rgba(88, 166, 255, 0.35); border-radius: 6px; font-size: 11px; font-weight: 700; color: #58a6ff; text-transform: uppercase; letter-spacing: 0.5px;">
-                                Feature 02 · Creators · Podcasters · Clippers
+                                Feature 02 · NVIDIA 48GB GPU Studio
                               </span>
                             </td>
                             <td align="right" style="white-space: nowrap; padding-left: 8px;">
                               <span style="font-size: 12px; font-weight: 700; color: #58a6ff; background-color: rgba(88, 166, 255, 0.1); border: 1px solid rgba(88, 166, 255, 0.25); border-radius: 6px; padding: 2px 8px;">
-                                $4.50 Pay-On-Ready
+                                $4.50 / Video
                               </span>
                             </td>
                           </tr>
@@ -366,32 +366,32 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
                           AI Video Lab &amp; Viral Shorts Studio
                         </h2>
                         <p style="margin: 0 0 16px 0; font-size: 14px; line-height: 22px; color: #94a3b8;">
-                          Built for <strong style="color: #ffffff;">content creators, influencers, clippers, podcasters</strong>, and e-commerce brands looking to convert long videos into viral 9:16 vertical clips for TikTok, Instagram Reels, and YouTube Shorts.
+                          Turn product videos, reviews, podcasts, or streams (up to 3 hours &amp; 1 GB) into <strong style="color: #ffffff;">3–8 viral clips</strong> in 9:16 vertical, 1:1 square, or 16:9 widescreen for TikTok, Instagram Reels &amp; YouTube Shorts.
                         </p>
 
                         <table role="presentation" border="0" cellpadding="0" cellspacing="0" width="100%" style="margin-bottom: 16px;">
                           <tr>
                             <td style="padding: 5px 0; vertical-align: top; width: 20px; color: #58a6ff; font-size: 16px; font-weight: bold;">✓</td>
                             <td style="padding: 5px 0 5px 8px; font-size: 14px; line-height: 20px; color: #cbd5e1;">
-                              <strong style="color: #ffffff;">Automated Hook &amp; Segment Detection:</strong> AI extracts the most compelling moments from podcasts, streams, and YouTube videos.
+                              <strong style="color: #ffffff;">AI Hook &amp; Virality Scoring (0–100):</strong> Faster-Whisper CUDA, Nex-N2.5-Pro VLM &amp; Qwen 27B isolate high-retention hooks.
                             </td>
                           </tr>
                           <tr>
                             <td style="padding: 5px 0; vertical-align: top; width: 20px; color: #22c55e; font-size: 16px; font-weight: bold;">✓</td>
                             <td style="padding: 5px 0 5px 8px; font-size: 14px; line-height: 20px; color: #cbd5e1;">
-                              <strong style="color: #ffffff;">Smart 9:16 Re-Framing:</strong> Automatically centers the active speaker and product in vertical frame.
+                              <strong style="color: #ffffff;">Smart Auto-Reframe (9:16, 1:1 &amp; 16:9):</strong> Active face &amp; speaker tracking keeps subjects centered cleanly.
                             </td>
                           </tr>
                           <tr>
                             <td style="padding: 5px 0; vertical-align: top; width: 20px; color: #ffffff; font-size: 16px; font-weight: bold;">✓</td>
                             <td style="padding: 5px 0 5px 8px; font-size: 14px; line-height: 20px; color: #cbd5e1;">
-                              <strong style="color: #ffffff;">Kinetic Word-Sync Captions:</strong> Animated subtitles in viral creator styles (Hormozi, Dev).
+                              <strong style="color: #ffffff;">Kinetic Word-Sync Captions:</strong> Presets including Viral Impact Gold, Creator Neon, Minimal Clean &amp; Red Alert.
                             </td>
                           </tr>
                           <tr>
                             <td style="padding: 5px 0; vertical-align: top; width: 20px; color: #58a6ff; font-size: 16px; font-weight: bold;">✓</td>
                             <td style="padding: 5px 0 5px 8px; font-size: 14px; line-height: 20px; color: #cbd5e1;">
-                              <strong style="color: #58a6ff;">Fair Pay-On-Ready Pricing:</strong> Free AI preview. No $49/month subscriptions. Pay only $4.50 to unlock 1080p 60fps exports with zero watermarks.
+                              <strong style="color: #58a6ff;">Transparent Pay-Per-Video ($4.50/video):</strong> Zero $39–$50/month subscriptions. Full studio editor &amp; unlimited 1080p 60fps watermark-free exports.
                             </td>
                           </tr>
                         </table>
@@ -400,7 +400,7 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
                           <tr>
                             <td align="center" style="border-radius: 8px; background-color: #58a6ff;">
                               <a href="https://quvirl.com/videolab" target="_blank" class="btn-block" style="display: inline-block; padding: 11px 22px; font-size: 13px; font-weight: 800; color: #000000; text-decoration: none; border-radius: 8px;">
-                                Try AI Video Lab (Free Preview) →
+                                Launch AI Video Lab ($4.50/video) →
                               </a>
                             </td>
                           </tr>
@@ -424,7 +424,7 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
                     Ready to scale your content &amp; store?
                   </h3>
                   <p style="margin: 0 0 20px 0; font-size: 14px; line-height: 22px; color: #94a3b8; max-width: 450px; margin-left: auto; margin-right: auto;">
-                    Research winning products completely free, or upload any video to preview AI-generated viral shorts in under 2 minutes.
+                    Research 1,500+ winning products completely free on Product Radar, or unlock AI Video Lab on demand at $4.50/video with zero monthly subscriptions.
                   </p>
                   <table role="presentation" border="0" cellpadding="0" cellspacing="0" align="center" style="margin: 0 auto;">
                     <tr>
@@ -436,7 +436,7 @@ export function buildEcommerceHtmlEmail(brandName, subject) {
                     </tr>
                   </table>
                   <p style="margin: 16px 0 0 0; font-size: 12px; color: #64748b;">
-                    Free Product Research &bull; Free Video Preview &bull; Pay-On-Ready ($4.50 to unlock) &bull; No $49/mo sub
+                    Product Radar ($0 Free Forever) &bull; AI Video Lab ($4.50/video) &bull; Zero Subscriptions &bull; Zero Watermarks
                   </p>
                 </td>
               </tr>
