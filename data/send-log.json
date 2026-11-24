@@ -3302,5 +3302,12 @@
     "status": "sent",
     "sentAt": "2026-11-24T06:07:02.934Z",
     "messageId": "<067d1fd6-e140-5882-6674-385268cd71d6@quvirl.com>"
+  },
+  {
+    "prospectId": "f632f64810439e68a823",
+    "email": "info@wishbonespet.com",
+    "status": "sent",
+    "sentAt": "2026-11-24T14:18:31.908Z",
+    "messageId": "<980ae8ae-fafc-36cc-13d2-75c1208e6793@quvirl.com>"
   }
 ]
