@@ -3295,5 +3295,12 @@
     "status": "sent",
     "sentAt": "2026-11-22T03:20:08.888Z",
     "messageId": "<eeaa9648-a5e7-d033-4c92-2dda507c0683@quvirl.com>"
+  },
+  {
+    "prospectId": "88524f39dd7e592ac5c7",
+    "email": "team@benchfitness.com",
+    "status": "sent",
+    "sentAt": "2026-11-24T06:07:02.934Z",
+    "messageId": "<067d1fd6-e140-5882-6674-385268cd71d6@quvirl.com>"
   }
 ]
