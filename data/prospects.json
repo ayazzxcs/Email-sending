@@ -8365,9 +8365,10 @@
     "storeUrl": "https://www.youtube.com/watch",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:13.422Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "71dded299d876f9c109d",
@@ -8380,9 +8381,10 @@
     "storeUrl": "https://open.spotify.com/show/7wgg402Hyr7PtFr9BZjft3",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:13.423Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "b6194bcea487091ddd15",
@@ -8395,9 +8397,10 @@
     "storeUrl": "https://bsky.app/profile/inspiringtimmy.bsky.social",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:13.681Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "45c455c720196c997bbb",
@@ -8410,9 +8413,10 @@
     "storeUrl": "https://www.youtube.com/@SuntyDreams",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:13.955Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "262572f8296cab23a78e",
@@ -8425,9 +8429,10 @@
     "storeUrl": "https://www.youtube.com/@TheLittlePlatoon",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:13.956Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "5e3aca61ac94d38b0d3b",
@@ -8440,9 +8445,10 @@
     "storeUrl": "https://www.youtube.com/watch",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:13.956Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "ef30d239a2e099ed55a9",
@@ -8455,9 +8461,10 @@
     "storeUrl": "https://www.youtube.com/shorts/ZAlnJT6wriY",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:14.616Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "04cc0ed2014899c9a916",
@@ -8470,9 +8477,10 @@
     "storeUrl": "https://www.youtube.com/shorts/PF6asFgcrQI",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:14.617Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "5cb4b75879d881edf712",
@@ -8485,9 +8493,10 @@
     "storeUrl": "https://www.youtube.com/watch",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:14.617Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "f42157b00124a97fe8f5",
@@ -8500,9 +8509,10 @@
     "storeUrl": "https://www.youtube.com/shorts/eyEBoWZ30eY",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:14.617Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "30409e51c4509fe10928",
@@ -8515,9 +8525,10 @@
     "storeUrl": "https://www.youtube.com/shorts/r_COtvv5Lpk",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T12:51:14.617Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "e6068a58b0e7c9c72e00",
@@ -8530,9 +8541,10 @@
     "storeUrl": "https://www.datacaptive.com/technology-users-email-list/shopify-users-email-list",
     "source": "public creator page via SearXNG",
     "discoveredAt": "2026-11-25T12:52:35.985Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "c9ad98174a855da47104",
@@ -8545,9 +8557,10 @@
     "storeUrl": "https://www.datacaptive.com/technology-users-email-list/shopify-users-email-list",
     "source": "public creator page via SearXNG",
     "discoveredAt": "2026-11-25T12:52:35.986Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "8fcad6efde838bd515b7",
@@ -8560,9 +8573,10 @@
     "storeUrl": "https://www.makebecool.com/blog/how-to-add-contact-form-to-shopify-store",
     "source": "public creator page via SearXNG",
     "discoveredAt": "2026-11-25T12:53:00.166Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "968e1e5a3a000a78a0b8",
@@ -8572,9 +8586,10 @@
     "audience": "ecommerce",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-25T12:54:05.102Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "01abcb1123912084f07c",
@@ -8584,9 +8599,10 @@
     "audience": "ecommerce",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-25T12:54:05.102Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "7c0b1499664db250e333",
@@ -8599,9 +8615,10 @@
     "storeUrl": "https://www.novo.co/best-bank-for/pet-stores",
     "source": "public creator page via SearXNG",
     "discoveredAt": "2026-11-25T12:54:41.746Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "07701e08413a371970d2",
@@ -8614,9 +8631,10 @@
     "storeUrl": "https://www.novo.co/best-bank-for/pet-stores",
     "source": "public creator page via SearXNG",
     "discoveredAt": "2026-11-25T12:54:41.746Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   },
   {
     "id": "414d0c7acd3cb97df6c2",
@@ -8629,8 +8647,9 @@
     "storeUrl": "https://shopify.ecom-store.pro/blog/shopify-pet-store",
     "source": "public creator page via SearXNG",
     "discoveredAt": "2026-11-25T12:54:49.676Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-25T19:25:52.859Z"
   }
 ]
