@@ -8682,9 +8682,10 @@
     "storeUrl": "https://open.spotify.com/show/033o4cARbndmZqTgGbsj6Z",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:19.962Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T02:54:38.159Z"
   },
   {
     "id": "5a029479bf9f57000e6e",
@@ -8697,9 +8698,10 @@
     "storeUrl": "https://music.youtube.com/podcast/S1jI3-lQYxI",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:20.830Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T02:54:38.159Z"
   },
   {
     "id": "2653f909d742612039ce",
@@ -8712,9 +8714,10 @@
     "storeUrl": "https://www.youtube.com/shorts/g34zEZuTJ4w",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:20.831Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T02:54:38.159Z"
   },
   {
     "id": "bdeefb114f6917684e30",
@@ -8727,9 +8730,10 @@
     "storeUrl": "https://www.youtube.com/shorts/rhV_0pxsJ20",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:20.831Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T02:54:38.159Z"
   },
   {
     "id": "ed7e6f298a682861a12c",
@@ -8742,9 +8746,10 @@
     "storeUrl": "https://www.instagram.com/charjie_",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:21.157Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T02:54:38.159Z"
   },
   {
     "id": "095b10579dfc8f7c4197",
@@ -8757,8 +8762,9 @@
     "storeUrl": "https://www.instagram.com/zolastonemusic",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:21.157Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T02:54:38.159Z"
   }
 ]
