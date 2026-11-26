@@ -8784,9 +8784,10 @@
     "storeUrl": "https://www.youtube.com/watch",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T05:01:25.087Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T12:51:55.990Z"
   },
   {
     "id": "faad6f2f48a965ddd7c6",
@@ -8799,9 +8800,10 @@
     "storeUrl": "https://www.instagram.com/dranime00",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T05:01:25.654Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T12:51:55.990Z"
   },
   {
     "id": "19073a84ef71d6797217",
@@ -8814,9 +8816,10 @@
     "storeUrl": "https://www.youtube.com/@soccerzombiestl",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T05:01:25.655Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T12:51:55.990Z"
   },
   {
     "id": "58f5cff6b66dbce797d1",
@@ -8829,9 +8832,10 @@
     "storeUrl": "https://www.youtube.com/shorts/gwNgGVhoDSQ",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T05:01:26.160Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T12:51:55.990Z"
   },
   {
     "id": "f021c4ea6beea9b96983",
@@ -8844,9 +8848,10 @@
     "storeUrl": "https://www.youtube.com/shorts/tXhj8-GaavY",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T05:01:26.161Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T12:51:55.990Z"
   },
   {
     "id": "2eeb52a2b82a4827b696",
@@ -8856,8 +8861,9 @@
     "audience": "ecommerce",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-26T05:04:47.704Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T12:51:55.990Z"
   }
 ]
