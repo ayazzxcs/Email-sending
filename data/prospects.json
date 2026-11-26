@@ -8682,10 +8682,11 @@
     "storeUrl": "https://open.spotify.com/show/033o4cARbndmZqTgGbsj6Z",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:19.962Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-26T02:54:38.159Z"
+    "approvedAt": "2026-11-26T02:54:38.159Z",
+    "lastSentAt": "2026-11-26T05:04:56.372Z"
   },
   {
     "id": "5a029479bf9f57000e6e",
@@ -8698,10 +8699,11 @@
     "storeUrl": "https://music.youtube.com/podcast/S1jI3-lQYxI",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:20.830Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-26T02:54:38.159Z"
+    "approvedAt": "2026-11-26T02:54:38.159Z",
+    "lastSentAt": "2026-11-26T05:05:42.116Z"
   },
   {
     "id": "2653f909d742612039ce",
@@ -8714,10 +8716,11 @@
     "storeUrl": "https://www.youtube.com/shorts/g34zEZuTJ4w",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:20.831Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-26T02:54:38.159Z"
+    "approvedAt": "2026-11-26T02:54:38.159Z",
+    "lastSentAt": "2026-11-26T05:06:27.862Z"
   },
   {
     "id": "bdeefb114f6917684e30",
@@ -8730,10 +8733,11 @@
     "storeUrl": "https://www.youtube.com/shorts/rhV_0pxsJ20",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:20.831Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-26T02:54:38.159Z"
+    "approvedAt": "2026-11-26T02:54:38.159Z",
+    "lastSentAt": "2026-11-26T05:07:13.537Z"
   },
   {
     "id": "ed7e6f298a682861a12c",
@@ -8746,10 +8750,11 @@
     "storeUrl": "https://www.instagram.com/charjie_",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:21.157Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-26T02:54:38.159Z"
+    "approvedAt": "2026-11-26T02:54:38.159Z",
+    "lastSentAt": "2026-11-26T05:07:59.227Z"
   },
   {
     "id": "095b10579dfc8f7c4197",
@@ -8762,9 +8767,97 @@
     "storeUrl": "https://www.instagram.com/zolastonemusic",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-25T22:30:21.157Z",
-    "status": "new",
+    "status": "sent",
     "eligible": true,
     "legalBasis": "Batch reviewed and approved by repository owner",
-    "approvedAt": "2026-11-26T02:54:38.159Z"
+    "approvedAt": "2026-11-26T02:54:38.159Z",
+    "lastSentAt": "2026-11-26T05:08:44.820Z"
+  },
+  {
+    "id": "a6faa31609d03bef82e3",
+    "email": "stepbyclickbusiness@gmail.com",
+    "creatorName": "Stepbyclickbusiness",
+    "creatorUrl": "https://www.youtube.com/watch",
+    "creatorType": "youtuber",
+    "audience": "creator",
+    "storeName": "Stepbyclickbusiness",
+    "storeUrl": "https://www.youtube.com/watch",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-26T05:01:25.087Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "faad6f2f48a965ddd7c6",
+    "email": "-dranime00business@gmail.com",
+    "creatorName": "Dra Woods",
+    "creatorUrl": "https://www.instagram.com/dranime00",
+    "creatorType": "influencer",
+    "audience": "creator",
+    "storeName": "Dra Woods",
+    "storeUrl": "https://www.instagram.com/dranime00",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-26T05:01:25.654Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "19073a84ef71d6797217",
+    "email": "soccerzombiestl@gmail.com",
+    "creatorName": "Soccer Zombie",
+    "creatorUrl": "https://www.youtube.com/@soccerzombiestl",
+    "creatorType": "youtuber",
+    "audience": "creator",
+    "storeName": "Soccer Zombie",
+    "storeUrl": "https://www.youtube.com/@soccerzombiestl",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-26T05:01:25.655Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "58f5cff6b66dbce797d1",
+    "email": "remvalbusiness@gmail.com",
+    "creatorName": "Shorts",
+    "creatorUrl": "https://www.youtube.com/shorts/gwNgGVhoDSQ",
+    "creatorType": "youtuber",
+    "audience": "creator",
+    "storeName": "Shorts",
+    "storeUrl": "https://www.youtube.com/shorts/gwNgGVhoDSQ",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-26T05:01:26.160Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "f021c4ea6beea9b96983",
+    "email": "ghavennerpro@gmail.com",
+    "creatorName": "Deadlock Tips for Noobs #34",
+    "creatorUrl": "https://www.youtube.com/shorts/tXhj8-GaavY",
+    "creatorType": "youtuber",
+    "audience": "creator",
+    "storeName": "Deadlock Tips for Noobs #34",
+    "storeUrl": "https://www.youtube.com/shorts/tXhj8-GaavY",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-26T05:01:26.161Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
+  },
+  {
+    "id": "2eeb52a2b82a4827b696",
+    "email": "hello@nixir.io",
+    "storeName": "Best Shopify themes for pet stores (2026) | Nixir.io",
+    "storeUrl": "https://nixir.io",
+    "audience": "ecommerce",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-26T05:04:47.704Z",
+    "status": "review_required",
+    "eligible": false,
+    "legalBasis": ""
   }
 ]
