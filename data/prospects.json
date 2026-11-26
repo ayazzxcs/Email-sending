@@ -8883,9 +8883,10 @@
     "storeUrl": "https://www.youtube.com/channel/UCoEue9wUwW8qE9pzHfb0vIA",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T15:12:36.736Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T22:26:25.972Z"
   },
   {
     "id": "83731b55d9f73e22c525",
@@ -8898,9 +8899,10 @@
     "storeUrl": "https://www.youtube.com/channel/UCaThRBMEp21yRK4seqq3-Sw",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T15:12:36.983Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T22:26:25.972Z"
   },
   {
     "id": "b36795ebbdb3d38f7b5c",
@@ -8913,9 +8915,10 @@
     "storeUrl": "https://open.spotify.com/show/5LsMWoNa5qPw1jQvqhwE5B",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T15:12:36.983Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T22:26:25.972Z"
   },
   {
     "id": "97099219758a2b1079a8",
@@ -8928,9 +8931,10 @@
     "storeUrl": "https://www.youtube.com/@ariaisdelux",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T15:12:36.983Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T22:26:25.972Z"
   },
   {
     "id": "63467e98d7e0faf1b613",
@@ -8943,9 +8947,10 @@
     "storeUrl": "https://www.youtube.com/watch",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T15:12:37.274Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T22:26:25.972Z"
   },
   {
     "id": "26872042978a2b26b9ce",
@@ -8958,9 +8963,10 @@
     "storeUrl": "https://www.instagram.com/bridgetmarquardt",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T15:12:37.274Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T22:26:25.972Z"
   },
   {
     "id": "c23e281bd33f468d9ca5",
@@ -8973,8 +8979,9 @@
     "storeUrl": "https://www.youtube.com/shorts/S_GgViB3aHg",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T15:12:37.575Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-26T22:26:25.972Z"
   }
 ]
