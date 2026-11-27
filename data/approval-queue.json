@@ -1,1 +1,122 @@
-[]
+[
+  {
+    "id": "4c65f9e7475522390002",
+    "email": "arisedota@gmail.com",
+    "audience": "creator",
+    "creatorName": "Ar1sedota",
+    "creatorUrl": "https://www.twitch.tv/ar1sedota",
+    "creatorType": "streamer",
+    "storeName": "Ar1sedota",
+    "storeUrl": "https://www.twitch.tv/ar1sedota",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.029Z"
+  },
+  {
+    "id": "755f23c84a80fe7cea82",
+    "email": "squashyboy20005@gmail.com",
+    "audience": "creator",
+    "creatorName": "Squashy Boy",
+    "creatorUrl": "https://www.youtube.com/SquashyBoy",
+    "creatorType": "youtuber",
+    "storeName": "Squashy Boy",
+    "storeUrl": "https://www.youtube.com/SquashyBoy",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.030Z"
+  },
+  {
+    "id": "8ba10b6ecc4de644f597",
+    "email": "elenagantcontact@gmail.com",
+    "audience": "creator",
+    "creatorName": "Elena Gant",
+    "creatorUrl": "https://www.instagram.com/gantelena",
+    "creatorType": "influencer",
+    "storeName": "Elena Gant",
+    "storeUrl": "https://www.instagram.com/gantelena",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.337Z"
+  },
+  {
+    "id": "e9a1805773e51021d3b6",
+    "email": "zainmhz.info@gmail.com",
+    "audience": "creator",
+    "creatorName": "thall 25000 #thall",
+    "creatorUrl": "https://www.youtube.com/shorts/PsVcw_FNIYs",
+    "creatorType": "youtuber",
+    "storeName": "thall 25000 #thall",
+    "storeUrl": "https://www.youtube.com/shorts/PsVcw_FNIYs",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.608Z"
+  },
+  {
+    "id": "b79314ee946cba8608de",
+    "email": "projectmozz@gmail.com",
+    "audience": "creator",
+    "creatorName": "thall 25000 #thall",
+    "creatorUrl": "https://www.youtube.com/shorts/PsVcw_FNIYs",
+    "creatorType": "youtuber",
+    "storeName": "thall 25000 #thall",
+    "storeUrl": "https://www.youtube.com/shorts/PsVcw_FNIYs",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.608Z"
+  },
+  {
+    "id": "a20eb2013ed545cd829b",
+    "email": "mattandjesstv@gmail.com",
+    "audience": "creator",
+    "creatorName": "Matt & Jess TV",
+    "creatorUrl": "https://www.instagram.com/mattandjesstv",
+    "creatorType": "influencer",
+    "storeName": "Matt & Jess TV",
+    "storeUrl": "https://www.instagram.com/mattandjesstv",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.608Z"
+  },
+  {
+    "id": "afdf9502ef1b11b10e31",
+    "email": "jbsnetwork7@gmail.com",
+    "audience": "creator",
+    "creatorName": "Music",
+    "creatorUrl": "https://music.youtube.com/podcast/FFhvOMN6u50",
+    "creatorType": "youtuber",
+    "storeName": "Music",
+    "storeUrl": "https://music.youtube.com/podcast/FFhvOMN6u50",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.609Z"
+  },
+  {
+    "id": "caf15409e0de28680812",
+    "email": "reviewsonthisandthat@gmail.com",
+    "audience": "creator",
+    "creatorName": "Halloween Decor #21 #shorts",
+    "creatorUrl": "https://www.youtube.com/shorts/7BjXJkZI4Yw",
+    "creatorType": "youtuber",
+    "storeName": "Halloween Decor #21 #shorts",
+    "storeUrl": "https://www.youtube.com/shorts/7BjXJkZI4Yw",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.609Z"
+  },
+  {
+    "id": "302ca9a7b1c3f71efd64",
+    "email": "japhandskustoms@gmail.com",
+    "audience": "creator",
+    "creatorName": "Shorts",
+    "creatorUrl": "https://www.youtube.com/shorts/XYcNiIkm1yI",
+    "creatorType": "youtuber",
+    "storeName": "Shorts",
+    "storeUrl": "https://www.youtube.com/shorts/XYcNiIkm1yI",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.920Z"
+  },
+  {
+    "id": "d363a402061937a3a959",
+    "email": "waterjetmgmt@gmail.com",
+    "audience": "creator",
+    "creatorName": "100 Rubber Chicken Wheels",
+    "creatorUrl": "https://www.youtube.com/shorts/siKgfcoY9NU",
+    "creatorType": "youtuber",
+    "storeName": "100 Rubber Chicken Wheels",
+    "storeUrl": "https://www.youtube.com/shorts/siKgfcoY9NU",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T18:57:15.921Z"
+  }
+]

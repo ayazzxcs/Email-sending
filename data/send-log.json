@@ -4562,5 +4562,33 @@
     "status": "sent",
     "sentAt": "2026-11-27T08:38:34.752Z",
     "messageId": "<adcf03b7-9872-5b25-1105-aefc603f55d5@quvirl.com>"
+  },
+  {
+    "prospectId": "357a6320ba3fee45a85f",
+    "email": "hugofrostbusiness2001@gmail.com",
+    "status": "sent",
+    "sentAt": "2026-11-27T19:01:24.278Z",
+    "messageId": "<5b74519c-5907-0f75-26b6-52dfde52172a@quvirl.com>"
+  },
+  {
+    "prospectId": "d995ac3b0d88f68cdae2",
+    "email": "lady16glory@gmail.com",
+    "status": "sent",
+    "sentAt": "2026-11-27T19:02:10.357Z",
+    "messageId": "<582c882d-1dc5-7081-7192-63fe1ac079b8@quvirl.com>"
+  },
+  {
+    "prospectId": "0f79eabaa64f5b5f77a1",
+    "email": "danynovak.business@gmail.com",
+    "status": "sent",
+    "sentAt": "2026-11-27T19:02:56.558Z",
+    "messageId": "<813334f4-8360-ea2d-b9db-747500e98f10@quvirl.com>"
+  },
+  {
+    "prospectId": "06481fbf06735511b1ab",
+    "email": "support@ecomchief.com",
+    "status": "sent",
+    "sentAt": "2026-11-27T19:03:42.695Z",
+    "messageId": "<d1a84ac0-2652-2e87-b269-3bb6d634ef68@quvirl.com>"
   }
 ]
