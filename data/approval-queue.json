@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "id": "357a6320ba3fee45a85f",
+    "email": "hugofrostbusiness2001@gmail.com",
+    "audience": "creator",
+    "creatorName": "Hugofrost",
+    "creatorUrl": "https://www.youtube.com/channel/UCmgaB23dkGXjsH9CNSryh0Q/Hugofrost",
+    "creatorType": "youtuber",
+    "storeName": "Hugofrost",
+    "storeUrl": "https://www.youtube.com/channel/UCmgaB23dkGXjsH9CNSryh0Q/Hugofrost",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T08:27:26.454Z"
+  },
+  {
+    "id": "d995ac3b0d88f68cdae2",
+    "email": "lady16glory@gmail.com",
+    "audience": "creator",
+    "creatorName": "Glory",
+    "creatorUrl": "https://www.instagram.com/lady.glory_",
+    "creatorType": "influencer",
+    "storeName": "Glory",
+    "storeUrl": "https://www.instagram.com/lady.glory_",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T08:27:26.455Z"
+  },
+  {
+    "id": "0f79eabaa64f5b5f77a1",
+    "email": "danynovak.business@gmail.com",
+    "audience": "creator",
+    "creatorName": "That's Too Easy",
+    "creatorUrl": "https://www.youtube.com/shorts/J_1PJYK0TGU",
+    "creatorType": "youtuber",
+    "storeName": "That's Too Easy",
+    "storeUrl": "https://www.youtube.com/shorts/J_1PJYK0TGU",
+    "source": "public creator snippet via SearXNG",
+    "discoveredAt": "2026-11-27T08:27:26.684Z"
+  },
+  {
+    "id": "06481fbf06735511b1ab",
+    "email": "support@ecomchief.com",
+    "audience": "ecommerce",
+    "storeName": "Buy Ready-Made AI Pet Supplies Shopify Dropshipping Store – EcomChief",
+    "storeUrl": "https://ecomchief.com",
+    "source": "public website via SearXNG",
+    "discoveredAt": "2026-11-27T08:31:20.405Z"
+  }
+]
