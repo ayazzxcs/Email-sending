@@ -9172,9 +9172,10 @@
     "storeUrl": "https://www.youtube.com/channel/UCmgaB23dkGXjsH9CNSryh0Q/Hugofrost",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-27T08:27:26.454Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T15:17:19.350Z"
   },
   {
     "id": "d995ac3b0d88f68cdae2",
@@ -9187,9 +9188,10 @@
     "storeUrl": "https://www.instagram.com/lady.glory_",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-27T08:27:26.455Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T15:17:19.350Z"
   },
   {
     "id": "0f79eabaa64f5b5f77a1",
@@ -9202,9 +9204,10 @@
     "storeUrl": "https://www.youtube.com/shorts/J_1PJYK0TGU",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-27T08:27:26.684Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T15:17:19.350Z"
   },
   {
     "id": "06481fbf06735511b1ab",
@@ -9214,8 +9217,9 @@
     "audience": "ecommerce",
     "source": "public website via SearXNG",
     "discoveredAt": "2026-11-27T08:31:20.405Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T15:17:19.350Z"
   }
 ]
