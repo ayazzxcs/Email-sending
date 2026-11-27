@@ -9002,9 +9002,10 @@
     "storeUrl": "https://www.youtube.com/channel/UCeNgRHpH7OHZetYjC5JZXGw",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:46.416Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "48ba1c4d767b852a9c5e",
@@ -9017,9 +9018,10 @@
     "storeUrl": "https://m.youtube.com/watch",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:46.417Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "98aa73d42462d0bbf13a",
@@ -9032,9 +9034,10 @@
     "storeUrl": "https://www.instagram.com/justgkue",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:46.760Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "d778f683e10ee7faf681",
@@ -9047,9 +9050,10 @@
     "storeUrl": "https://www.youtube.com/@ShoDesu",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:47.121Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "94a37862b087a6a6c1c2",
@@ -9062,9 +9066,10 @@
     "storeUrl": "https://www.youtube.com/channel/UCK8wU-vSG7XffJQKSyrwmYw",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:47.121Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "ddc14b09e3d03bef32cc",
@@ -9077,9 +9082,10 @@
     "storeUrl": "https://www.youtube.com/channel/UCCYcACSTbuUQEiCnp893Ewg",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:47.121Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "28e4fd69fc7627bd3a9b",
@@ -9092,9 +9098,10 @@
     "storeUrl": "https://www.youtube.com/@naziyahkahliya",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:47.458Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "043e52d274d176d3326e",
@@ -9107,9 +9114,10 @@
     "storeUrl": "https://www.instagram.com/aprylsjones",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:47.722Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "b3aac57b2f70c92d7bc2",
@@ -9122,9 +9130,10 @@
     "storeUrl": "https://www.youtube.com/shorts/WBwL6-7sF1o",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:47.722Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   },
   {
     "id": "1f28de841de56417939a",
@@ -9137,8 +9146,9 @@
     "storeUrl": "https://www.youtube.com/shorts/kDOK_N7NZwc",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-26T23:50:47.723Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-27T05:08:51.951Z"
   }
 ]
