@@ -9407,9 +9407,10 @@
     "storeUrl": "https://www.instagram.com/syraismith",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-28T01:58:10.550Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-28T08:03:34.434Z"
   },
   {
     "id": "c91dae1bbda207fca5c8",
@@ -9422,9 +9423,10 @@
     "storeUrl": "https://x.com/TheDirector_YT",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-28T01:58:10.909Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-28T08:03:34.434Z"
   },
   {
     "id": "5f21600d6ff538740ec2",
@@ -9437,9 +9439,10 @@
     "storeUrl": "https://www.instagram.com/cynsantana",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-28T01:58:11.219Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-28T08:03:34.434Z"
   },
   {
     "id": "b5d0efd85213d56e44b3",
@@ -9452,9 +9455,10 @@
     "storeUrl": "https://www.youtube.com/watch",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-28T01:58:11.474Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-28T08:03:34.434Z"
   },
   {
     "id": "f9c3cc0b52177b9fd1c0",
@@ -9467,8 +9471,9 @@
     "storeUrl": "https://www.instagram.com/lastnerdnyc",
     "source": "public creator snippet via SearXNG",
     "discoveredAt": "2026-11-28T01:58:11.837Z",
-    "status": "review_required",
-    "eligible": false,
-    "legalBasis": ""
+    "status": "new",
+    "eligible": true,
+    "legalBasis": "Batch reviewed and approved by repository owner",
+    "approvedAt": "2026-11-28T08:03:34.434Z"
   }
 ]
